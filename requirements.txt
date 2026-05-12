@@ -1,0 +1,19 @@
+torch>=2.1.0
+torchvision>=0.16.0
+transformers>=4.40.0
+accelerate>=0.28.0
+sentencepiece>=0.1.99
+protobuf>=3.20.0
+# SAM 2 se instala via git (no disponible en PyPI):
+#   git clone https://github.com/facebookresearch/sam2.git
+#   cd sam2 && pip install -e .
+# sam2 (instalado desde repo)
+Pillow>=10.0.0
+numpy>=1.24.0
+matplotlib>=3.7.0
+scipy>=1.10.0
+tqdm>=4.65.0
+einops>=0.7.0
+huggingface_hub>=0.20.0
+pytest>=7.0.0
+pytest-cov>=4.0.0
