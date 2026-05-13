@@ -9,13 +9,18 @@ Fase 1 — Tarea 1.3
 - Preprocesamiento: 448×448, misma normalización que MedSigLIP
 """
 
+import logging
 import torch
 import numpy as np
 from transformers import AutoProcessor, SiglipVisionModel
 
+logger = logging.getLogger(__name__)
+
+EXPECTED_EMBEDDING_DIM = 768
+
 
 class MaskFeatureExtractor:
-    """Extrae embeddings 768-dim de máscaras usando MedSigLIP standalone."""
+    """Extrae embeddings de máscaras usando MedSigLIP standalone."""
 
     DEFAULT_MODEL_ID = "google/medsiglip-448"
 
@@ -24,10 +29,14 @@ class MaskFeatureExtractor:
         self.device = device
         self.model = None
         self.processor = None
+        self.embedding_dim = None
 
     def load(self):
         """
         Carga MedSigLIP standalone desde HuggingFace.
+
+        Verifica que la dimensión de embedding sea la esperada (768).
+        Si no lo es, registra advertencia y ajusta embedding_dim al valor real.
 
         Returns:
             tuple: (model, processor)
@@ -38,6 +47,16 @@ class MaskFeatureExtractor:
         ).to(self.device)
         self.model.eval()
         self.processor = AutoProcessor.from_pretrained(self.model_id)
+
+        # Verificar dimensión de embedding
+        self.embedding_dim = self.model.config.hidden_size
+        if self.embedding_dim != EXPECTED_EMBEDDING_DIM:
+            logger.warning(
+                "MedSigLIP embedding dim = %d, esperado = %d. "
+                "Se usará la dimensión real. Ajustar KDE y text_encoder.",
+                self.embedding_dim, EXPECTED_EMBEDDING_DIM,
+            )
+
         return self.model, self.processor
 
     def extract(self, image: np.ndarray, mask: np.ndarray) -> torch.Tensor:
@@ -49,7 +68,7 @@ class MaskFeatureExtractor:
             mask: np.ndarray (H, W) — máscara binaria (bool o 0/1)
 
         Returns:
-            torch.Tensor (768,) — embedding de la máscara
+            torch.Tensor (embedding_dim,) — embedding de la máscara
         """
         if self.model is None:
             raise RuntimeError("Modelo no cargado. Llama a load() primero.")
@@ -68,8 +87,19 @@ class MaskFeatureExtractor:
         with torch.no_grad():
             outputs = self.model(**inputs)
 
-        # pooler_output: (1, 768) → squeeze a (768,)
-        return outputs.pooler_output.squeeze(0).float()
+        # pooler_output: (1, dim) → squeeze a (dim,)
+        emb = outputs.pooler_output.squeeze(0).float()
+
+        # Verificar dimensión en runtime
+        if emb.shape[-1] != self.embedding_dim:
+            logger.warning(
+                "pooler_output dim=%d != config.hidden_size=%d. "
+                "Usando last_hidden_state[:, 0, :].",
+                emb.shape[-1], self.embedding_dim,
+            )
+            emb = outputs.last_hidden_state[:, 0, :].squeeze(0).float()
+
+        return emb
 
     def extract_batch(self, image: np.ndarray, masks: list) -> torch.Tensor:
         """
@@ -77,10 +107,10 @@ class MaskFeatureExtractor:
 
         Args:
             image: np.ndarray (H, W, 3) RGB
-            masks: List[np.ndarray] — lista de máscaras binarias
+            masks: List[np.ndarray o dict] — máscaras binarias
 
         Returns:
-            torch.Tensor (N, 768) — embeddings de todas las máscaras
+            torch.Tensor (N, embedding_dim) — embeddings de todas las máscaras
         """
         embeddings = []
         for mask in masks:
@@ -96,4 +126,5 @@ class MaskFeatureExtractor:
         del self.processor
         self.model = None
         self.processor = None
+        self.embedding_dim = None
         torch.cuda.empty_cache()

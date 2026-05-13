@@ -9,6 +9,7 @@ Fase 4 — Tareas 4.1, 4.2, 4.3
 
 from opcion_A.pathology_parser import parse_pathology
 from opcion_A.cosine_fusion import rank_masks_by_cosine
+from opcion_A.fd_uncertainty import FDUncertaintyEstimator
 
 
 class MultiPathologyPipeline:
@@ -17,10 +18,12 @@ class MultiPathologyPipeline:
     y encuentra la mejor máscara para cada una.
     """
 
-    def __init__(self, fd_bank, scorer, feature_extractor):
+    def __init__(self, fd_bank, scorer, feature_extractor,
+                 fd_uq: FDUncertaintyEstimator = None):
         self.fd_bank = fd_bank
         self.scorer = scorer
         self.feature_extractor = feature_extractor
+        self.fd_uq = fd_uq or FDUncertaintyEstimator()
 
     def process(self, image, medgemma_text: str, candidate_masks: list,
                 text_emb) -> list:
@@ -31,7 +34,7 @@ class MultiPathologyPipeline:
             image: np.ndarray — imagen original
             medgemma_text: str — texto diagnóstico de MedGemma
             candidate_masks: List[dict] — máscaras de SAM 2
-            text_emb: torch.Tensor (1, 768) — embedding del texto
+            text_emb: torch.Tensor (1, dim) — embedding del texto
 
         Returns:
             List[dict] — una entrada por patología detectada con:
@@ -46,6 +49,7 @@ class MultiPathologyPipeline:
             if not self.fd_bank.has_pathology(pathology):
                 continue
 
+            entry = self.fd_bank.entries[pathology]
             best_result = None
             best_score = float('-inf')
 
@@ -63,19 +67,24 @@ class MultiPathologyPipeline:
                            self.scorer.beta * s_cos +
                            self.scorer.gamma * s_sam)
 
-                # TODO: Integrar FD-Uncertainty (Tarea 2.4)
-                u_comp = 0.0  # placeholder
+                # FD-Uncertainty (señales distribucionales, 0 forward passes)
+                u_composite, u_components = self.fd_uq.estimate(
+                    emb, entry['kde'], entry['ood'], entry['support_embs'],
+                    s_fsl, s_cos, s_sam,
+                )
 
                 if (s_total >= self.scorer.tau and
                         fd_result['in_ood'] and
-                        u_comp <= 0.5):
+                        u_composite <= 0.5):
                     if s_total > best_score:
                         best_score = s_total
                         best_result = {
                             'pathology': pathology,
                             'mask': mask_dict,
+                            'mask_idx': i,
                             'score': s_total,
-                            'uncertainty': u_comp,
+                            'uncertainty': u_composite,
+                            'uq_components': u_components,
                             's_fsl': s_fsl,
                             's_cos': s_cos,
                             's_sam': s_sam,
