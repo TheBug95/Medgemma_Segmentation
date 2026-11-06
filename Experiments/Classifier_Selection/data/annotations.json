@@ -1,0 +1,6802 @@
+{
+  "g0001": {
+    "image_filename": "g0001.jpg",
+    "label": "glaucoma",
+    "mask_path": "train/Masks/g0001.png",
+    "split": "train"
+  },
+  "g0002": {
+    "image_filename": "g0002.jpg",
+    "label": "glaucoma",
+    "mask_path": "train/Masks/g0002.png",
+    "split": "train"
+  },
+  "g0003": {
+    "image_filename": "g0003.jpg",
+    "label": "glaucoma",
+    "mask_path": "train/Masks/g0003.png",
+    "split": "train"
+  },
+  "g0004": {
+    "image_filename": "g0004.jpg",
+    "label": "glaucoma",
+    "mask_path": "train/Masks/g0004.png",
+    "split": "train"
+  },
+  "g0005": {
+    "image_filename": "g0005.jpg",
+    "label": "glaucoma",
+    "mask_path": "train/Masks/g0005.png",
+    "split": "train"
+  },
+  "g0006": {
+    "image_filename": "g0006.jpg",
+    "label": "glaucoma",
+    "mask_path": "train/Masks/g0006.png",
+    "split": "train"
+  },
+  "g0007": {
+    "image_filename": "g0007.jpg",
+    "label": "glaucoma",
+    "mask_path": "train/Masks/g0007.png",
+    "split": "train"
+  },
+  "g0008": {
+    "image_filename": "g0008.jpg",
+    "label": "glaucoma",
+    "mask_path": "train/Masks/g0008.png",
+    "split": "train"
+  },
+  "g0009": {
+    "image_filename": "g0009.jpg",
+    "label": "glaucoma",
+    "mask_path": "train/Masks/g0009.png",
+    "split": "train"
+  },
+  "g0010": {
+    "image_filename": "g0010.jpg",
+    "label": "glaucoma",
+    "mask_path": "train/Masks/g0010.png",
+    "split": "train"
+  },
+  "g0011": {
+    "image_filename": "g0011.jpg",
+    "label": "glaucoma",
+    "mask_path": "train/Masks/g0011.png",
+    "split": "train"
+  },
+  "g0012": {
+    "image_filename": "g0012.jpg",
+    "label": "glaucoma",
+    "mask_path": "train/Masks/g0012.png",
+    "split": "train"
+  },
+  "g0013": {
+    "image_filename": "g0013.jpg",
+    "label": "glaucoma",
+    "mask_path": "train/Masks/g0013.png",
+    "split": "train"
+  },
+  "g0014": {
+    "image_filename": "g0014.jpg",
+    "label": "glaucoma",
+    "mask_path": "train/Masks/g0014.png",
+    "split": "train"
+  },
+  "g0015": {
+    "image_filename": "g0015.jpg",
+    "label": "glaucoma",
+    "mask_path": "train/Masks/g0015.png",
+    "split": "train"
+  },
+  "g0016": {
+    "image_filename": "g0016.jpg",
+    "label": "glaucoma",
+    "mask_path": "train/Masks/g0016.png",
+    "split": "train"
+  },
+  "g0017": {
+    "image_filename": "g0017.jpg",
+    "label": "glaucoma",
+    "mask_path": "train/Masks/g0017.png",
+    "split": "train"
+  },
+  "g0018": {
+    "image_filename": "g0018.jpg",
+    "label": "glaucoma",
+    "mask_path": "train/Masks/g0018.png",
+    "split": "train"
+  },
+  "g0019": {
+    "image_filename": "g0019.jpg",
+    "label": "glaucoma",
+    "mask_path": "train/Masks/g0019.png",
+    "split": "train"
+  },
+  "g0020": {
+    "image_filename": "g0020.jpg",
+    "label": "glaucoma",
+    "mask_path": "train/Masks/g0020.png",
+    "split": "train"
+  },
+  "g0021": {
+    "image_filename": "g0021.jpg",
+    "label": "glaucoma",
+    "mask_path": "train/Masks/g0021.png",
+    "split": "train"
+  },
+  "g0022": {
+    "image_filename": "g0022.jpg",
+    "label": "glaucoma",
+    "mask_path": "train/Masks/g0022.png",
+    "split": "train"
+  },
+  "g0023": {
+    "image_filename": "g0023.jpg",
+    "label": "glaucoma",
+    "mask_path": "train/Masks/g0023.png",
+    "split": "train"
+  },
+  "g0024": {
+    "image_filename": "g0024.jpg",
+    "label": "glaucoma",
+    "mask_path": "train/Masks/g0024.png",
+    "split": "train"
+  },
+  "g0025": {
+    "image_filename": "g0025.jpg",
+    "label": "glaucoma",
+    "mask_path": "train/Masks/g0025.png",
+    "split": "train"
+  },
+  "g0026": {
+    "image_filename": "g0026.jpg",
+    "label": "glaucoma",
+    "mask_path": "train/Masks/g0026.png",
+    "split": "train"
+  },
+  "g0027": {
+    "image_filename": "g0027.jpg",
+    "label": "glaucoma",
+    "mask_path": "train/Masks/g0027.png",
+    "split": "train"
+  },
+  "g0028": {
+    "image_filename": "g0028.jpg",
+    "label": "glaucoma",
+    "mask_path": "train/Masks/g0028.png",
+    "split": "train"
+  },
+  "g0029": {
+    "image_filename": "g0029.jpg",
+    "label": "glaucoma",
+    "mask_path": "train/Masks/g0029.png",
+    "split": "train"
+  },
+  "g0030": {
+    "image_filename": "g0030.jpg",
+    "label": "glaucoma",
+    "mask_path": "train/Masks/g0030.png",
+    "split": "train"
+  },
+  "g0031": {
+    "image_filename": "g0031.jpg",
+    "label": "glaucoma",
+    "mask_path": "train/Masks/g0031.png",
+    "split": "train"
+  },
+  "g0032": {
+    "image_filename": "g0032.jpg",
+    "label": "glaucoma",
+    "mask_path": "train/Masks/g0032.png",
+    "split": "train"
+  },
+  "g0033": {
+    "image_filename": "g0033.jpg",
+    "label": "glaucoma",
+    "mask_path": "train/Masks/g0033.png",
+    "split": "train"
+  },
+  "g0034": {
+    "image_filename": "g0034.jpg",
+    "label": "glaucoma",
+    "mask_path": "train/Masks/g0034.png",
+    "split": "train"
+  },
+  "g0035": {
+    "image_filename": "g0035.jpg",
+    "label": "glaucoma",
+    "mask_path": "train/Masks/g0035.png",
+    "split": "train"
+  },
+  "g0036": {
+    "image_filename": "g0036.jpg",
+    "label": "glaucoma",
+    "mask_path": "train/Masks/g0036.png",
+    "split": "train"
+  },
+  "g0037": {
+    "image_filename": "g0037.jpg",
+    "label": "glaucoma",
+    "mask_path": "train/Masks/g0037.png",
+    "split": "train"
+  },
+  "g0038": {
+    "image_filename": "g0038.jpg",
+    "label": "glaucoma",
+    "mask_path": "train/Masks/g0038.png",
+    "split": "train"
+  },
+  "g0039": {
+    "image_filename": "g0039.jpg",
+    "label": "glaucoma",
+    "mask_path": "train/Masks/g0039.png",
+    "split": "train"
+  },
+  "g0040": {
+    "image_filename": "g0040.jpg",
+    "label": "glaucoma",
+    "mask_path": "train/Masks/g0040.png",
+    "split": "train"
+  },
+  "n0001": {
+    "image_filename": "n0001.jpg",
+    "label": "normal",
+    "mask_path": "train/Masks/n0001.png",
+    "split": "train"
+  },
+  "n0002": {
+    "image_filename": "n0002.jpg",
+    "label": "normal",
+    "mask_path": "train/Masks/n0002.png",
+    "split": "train"
+  },
+  "n0003": {
+    "image_filename": "n0003.jpg",
+    "label": "normal",
+    "mask_path": "train/Masks/n0003.png",
+    "split": "train"
+  },
+  "n0004": {
+    "image_filename": "n0004.jpg",
+    "label": "normal",
+    "mask_path": "train/Masks/n0004.png",
+    "split": "train"
+  },
+  "n0005": {
+    "image_filename": "n0005.jpg",
+    "label": "normal",
+    "mask_path": "train/Masks/n0005.png",
+    "split": "train"
+  },
+  "n0006": {
+    "image_filename": "n0006.jpg",
+    "label": "normal",
+    "mask_path": "train/Masks/n0006.png",
+    "split": "train"
+  },
+  "n0007": {
+    "image_filename": "n0007.jpg",
+    "label": "normal",
+    "mask_path": "train/Masks/n0007.png",
+    "split": "train"
+  },
+  "n0008": {
+    "image_filename": "n0008.jpg",
+    "label": "normal",
+    "mask_path": "train/Masks/n0008.png",
+    "split": "train"
+  },
+  "n0009": {
+    "image_filename": "n0009.jpg",
+    "label": "normal",
+    "mask_path": "train/Masks/n0009.png",
+    "split": "train"
+  },
+  "n0010": {
+    "image_filename": "n0010.jpg",
+    "label": "normal",
+    "mask_path": "train/Masks/n0010.png",
+    "split": "train"
+  },
+  "n0011": {
+    "image_filename": "n0011.jpg",
+    "label": "normal",
+    "mask_path": "train/Masks/n0011.png",
+    "split": "train"
+  },
+  "n0012": {
+    "image_filename": "n0012.jpg",
+    "label": "normal",
+    "mask_path": "train/Masks/n0012.png",
+    "split": "train"
+  },
+  "n0013": {
+    "image_filename": "n0013.jpg",
+    "label": "normal",
+    "mask_path": "train/Masks/n0013.png",
+    "split": "train"
+  },
+  "n0014": {
+    "image_filename": "n0014.jpg",
+    "label": "normal",
+    "mask_path": "train/Masks/n0014.png",
+    "split": "train"
+  },
+  "n0015": {
+    "image_filename": "n0015.jpg",
+    "label": "normal",
+    "mask_path": "train/Masks/n0015.png",
+    "split": "train"
+  },
+  "n0016": {
+    "image_filename": "n0016.jpg",
+    "label": "normal",
+    "mask_path": "train/Masks/n0016.png",
+    "split": "train"
+  },
+  "n0017": {
+    "image_filename": "n0017.jpg",
+    "label": "normal",
+    "mask_path": "train/Masks/n0017.png",
+    "split": "train"
+  },
+  "n0018": {
+    "image_filename": "n0018.jpg",
+    "label": "normal",
+    "mask_path": "train/Masks/n0018.png",
+    "split": "train"
+  },
+  "n0019": {
+    "image_filename": "n0019.jpg",
+    "label": "normal",
+    "mask_path": "train/Masks/n0019.png",
+    "split": "train"
+  },
+  "n0020": {
+    "image_filename": "n0020.jpg",
+    "label": "normal",
+    "mask_path": "train/Masks/n0020.png",
+    "split": "train"
+  },
+  "n0021": {
+    "image_filename": "n0021.jpg",
+    "label": "normal",
+    "mask_path": "train/Masks/n0021.png",
+    "split": "train"
+  },
+  "n0022": {
+    "image_filename": "n0022.jpg",
+    "label": "normal",
+    "mask_path": "train/Masks/n0022.png",
+    "split": "train"
+  },
+  "n0023": {
+    "image_filename": "n0023.jpg",
+    "label": "normal",
+    "mask_path": "train/Masks/n0023.png",
+    "split": "train"
+  },
+  "n0024": {
+    "image_filename": "n0024.jpg",
+    "label": "normal",
+    "mask_path": "train/Masks/n0024.png",
+    "split": "train"
+  },
+  "n0025": {
+    "image_filename": "n0025.jpg",
+    "label": "normal",
+    "mask_path": "train/Masks/n0025.png",
+    "split": "train"
+  },
+  "n0026": {
+    "image_filename": "n0026.jpg",
+    "label": "normal",
+    "mask_path": "train/Masks/n0026.png",
+    "split": "train"
+  },
+  "n0027": {
+    "image_filename": "n0027.jpg",
+    "label": "normal",
+    "mask_path": "train/Masks/n0027.png",
+    "split": "train"
+  },
+  "n0028": {
+    "image_filename": "n0028.jpg",
+    "label": "normal",
+    "mask_path": "train/Masks/n0028.png",
+    "split": "train"
+  },
+  "n0029": {
+    "image_filename": "n0029.jpg",
+    "label": "normal",
+    "mask_path": "train/Masks/n0029.png",
+    "split": "train"
+  },
+  "n0030": {
+    "image_filename": "n0030.jpg",
+    "label": "normal",
+    "mask_path": "train/Masks/n0030.png",
+    "split": "train"
+  },
+  "n0031": {
+    "image_filename": "n0031.jpg",
+    "label": "normal",
+    "mask_path": "train/Masks/n0031.png",
+    "split": "train"
+  },
+  "n0032": {
+    "image_filename": "n0032.jpg",
+    "label": "normal",
+    "mask_path": "train/Masks/n0032.png",
+    "split": "train"
+  },
+  "n0033": {
+    "image_filename": "n0033.jpg",
+    "label": "normal",
+    "mask_path": "train/Masks/n0033.png",
+    "split": "train"
+  },
+  "n0034": {
+    "image_filename": "n0034.jpg",
+    "label": "normal",
+    "mask_path": "train/Masks/n0034.png",
+    "split": "train"
+  },
+  "n0035": {
+    "image_filename": "n0035.jpg",
+    "label": "normal",
+    "mask_path": "train/Masks/n0035.png",
+    "split": "train"
+  },
+  "n0036": {
+    "image_filename": "n0036.jpg",
+    "label": "normal",
+    "mask_path": "train/Masks/n0036.png",
+    "split": "train"
+  },
+  "n0037": {
+    "image_filename": "n0037.jpg",
+    "label": "normal",
+    "mask_path": "train/Masks/n0037.png",
+    "split": "train"
+  },
+  "n0038": {
+    "image_filename": "n0038.jpg",
+    "label": "normal",
+    "mask_path": "train/Masks/n0038.png",
+    "split": "train"
+  },
+  "n0039": {
+    "image_filename": "n0039.jpg",
+    "label": "normal",
+    "mask_path": "train/Masks/n0039.png",
+    "split": "train"
+  },
+  "n0040": {
+    "image_filename": "n0040.jpg",
+    "label": "normal",
+    "mask_path": "train/Masks/n0040.png",
+    "split": "train"
+  },
+  "n0041": {
+    "image_filename": "n0041.jpg",
+    "label": "normal",
+    "mask_path": "train/Masks/n0041.png",
+    "split": "train"
+  },
+  "n0042": {
+    "image_filename": "n0042.jpg",
+    "label": "normal",
+    "mask_path": "train/Masks/n0042.png",
+    "split": "train"
+  },
+  "n0043": {
+    "image_filename": "n0043.jpg",
+    "label": "normal",
+    "mask_path": "train/Masks/n0043.png",
+    "split": "train"
+  },
+  "n0044": {
+    "image_filename": "n0044.jpg",
+    "label": "normal",
+    "mask_path": "train/Masks/n0044.png",
+    "split": "train"
+  },
+  "n0045": {
+    "image_filename": "n0045.jpg",
+    "label": "normal",
+    "mask_path": "train/Masks/n0045.png",
+    "split": "train"
+  },
+  "n0046": {
+    "image_filename": "n0046.jpg",
+    "label": "normal",
+    "mask_path": "train/Masks/n0046.png",
+    "split": "train"
+  },
+  "n0047": {
+    "image_filename": "n0047.jpg",
+    "label": "normal",
+    "mask_path": "train/Masks/n0047.png",
+    "split": "train"
+  },
+  "n0048": {
+    "image_filename": "n0048.jpg",
+    "label": "normal",
+    "mask_path": "train/Masks/n0048.png",
+    "split": "train"
+  },
+  "n0049": {
+    "image_filename": "n0049.jpg",
+    "label": "normal",
+    "mask_path": "train/Masks/n0049.png",
+    "split": "train"
+  },
+  "n0050": {
+    "image_filename": "n0050.jpg",
+    "label": "normal",
+    "mask_path": "train/Masks/n0050.png",
+    "split": "train"
+  },
+  "n0051": {
+    "image_filename": "n0051.jpg",
+    "label": "normal",
+    "mask_path": "train/Masks/n0051.png",
+    "split": "train"
+  },
+  "n0052": {
+    "image_filename": "n0052.jpg",
+    "label": "normal",
+    "mask_path": "train/Masks/n0052.png",
+    "split": "train"
+  },
+  "n0053": {
+    "image_filename": "n0053.jpg",
+    "label": "normal",
+    "mask_path": "train/Masks/n0053.png",
+    "split": "train"
+  },
+  "n0054": {
+    "image_filename": "n0054.jpg",
+    "label": "normal",
+    "mask_path": "train/Masks/n0054.png",
+    "split": "train"
+  },
+  "n0055": {
+    "image_filename": "n0055.jpg",
+    "label": "normal",
+    "mask_path": "train/Masks/n0055.png",
+    "split": "train"
+  },
+  "n0056": {
+    "image_filename": "n0056.jpg",
+    "label": "normal",
+    "mask_path": "train/Masks/n0056.png",
+    "split": "train"
+  },
+  "n0057": {
+    "image_filename": "n0057.jpg",
+    "label": "normal",
+    "mask_path": "train/Masks/n0057.png",
+    "split": "train"
+  },
+  "n0058": {
+    "image_filename": "n0058.jpg",
+    "label": "normal",
+    "mask_path": "train/Masks/n0058.png",
+    "split": "train"
+  },
+  "n0059": {
+    "image_filename": "n0059.jpg",
+    "label": "normal",
+    "mask_path": "train/Masks/n0059.png",
+    "split": "train"
+  },
+  "n0060": {
+    "image_filename": "n0060.jpg",
+    "label": "normal",
+    "mask_path": "train/Masks/n0060.png",
+    "split": "train"
+  },
+  "n0061": {
+    "image_filename": "n0061.jpg",
+    "label": "normal",
+    "mask_path": "train/Masks/n0061.png",
+    "split": "train"
+  },
+  "n0062": {
+    "image_filename": "n0062.jpg",
+    "label": "normal",
+    "mask_path": "train/Masks/n0062.png",
+    "split": "train"
+  },
+  "n0063": {
+    "image_filename": "n0063.jpg",
+    "label": "normal",
+    "mask_path": "train/Masks/n0063.png",
+    "split": "train"
+  },
+  "n0064": {
+    "image_filename": "n0064.jpg",
+    "label": "normal",
+    "mask_path": "train/Masks/n0064.png",
+    "split": "train"
+  },
+  "n0065": {
+    "image_filename": "n0065.jpg",
+    "label": "normal",
+    "mask_path": "train/Masks/n0065.png",
+    "split": "train"
+  },
+  "n0066": {
+    "image_filename": "n0066.jpg",
+    "label": "normal",
+    "mask_path": "train/Masks/n0066.png",
+    "split": "train"
+  },
+  "n0067": {
+    "image_filename": "n0067.jpg",
+    "label": "normal",
+    "mask_path": "train/Masks/n0067.png",
+    "split": "train"
+  },
+  "n0068": {
+    "image_filename": "n0068.jpg",
+    "label": "normal",
+    "mask_path": "train/Masks/n0068.png",
+    "split": "train"
+  },
+  "n0069": {
+    "image_filename": "n0069.jpg",
+    "label": "normal",
+    "mask_path": "train/Masks/n0069.png",
+    "split": "train"
+  },
+  "n0070": {
+    "image_filename": "n0070.jpg",
+    "label": "normal",
+    "mask_path": "train/Masks/n0070.png",
+    "split": "train"
+  },
+  "n0071": {
+    "image_filename": "n0071.jpg",
+    "label": "normal",
+    "mask_path": "train/Masks/n0071.png",
+    "split": "train"
+  },
+  "n0072": {
+    "image_filename": "n0072.jpg",
+    "label": "normal",
+    "mask_path": "train/Masks/n0072.png",
+    "split": "train"
+  },
+  "n0073": {
+    "image_filename": "n0073.jpg",
+    "label": "normal",
+    "mask_path": "train/Masks/n0073.png",
+    "split": "train"
+  },
+  "n0074": {
+    "image_filename": "n0074.jpg",
+    "label": "normal",
+    "mask_path": "train/Masks/n0074.png",
+    "split": "train"
+  },
+  "n0075": {
+    "image_filename": "n0075.jpg",
+    "label": "normal",
+    "mask_path": "train/Masks/n0075.png",
+    "split": "train"
+  },
+  "n0076": {
+    "image_filename": "n0076.jpg",
+    "label": "normal",
+    "mask_path": "train/Masks/n0076.png",
+    "split": "train"
+  },
+  "n0077": {
+    "image_filename": "n0077.jpg",
+    "label": "normal",
+    "mask_path": "train/Masks/n0077.png",
+    "split": "train"
+  },
+  "n0078": {
+    "image_filename": "n0078.jpg",
+    "label": "normal",
+    "mask_path": "train/Masks/n0078.png",
+    "split": "train"
+  },
+  "n0079": {
+    "image_filename": "n0079.jpg",
+    "label": "normal",
+    "mask_path": "train/Masks/n0079.png",
+    "split": "train"
+  },
+  "n0080": {
+    "image_filename": "n0080.jpg",
+    "label": "normal",
+    "mask_path": "train/Masks/n0080.png",
+    "split": "train"
+  },
+  "n0081": {
+    "image_filename": "n0081.jpg",
+    "label": "normal",
+    "mask_path": "train/Masks/n0081.png",
+    "split": "train"
+  },
+  "n0082": {
+    "image_filename": "n0082.jpg",
+    "label": "normal",
+    "mask_path": "train/Masks/n0082.png",
+    "split": "train"
+  },
+  "n0083": {
+    "image_filename": "n0083.jpg",
+    "label": "normal",
+    "mask_path": "train/Masks/n0083.png",
+    "split": "train"
+  },
+  "n0084": {
+    "image_filename": "n0084.jpg",
+    "label": "normal",
+    "mask_path": "train/Masks/n0084.png",
+    "split": "train"
+  },
+  "n0085": {
+    "image_filename": "n0085.jpg",
+    "label": "normal",
+    "mask_path": "train/Masks/n0085.png",
+    "split": "train"
+  },
+  "n0086": {
+    "image_filename": "n0086.jpg",
+    "label": "normal",
+    "mask_path": "train/Masks/n0086.png",
+    "split": "train"
+  },
+  "n0087": {
+    "image_filename": "n0087.jpg",
+    "label": "normal",
+    "mask_path": "train/Masks/n0087.png",
+    "split": "train"
+  },
+  "n0088": {
+    "image_filename": "n0088.jpg",
+    "label": "normal",
+    "mask_path": "train/Masks/n0088.png",
+    "split": "train"
+  },
+  "n0089": {
+    "image_filename": "n0089.jpg",
+    "label": "normal",
+    "mask_path": "train/Masks/n0089.png",
+    "split": "train"
+  },
+  "n0090": {
+    "image_filename": "n0090.jpg",
+    "label": "normal",
+    "mask_path": "train/Masks/n0090.png",
+    "split": "train"
+  },
+  "n0091": {
+    "image_filename": "n0091.jpg",
+    "label": "normal",
+    "mask_path": "train/Masks/n0091.png",
+    "split": "train"
+  },
+  "n0092": {
+    "image_filename": "n0092.jpg",
+    "label": "normal",
+    "mask_path": "train/Masks/n0092.png",
+    "split": "train"
+  },
+  "n0093": {
+    "image_filename": "n0093.jpg",
+    "label": "normal",
+    "mask_path": "train/Masks/n0093.png",
+    "split": "train"
+  },
+  "n0094": {
+    "image_filename": "n0094.jpg",
+    "label": "normal",
+    "mask_path": "train/Masks/n0094.png",
+    "split": "train"
+  },
+  "n0095": {
+    "image_filename": "n0095.jpg",
+    "label": "normal",
+    "mask_path": "train/Masks/n0095.png",
+    "split": "train"
+  },
+  "n0096": {
+    "image_filename": "n0096.jpg",
+    "label": "normal",
+    "mask_path": "train/Masks/n0096.png",
+    "split": "train"
+  },
+  "n0097": {
+    "image_filename": "n0097.jpg",
+    "label": "normal",
+    "mask_path": "train/Masks/n0097.png",
+    "split": "train"
+  },
+  "n0098": {
+    "image_filename": "n0098.jpg",
+    "label": "normal",
+    "mask_path": "train/Masks/n0098.png",
+    "split": "train"
+  },
+  "n0099": {
+    "image_filename": "n0099.jpg",
+    "label": "normal",
+    "mask_path": "train/Masks/n0099.png",
+    "split": "train"
+  },
+  "n0100": {
+    "image_filename": "n0100.jpg",
+    "label": "normal",
+    "mask_path": "train/Masks/n0100.png",
+    "split": "train"
+  },
+  "n0101": {
+    "image_filename": "n0101.jpg",
+    "label": "normal",
+    "mask_path": "train/Masks/n0101.png",
+    "split": "train"
+  },
+  "n0102": {
+    "image_filename": "n0102.jpg",
+    "label": "normal",
+    "mask_path": "train/Masks/n0102.png",
+    "split": "train"
+  },
+  "n0103": {
+    "image_filename": "n0103.jpg",
+    "label": "normal",
+    "mask_path": "train/Masks/n0103.png",
+    "split": "train"
+  },
+  "n0104": {
+    "image_filename": "n0104.jpg",
+    "label": "normal",
+    "mask_path": "train/Masks/n0104.png",
+    "split": "train"
+  },
+  "n0105": {
+    "image_filename": "n0105.jpg",
+    "label": "normal",
+    "mask_path": "train/Masks/n0105.png",
+    "split": "train"
+  },
+  "n0106": {
+    "image_filename": "n0106.jpg",
+    "label": "normal",
+    "mask_path": "train/Masks/n0106.png",
+    "split": "train"
+  },
+  "n0107": {
+    "image_filename": "n0107.jpg",
+    "label": "normal",
+    "mask_path": "train/Masks/n0107.png",
+    "split": "train"
+  },
+  "n0108": {
+    "image_filename": "n0108.jpg",
+    "label": "normal",
+    "mask_path": "train/Masks/n0108.png",
+    "split": "train"
+  },
+  "n0109": {
+    "image_filename": "n0109.jpg",
+    "label": "normal",
+    "mask_path": "train/Masks/n0109.png",
+    "split": "train"
+  },
+  "n0110": {
+    "image_filename": "n0110.jpg",
+    "label": "normal",
+    "mask_path": "train/Masks/n0110.png",
+    "split": "train"
+  },
+  "n0111": {
+    "image_filename": "n0111.jpg",
+    "label": "normal",
+    "mask_path": "train/Masks/n0111.png",
+    "split": "train"
+  },
+  "n0112": {
+    "image_filename": "n0112.jpg",
+    "label": "normal",
+    "mask_path": "train/Masks/n0112.png",
+    "split": "train"
+  },
+  "n0113": {
+    "image_filename": "n0113.jpg",
+    "label": "normal",
+    "mask_path": "train/Masks/n0113.png",
+    "split": "train"
+  },
+  "n0114": {
+    "image_filename": "n0114.jpg",
+    "label": "normal",
+    "mask_path": "train/Masks/n0114.png",
+    "split": "train"
+  },
+  "n0115": {
+    "image_filename": "n0115.jpg",
+    "label": "normal",
+    "mask_path": "train/Masks/n0115.png",
+    "split": "train"
+  },
+  "n0116": {
+    "image_filename": "n0116.jpg",
+    "label": "normal",
+    "mask_path": "train/Masks/n0116.png",
+    "split": "train"
+  },
+  "n0117": {
+    "image_filename": "n0117.jpg",
+    "label": "normal",
+    "mask_path": "train/Masks/n0117.png",
+    "split": "train"
+  },
+  "n0118": {
+    "image_filename": "n0118.jpg",
+    "label": "normal",
+    "mask_path": "train/Masks/n0118.png",
+    "split": "train"
+  },
+  "n0119": {
+    "image_filename": "n0119.jpg",
+    "label": "normal",
+    "mask_path": "train/Masks/n0119.png",
+    "split": "train"
+  },
+  "n0120": {
+    "image_filename": "n0120.jpg",
+    "label": "normal",
+    "mask_path": "train/Masks/n0120.png",
+    "split": "train"
+  },
+  "n0121": {
+    "image_filename": "n0121.jpg",
+    "label": "normal",
+    "mask_path": "train/Masks/n0121.png",
+    "split": "train"
+  },
+  "n0122": {
+    "image_filename": "n0122.jpg",
+    "label": "normal",
+    "mask_path": "train/Masks/n0122.png",
+    "split": "train"
+  },
+  "n0123": {
+    "image_filename": "n0123.jpg",
+    "label": "normal",
+    "mask_path": "train/Masks/n0123.png",
+    "split": "train"
+  },
+  "n0124": {
+    "image_filename": "n0124.jpg",
+    "label": "normal",
+    "mask_path": "train/Masks/n0124.png",
+    "split": "train"
+  },
+  "n0125": {
+    "image_filename": "n0125.jpg",
+    "label": "normal",
+    "mask_path": "train/Masks/n0125.png",
+    "split": "train"
+  },
+  "n0126": {
+    "image_filename": "n0126.jpg",
+    "label": "normal",
+    "mask_path": "train/Masks/n0126.png",
+    "split": "train"
+  },
+  "n0127": {
+    "image_filename": "n0127.jpg",
+    "label": "normal",
+    "mask_path": "train/Masks/n0127.png",
+    "split": "train"
+  },
+  "n0128": {
+    "image_filename": "n0128.jpg",
+    "label": "normal",
+    "mask_path": "train/Masks/n0128.png",
+    "split": "train"
+  },
+  "n0129": {
+    "image_filename": "n0129.jpg",
+    "label": "normal",
+    "mask_path": "train/Masks/n0129.png",
+    "split": "train"
+  },
+  "n0130": {
+    "image_filename": "n0130.jpg",
+    "label": "normal",
+    "mask_path": "train/Masks/n0130.png",
+    "split": "train"
+  },
+  "n0131": {
+    "image_filename": "n0131.jpg",
+    "label": "normal",
+    "mask_path": "train/Masks/n0131.png",
+    "split": "train"
+  },
+  "n0132": {
+    "image_filename": "n0132.jpg",
+    "label": "normal",
+    "mask_path": "train/Masks/n0132.png",
+    "split": "train"
+  },
+  "n0133": {
+    "image_filename": "n0133.jpg",
+    "label": "normal",
+    "mask_path": "train/Masks/n0133.png",
+    "split": "train"
+  },
+  "n0134": {
+    "image_filename": "n0134.jpg",
+    "label": "normal",
+    "mask_path": "train/Masks/n0134.png",
+    "split": "train"
+  },
+  "n0135": {
+    "image_filename": "n0135.jpg",
+    "label": "normal",
+    "mask_path": "train/Masks/n0135.png",
+    "split": "train"
+  },
+  "n0136": {
+    "image_filename": "n0136.jpg",
+    "label": "normal",
+    "mask_path": "train/Masks/n0136.png",
+    "split": "train"
+  },
+  "n0137": {
+    "image_filename": "n0137.jpg",
+    "label": "normal",
+    "mask_path": "train/Masks/n0137.png",
+    "split": "train"
+  },
+  "n0138": {
+    "image_filename": "n0138.jpg",
+    "label": "normal",
+    "mask_path": "train/Masks/n0138.png",
+    "split": "train"
+  },
+  "n0139": {
+    "image_filename": "n0139.jpg",
+    "label": "normal",
+    "mask_path": "train/Masks/n0139.png",
+    "split": "train"
+  },
+  "n0140": {
+    "image_filename": "n0140.jpg",
+    "label": "normal",
+    "mask_path": "train/Masks/n0140.png",
+    "split": "train"
+  },
+  "n0141": {
+    "image_filename": "n0141.jpg",
+    "label": "normal",
+    "mask_path": "train/Masks/n0141.png",
+    "split": "train"
+  },
+  "n0142": {
+    "image_filename": "n0142.jpg",
+    "label": "normal",
+    "mask_path": "train/Masks/n0142.png",
+    "split": "train"
+  },
+  "n0143": {
+    "image_filename": "n0143.jpg",
+    "label": "normal",
+    "mask_path": "train/Masks/n0143.png",
+    "split": "train"
+  },
+  "n0144": {
+    "image_filename": "n0144.jpg",
+    "label": "normal",
+    "mask_path": "train/Masks/n0144.png",
+    "split": "train"
+  },
+  "n0145": {
+    "image_filename": "n0145.jpg",
+    "label": "normal",
+    "mask_path": "train/Masks/n0145.png",
+    "split": "train"
+  },
+  "n0146": {
+    "image_filename": "n0146.jpg",
+    "label": "normal",
+    "mask_path": "train/Masks/n0146.png",
+    "split": "train"
+  },
+  "n0147": {
+    "image_filename": "n0147.jpg",
+    "label": "normal",
+    "mask_path": "train/Masks/n0147.png",
+    "split": "train"
+  },
+  "n0148": {
+    "image_filename": "n0148.jpg",
+    "label": "normal",
+    "mask_path": "train/Masks/n0148.png",
+    "split": "train"
+  },
+  "n0149": {
+    "image_filename": "n0149.jpg",
+    "label": "normal",
+    "mask_path": "train/Masks/n0149.png",
+    "split": "train"
+  },
+  "n0150": {
+    "image_filename": "n0150.jpg",
+    "label": "normal",
+    "mask_path": "train/Masks/n0150.png",
+    "split": "train"
+  },
+  "n0151": {
+    "image_filename": "n0151.jpg",
+    "label": "normal",
+    "mask_path": "train/Masks/n0151.png",
+    "split": "train"
+  },
+  "n0152": {
+    "image_filename": "n0152.jpg",
+    "label": "normal",
+    "mask_path": "train/Masks/n0152.png",
+    "split": "train"
+  },
+  "n0153": {
+    "image_filename": "n0153.jpg",
+    "label": "normal",
+    "mask_path": "train/Masks/n0153.png",
+    "split": "train"
+  },
+  "n0154": {
+    "image_filename": "n0154.jpg",
+    "label": "normal",
+    "mask_path": "train/Masks/n0154.png",
+    "split": "train"
+  },
+  "n0155": {
+    "image_filename": "n0155.jpg",
+    "label": "normal",
+    "mask_path": "train/Masks/n0155.png",
+    "split": "train"
+  },
+  "n0156": {
+    "image_filename": "n0156.jpg",
+    "label": "normal",
+    "mask_path": "train/Masks/n0156.png",
+    "split": "train"
+  },
+  "n0157": {
+    "image_filename": "n0157.jpg",
+    "label": "normal",
+    "mask_path": "train/Masks/n0157.png",
+    "split": "train"
+  },
+  "n0158": {
+    "image_filename": "n0158.jpg",
+    "label": "normal",
+    "mask_path": "train/Masks/n0158.png",
+    "split": "train"
+  },
+  "n0159": {
+    "image_filename": "n0159.jpg",
+    "label": "normal",
+    "mask_path": "train/Masks/n0159.png",
+    "split": "train"
+  },
+  "n0160": {
+    "image_filename": "n0160.jpg",
+    "label": "normal",
+    "mask_path": "train/Masks/n0160.png",
+    "split": "train"
+  },
+  "n0161": {
+    "image_filename": "n0161.jpg",
+    "label": "normal",
+    "mask_path": "train/Masks/n0161.png",
+    "split": "train"
+  },
+  "n0162": {
+    "image_filename": "n0162.jpg",
+    "label": "normal",
+    "mask_path": "train/Masks/n0162.png",
+    "split": "train"
+  },
+  "n0163": {
+    "image_filename": "n0163.jpg",
+    "label": "normal",
+    "mask_path": "train/Masks/n0163.png",
+    "split": "train"
+  },
+  "n0164": {
+    "image_filename": "n0164.jpg",
+    "label": "normal",
+    "mask_path": "train/Masks/n0164.png",
+    "split": "train"
+  },
+  "n0165": {
+    "image_filename": "n0165.jpg",
+    "label": "normal",
+    "mask_path": "train/Masks/n0165.png",
+    "split": "train"
+  },
+  "n0166": {
+    "image_filename": "n0166.jpg",
+    "label": "normal",
+    "mask_path": "train/Masks/n0166.png",
+    "split": "train"
+  },
+  "n0167": {
+    "image_filename": "n0167.jpg",
+    "label": "normal",
+    "mask_path": "train/Masks/n0167.png",
+    "split": "train"
+  },
+  "n0168": {
+    "image_filename": "n0168.jpg",
+    "label": "normal",
+    "mask_path": "train/Masks/n0168.png",
+    "split": "train"
+  },
+  "n0169": {
+    "image_filename": "n0169.jpg",
+    "label": "normal",
+    "mask_path": "train/Masks/n0169.png",
+    "split": "train"
+  },
+  "n0170": {
+    "image_filename": "n0170.jpg",
+    "label": "normal",
+    "mask_path": "train/Masks/n0170.png",
+    "split": "train"
+  },
+  "n0171": {
+    "image_filename": "n0171.jpg",
+    "label": "normal",
+    "mask_path": "train/Masks/n0171.png",
+    "split": "train"
+  },
+  "n0172": {
+    "image_filename": "n0172.jpg",
+    "label": "normal",
+    "mask_path": "train/Masks/n0172.png",
+    "split": "train"
+  },
+  "n0173": {
+    "image_filename": "n0173.jpg",
+    "label": "normal",
+    "mask_path": "train/Masks/n0173.png",
+    "split": "train"
+  },
+  "n0174": {
+    "image_filename": "n0174.jpg",
+    "label": "normal",
+    "mask_path": "train/Masks/n0174.png",
+    "split": "train"
+  },
+  "n0175": {
+    "image_filename": "n0175.jpg",
+    "label": "normal",
+    "mask_path": "train/Masks/n0175.png",
+    "split": "train"
+  },
+  "n0176": {
+    "image_filename": "n0176.jpg",
+    "label": "normal",
+    "mask_path": "train/Masks/n0176.png",
+    "split": "train"
+  },
+  "n0177": {
+    "image_filename": "n0177.jpg",
+    "label": "normal",
+    "mask_path": "train/Masks/n0177.png",
+    "split": "train"
+  },
+  "n0178": {
+    "image_filename": "n0178.jpg",
+    "label": "normal",
+    "mask_path": "train/Masks/n0178.png",
+    "split": "train"
+  },
+  "n0179": {
+    "image_filename": "n0179.jpg",
+    "label": "normal",
+    "mask_path": "train/Masks/n0179.png",
+    "split": "train"
+  },
+  "n0180": {
+    "image_filename": "n0180.jpg",
+    "label": "normal",
+    "mask_path": "train/Masks/n0180.png",
+    "split": "train"
+  },
+  "n0181": {
+    "image_filename": "n0181.jpg",
+    "label": "normal",
+    "mask_path": "train/Masks/n0181.png",
+    "split": "train"
+  },
+  "n0182": {
+    "image_filename": "n0182.jpg",
+    "label": "normal",
+    "mask_path": "train/Masks/n0182.png",
+    "split": "train"
+  },
+  "n0183": {
+    "image_filename": "n0183.jpg",
+    "label": "normal",
+    "mask_path": "train/Masks/n0183.png",
+    "split": "train"
+  },
+  "n0184": {
+    "image_filename": "n0184.jpg",
+    "label": "normal",
+    "mask_path": "train/Masks/n0184.png",
+    "split": "train"
+  },
+  "n0185": {
+    "image_filename": "n0185.jpg",
+    "label": "normal",
+    "mask_path": "train/Masks/n0185.png",
+    "split": "train"
+  },
+  "n0186": {
+    "image_filename": "n0186.jpg",
+    "label": "normal",
+    "mask_path": "train/Masks/n0186.png",
+    "split": "train"
+  },
+  "n0187": {
+    "image_filename": "n0187.jpg",
+    "label": "normal",
+    "mask_path": "train/Masks/n0187.png",
+    "split": "train"
+  },
+  "n0188": {
+    "image_filename": "n0188.jpg",
+    "label": "normal",
+    "mask_path": "train/Masks/n0188.png",
+    "split": "train"
+  },
+  "n0189": {
+    "image_filename": "n0189.jpg",
+    "label": "normal",
+    "mask_path": "train/Masks/n0189.png",
+    "split": "train"
+  },
+  "n0190": {
+    "image_filename": "n0190.jpg",
+    "label": "normal",
+    "mask_path": "train/Masks/n0190.png",
+    "split": "train"
+  },
+  "n0191": {
+    "image_filename": "n0191.jpg",
+    "label": "normal",
+    "mask_path": "train/Masks/n0191.png",
+    "split": "train"
+  },
+  "n0192": {
+    "image_filename": "n0192.jpg",
+    "label": "normal",
+    "mask_path": "train/Masks/n0192.png",
+    "split": "train"
+  },
+  "n0193": {
+    "image_filename": "n0193.jpg",
+    "label": "normal",
+    "mask_path": "train/Masks/n0193.png",
+    "split": "train"
+  },
+  "n0194": {
+    "image_filename": "n0194.jpg",
+    "label": "normal",
+    "mask_path": "train/Masks/n0194.png",
+    "split": "train"
+  },
+  "n0195": {
+    "image_filename": "n0195.jpg",
+    "label": "normal",
+    "mask_path": "train/Masks/n0195.png",
+    "split": "train"
+  },
+  "n0196": {
+    "image_filename": "n0196.jpg",
+    "label": "normal",
+    "mask_path": "train/Masks/n0196.png",
+    "split": "train"
+  },
+  "n0197": {
+    "image_filename": "n0197.jpg",
+    "label": "normal",
+    "mask_path": "train/Masks/n0197.png",
+    "split": "train"
+  },
+  "n0198": {
+    "image_filename": "n0198.jpg",
+    "label": "normal",
+    "mask_path": "train/Masks/n0198.png",
+    "split": "train"
+  },
+  "n0199": {
+    "image_filename": "n0199.jpg",
+    "label": "normal",
+    "mask_path": "train/Masks/n0199.png",
+    "split": "train"
+  },
+  "n0200": {
+    "image_filename": "n0200.jpg",
+    "label": "normal",
+    "mask_path": "train/Masks/n0200.png",
+    "split": "train"
+  },
+  "n0201": {
+    "image_filename": "n0201.jpg",
+    "label": "normal",
+    "mask_path": "train/Masks/n0201.png",
+    "split": "train"
+  },
+  "n0202": {
+    "image_filename": "n0202.jpg",
+    "label": "normal",
+    "mask_path": "train/Masks/n0202.png",
+    "split": "train"
+  },
+  "n0203": {
+    "image_filename": "n0203.jpg",
+    "label": "normal",
+    "mask_path": "train/Masks/n0203.png",
+    "split": "train"
+  },
+  "n0204": {
+    "image_filename": "n0204.jpg",
+    "label": "normal",
+    "mask_path": "train/Masks/n0204.png",
+    "split": "train"
+  },
+  "n0205": {
+    "image_filename": "n0205.jpg",
+    "label": "normal",
+    "mask_path": "train/Masks/n0205.png",
+    "split": "train"
+  },
+  "n0206": {
+    "image_filename": "n0206.jpg",
+    "label": "normal",
+    "mask_path": "train/Masks/n0206.png",
+    "split": "train"
+  },
+  "n0207": {
+    "image_filename": "n0207.jpg",
+    "label": "normal",
+    "mask_path": "train/Masks/n0207.png",
+    "split": "train"
+  },
+  "n0208": {
+    "image_filename": "n0208.jpg",
+    "label": "normal",
+    "mask_path": "train/Masks/n0208.png",
+    "split": "train"
+  },
+  "n0209": {
+    "image_filename": "n0209.jpg",
+    "label": "normal",
+    "mask_path": "train/Masks/n0209.png",
+    "split": "train"
+  },
+  "n0210": {
+    "image_filename": "n0210.jpg",
+    "label": "normal",
+    "mask_path": "train/Masks/n0210.png",
+    "split": "train"
+  },
+  "n0211": {
+    "image_filename": "n0211.jpg",
+    "label": "normal",
+    "mask_path": "train/Masks/n0211.png",
+    "split": "train"
+  },
+  "n0212": {
+    "image_filename": "n0212.jpg",
+    "label": "normal",
+    "mask_path": "train/Masks/n0212.png",
+    "split": "train"
+  },
+  "n0213": {
+    "image_filename": "n0213.jpg",
+    "label": "normal",
+    "mask_path": "train/Masks/n0213.png",
+    "split": "train"
+  },
+  "n0214": {
+    "image_filename": "n0214.jpg",
+    "label": "normal",
+    "mask_path": "train/Masks/n0214.png",
+    "split": "train"
+  },
+  "n0215": {
+    "image_filename": "n0215.jpg",
+    "label": "normal",
+    "mask_path": "train/Masks/n0215.png",
+    "split": "train"
+  },
+  "n0216": {
+    "image_filename": "n0216.jpg",
+    "label": "normal",
+    "mask_path": "train/Masks/n0216.png",
+    "split": "train"
+  },
+  "n0217": {
+    "image_filename": "n0217.jpg",
+    "label": "normal",
+    "mask_path": "train/Masks/n0217.png",
+    "split": "train"
+  },
+  "n0218": {
+    "image_filename": "n0218.jpg",
+    "label": "normal",
+    "mask_path": "train/Masks/n0218.png",
+    "split": "train"
+  },
+  "n0219": {
+    "image_filename": "n0219.jpg",
+    "label": "normal",
+    "mask_path": "train/Masks/n0219.png",
+    "split": "train"
+  },
+  "n0220": {
+    "image_filename": "n0220.jpg",
+    "label": "normal",
+    "mask_path": "train/Masks/n0220.png",
+    "split": "train"
+  },
+  "n0221": {
+    "image_filename": "n0221.jpg",
+    "label": "normal",
+    "mask_path": "train/Masks/n0221.png",
+    "split": "train"
+  },
+  "n0222": {
+    "image_filename": "n0222.jpg",
+    "label": "normal",
+    "mask_path": "train/Masks/n0222.png",
+    "split": "train"
+  },
+  "n0223": {
+    "image_filename": "n0223.jpg",
+    "label": "normal",
+    "mask_path": "train/Masks/n0223.png",
+    "split": "train"
+  },
+  "n0224": {
+    "image_filename": "n0224.jpg",
+    "label": "normal",
+    "mask_path": "train/Masks/n0224.png",
+    "split": "train"
+  },
+  "n0225": {
+    "image_filename": "n0225.jpg",
+    "label": "normal",
+    "mask_path": "train/Masks/n0225.png",
+    "split": "train"
+  },
+  "n0226": {
+    "image_filename": "n0226.jpg",
+    "label": "normal",
+    "mask_path": "train/Masks/n0226.png",
+    "split": "train"
+  },
+  "n0227": {
+    "image_filename": "n0227.jpg",
+    "label": "normal",
+    "mask_path": "train/Masks/n0227.png",
+    "split": "train"
+  },
+  "n0228": {
+    "image_filename": "n0228.jpg",
+    "label": "normal",
+    "mask_path": "train/Masks/n0228.png",
+    "split": "train"
+  },
+  "n0229": {
+    "image_filename": "n0229.jpg",
+    "label": "normal",
+    "mask_path": "train/Masks/n0229.png",
+    "split": "train"
+  },
+  "n0230": {
+    "image_filename": "n0230.jpg",
+    "label": "normal",
+    "mask_path": "train/Masks/n0230.png",
+    "split": "train"
+  },
+  "n0231": {
+    "image_filename": "n0231.jpg",
+    "label": "normal",
+    "mask_path": "train/Masks/n0231.png",
+    "split": "train"
+  },
+  "n0232": {
+    "image_filename": "n0232.jpg",
+    "label": "normal",
+    "mask_path": "train/Masks/n0232.png",
+    "split": "train"
+  },
+  "n0233": {
+    "image_filename": "n0233.jpg",
+    "label": "normal",
+    "mask_path": "train/Masks/n0233.png",
+    "split": "train"
+  },
+  "n0234": {
+    "image_filename": "n0234.jpg",
+    "label": "normal",
+    "mask_path": "train/Masks/n0234.png",
+    "split": "train"
+  },
+  "n0235": {
+    "image_filename": "n0235.jpg",
+    "label": "normal",
+    "mask_path": "train/Masks/n0235.png",
+    "split": "train"
+  },
+  "n0236": {
+    "image_filename": "n0236.jpg",
+    "label": "normal",
+    "mask_path": "train/Masks/n0236.png",
+    "split": "train"
+  },
+  "n0237": {
+    "image_filename": "n0237.jpg",
+    "label": "normal",
+    "mask_path": "train/Masks/n0237.png",
+    "split": "train"
+  },
+  "n0238": {
+    "image_filename": "n0238.jpg",
+    "label": "normal",
+    "mask_path": "train/Masks/n0238.png",
+    "split": "train"
+  },
+  "n0239": {
+    "image_filename": "n0239.jpg",
+    "label": "normal",
+    "mask_path": "train/Masks/n0239.png",
+    "split": "train"
+  },
+  "n0240": {
+    "image_filename": "n0240.jpg",
+    "label": "normal",
+    "mask_path": "train/Masks/n0240.png",
+    "split": "train"
+  },
+  "n0241": {
+    "image_filename": "n0241.jpg",
+    "label": "normal",
+    "mask_path": "train/Masks/n0241.png",
+    "split": "train"
+  },
+  "n0242": {
+    "image_filename": "n0242.jpg",
+    "label": "normal",
+    "mask_path": "train/Masks/n0242.png",
+    "split": "train"
+  },
+  "n0243": {
+    "image_filename": "n0243.jpg",
+    "label": "normal",
+    "mask_path": "train/Masks/n0243.png",
+    "split": "train"
+  },
+  "n0244": {
+    "image_filename": "n0244.jpg",
+    "label": "normal",
+    "mask_path": "train/Masks/n0244.png",
+    "split": "train"
+  },
+  "n0245": {
+    "image_filename": "n0245.jpg",
+    "label": "normal",
+    "mask_path": "train/Masks/n0245.png",
+    "split": "train"
+  },
+  "n0246": {
+    "image_filename": "n0246.jpg",
+    "label": "normal",
+    "mask_path": "train/Masks/n0246.png",
+    "split": "train"
+  },
+  "n0247": {
+    "image_filename": "n0247.jpg",
+    "label": "normal",
+    "mask_path": "train/Masks/n0247.png",
+    "split": "train"
+  },
+  "n0248": {
+    "image_filename": "n0248.jpg",
+    "label": "normal",
+    "mask_path": "train/Masks/n0248.png",
+    "split": "train"
+  },
+  "n0249": {
+    "image_filename": "n0249.jpg",
+    "label": "normal",
+    "mask_path": "train/Masks/n0249.png",
+    "split": "train"
+  },
+  "n0250": {
+    "image_filename": "n0250.jpg",
+    "label": "normal",
+    "mask_path": "train/Masks/n0250.png",
+    "split": "train"
+  },
+  "n0251": {
+    "image_filename": "n0251.jpg",
+    "label": "normal",
+    "mask_path": "train/Masks/n0251.png",
+    "split": "train"
+  },
+  "n0252": {
+    "image_filename": "n0252.jpg",
+    "label": "normal",
+    "mask_path": "train/Masks/n0252.png",
+    "split": "train"
+  },
+  "n0253": {
+    "image_filename": "n0253.jpg",
+    "label": "normal",
+    "mask_path": "train/Masks/n0253.png",
+    "split": "train"
+  },
+  "n0254": {
+    "image_filename": "n0254.jpg",
+    "label": "normal",
+    "mask_path": "train/Masks/n0254.png",
+    "split": "train"
+  },
+  "n0255": {
+    "image_filename": "n0255.jpg",
+    "label": "normal",
+    "mask_path": "train/Masks/n0255.png",
+    "split": "train"
+  },
+  "n0256": {
+    "image_filename": "n0256.jpg",
+    "label": "normal",
+    "mask_path": "train/Masks/n0256.png",
+    "split": "train"
+  },
+  "n0257": {
+    "image_filename": "n0257.jpg",
+    "label": "normal",
+    "mask_path": "train/Masks/n0257.png",
+    "split": "train"
+  },
+  "n0258": {
+    "image_filename": "n0258.jpg",
+    "label": "normal",
+    "mask_path": "train/Masks/n0258.png",
+    "split": "train"
+  },
+  "n0259": {
+    "image_filename": "n0259.jpg",
+    "label": "normal",
+    "mask_path": "train/Masks/n0259.png",
+    "split": "train"
+  },
+  "n0260": {
+    "image_filename": "n0260.jpg",
+    "label": "normal",
+    "mask_path": "train/Masks/n0260.png",
+    "split": "train"
+  },
+  "n0261": {
+    "image_filename": "n0261.jpg",
+    "label": "normal",
+    "mask_path": "train/Masks/n0261.png",
+    "split": "train"
+  },
+  "n0262": {
+    "image_filename": "n0262.jpg",
+    "label": "normal",
+    "mask_path": "train/Masks/n0262.png",
+    "split": "train"
+  },
+  "n0263": {
+    "image_filename": "n0263.jpg",
+    "label": "normal",
+    "mask_path": "train/Masks/n0263.png",
+    "split": "train"
+  },
+  "n0264": {
+    "image_filename": "n0264.jpg",
+    "label": "normal",
+    "mask_path": "train/Masks/n0264.png",
+    "split": "train"
+  },
+  "n0265": {
+    "image_filename": "n0265.jpg",
+    "label": "normal",
+    "mask_path": "train/Masks/n0265.png",
+    "split": "train"
+  },
+  "n0266": {
+    "image_filename": "n0266.jpg",
+    "label": "normal",
+    "mask_path": "train/Masks/n0266.png",
+    "split": "train"
+  },
+  "n0267": {
+    "image_filename": "n0267.jpg",
+    "label": "normal",
+    "mask_path": "train/Masks/n0267.png",
+    "split": "train"
+  },
+  "n0268": {
+    "image_filename": "n0268.jpg",
+    "label": "normal",
+    "mask_path": "train/Masks/n0268.png",
+    "split": "train"
+  },
+  "n0269": {
+    "image_filename": "n0269.jpg",
+    "label": "normal",
+    "mask_path": "train/Masks/n0269.png",
+    "split": "train"
+  },
+  "n0270": {
+    "image_filename": "n0270.jpg",
+    "label": "normal",
+    "mask_path": "train/Masks/n0270.png",
+    "split": "train"
+  },
+  "n0271": {
+    "image_filename": "n0271.jpg",
+    "label": "normal",
+    "mask_path": "train/Masks/n0271.png",
+    "split": "train"
+  },
+  "n0272": {
+    "image_filename": "n0272.jpg",
+    "label": "normal",
+    "mask_path": "train/Masks/n0272.png",
+    "split": "train"
+  },
+  "n0273": {
+    "image_filename": "n0273.jpg",
+    "label": "normal",
+    "mask_path": "train/Masks/n0273.png",
+    "split": "train"
+  },
+  "n0274": {
+    "image_filename": "n0274.jpg",
+    "label": "normal",
+    "mask_path": "train/Masks/n0274.png",
+    "split": "train"
+  },
+  "n0275": {
+    "image_filename": "n0275.jpg",
+    "label": "normal",
+    "mask_path": "train/Masks/n0275.png",
+    "split": "train"
+  },
+  "n0276": {
+    "image_filename": "n0276.jpg",
+    "label": "normal",
+    "mask_path": "train/Masks/n0276.png",
+    "split": "train"
+  },
+  "n0277": {
+    "image_filename": "n0277.jpg",
+    "label": "normal",
+    "mask_path": "train/Masks/n0277.png",
+    "split": "train"
+  },
+  "n0278": {
+    "image_filename": "n0278.jpg",
+    "label": "normal",
+    "mask_path": "train/Masks/n0278.png",
+    "split": "train"
+  },
+  "n0279": {
+    "image_filename": "n0279.jpg",
+    "label": "normal",
+    "mask_path": "train/Masks/n0279.png",
+    "split": "train"
+  },
+  "n0280": {
+    "image_filename": "n0280.jpg",
+    "label": "normal",
+    "mask_path": "train/Masks/n0280.png",
+    "split": "train"
+  },
+  "n0281": {
+    "image_filename": "n0281.jpg",
+    "label": "normal",
+    "mask_path": "train/Masks/n0281.png",
+    "split": "train"
+  },
+  "n0282": {
+    "image_filename": "n0282.jpg",
+    "label": "normal",
+    "mask_path": "train/Masks/n0282.png",
+    "split": "train"
+  },
+  "n0283": {
+    "image_filename": "n0283.jpg",
+    "label": "normal",
+    "mask_path": "train/Masks/n0283.png",
+    "split": "train"
+  },
+  "n0284": {
+    "image_filename": "n0284.jpg",
+    "label": "normal",
+    "mask_path": "train/Masks/n0284.png",
+    "split": "train"
+  },
+  "n0285": {
+    "image_filename": "n0285.jpg",
+    "label": "normal",
+    "mask_path": "train/Masks/n0285.png",
+    "split": "train"
+  },
+  "n0286": {
+    "image_filename": "n0286.jpg",
+    "label": "normal",
+    "mask_path": "train/Masks/n0286.png",
+    "split": "train"
+  },
+  "n0287": {
+    "image_filename": "n0287.jpg",
+    "label": "normal",
+    "mask_path": "train/Masks/n0287.png",
+    "split": "train"
+  },
+  "n0288": {
+    "image_filename": "n0288.jpg",
+    "label": "normal",
+    "mask_path": "train/Masks/n0288.png",
+    "split": "train"
+  },
+  "n0289": {
+    "image_filename": "n0289.jpg",
+    "label": "normal",
+    "mask_path": "train/Masks/n0289.png",
+    "split": "train"
+  },
+  "n0290": {
+    "image_filename": "n0290.jpg",
+    "label": "normal",
+    "mask_path": "train/Masks/n0290.png",
+    "split": "train"
+  },
+  "n0291": {
+    "image_filename": "n0291.jpg",
+    "label": "normal",
+    "mask_path": "train/Masks/n0291.png",
+    "split": "train"
+  },
+  "n0292": {
+    "image_filename": "n0292.jpg",
+    "label": "normal",
+    "mask_path": "train/Masks/n0292.png",
+    "split": "train"
+  },
+  "n0293": {
+    "image_filename": "n0293.jpg",
+    "label": "normal",
+    "mask_path": "train/Masks/n0293.png",
+    "split": "train"
+  },
+  "n0294": {
+    "image_filename": "n0294.jpg",
+    "label": "normal",
+    "mask_path": "train/Masks/n0294.png",
+    "split": "train"
+  },
+  "n0295": {
+    "image_filename": "n0295.jpg",
+    "label": "normal",
+    "mask_path": "train/Masks/n0295.png",
+    "split": "train"
+  },
+  "n0296": {
+    "image_filename": "n0296.jpg",
+    "label": "normal",
+    "mask_path": "train/Masks/n0296.png",
+    "split": "train"
+  },
+  "n0297": {
+    "image_filename": "n0297.jpg",
+    "label": "normal",
+    "mask_path": "train/Masks/n0297.png",
+    "split": "train"
+  },
+  "n0298": {
+    "image_filename": "n0298.jpg",
+    "label": "normal",
+    "mask_path": "train/Masks/n0298.png",
+    "split": "train"
+  },
+  "n0299": {
+    "image_filename": "n0299.jpg",
+    "label": "normal",
+    "mask_path": "train/Masks/n0299.png",
+    "split": "train"
+  },
+  "n0300": {
+    "image_filename": "n0300.jpg",
+    "label": "normal",
+    "mask_path": "train/Masks/n0300.png",
+    "split": "train"
+  },
+  "n0301": {
+    "image_filename": "n0301.jpg",
+    "label": "normal",
+    "mask_path": "train/Masks/n0301.png",
+    "split": "train"
+  },
+  "n0302": {
+    "image_filename": "n0302.jpg",
+    "label": "normal",
+    "mask_path": "train/Masks/n0302.png",
+    "split": "train"
+  },
+  "n0303": {
+    "image_filename": "n0303.jpg",
+    "label": "normal",
+    "mask_path": "train/Masks/n0303.png",
+    "split": "train"
+  },
+  "n0304": {
+    "image_filename": "n0304.jpg",
+    "label": "normal",
+    "mask_path": "train/Masks/n0304.png",
+    "split": "train"
+  },
+  "n0305": {
+    "image_filename": "n0305.jpg",
+    "label": "normal",
+    "mask_path": "train/Masks/n0305.png",
+    "split": "train"
+  },
+  "n0306": {
+    "image_filename": "n0306.jpg",
+    "label": "normal",
+    "mask_path": "train/Masks/n0306.png",
+    "split": "train"
+  },
+  "n0307": {
+    "image_filename": "n0307.jpg",
+    "label": "normal",
+    "mask_path": "train/Masks/n0307.png",
+    "split": "train"
+  },
+  "n0308": {
+    "image_filename": "n0308.jpg",
+    "label": "normal",
+    "mask_path": "train/Masks/n0308.png",
+    "split": "train"
+  },
+  "n0309": {
+    "image_filename": "n0309.jpg",
+    "label": "normal",
+    "mask_path": "train/Masks/n0309.png",
+    "split": "train"
+  },
+  "n0310": {
+    "image_filename": "n0310.jpg",
+    "label": "normal",
+    "mask_path": "train/Masks/n0310.png",
+    "split": "train"
+  },
+  "n0311": {
+    "image_filename": "n0311.jpg",
+    "label": "normal",
+    "mask_path": "train/Masks/n0311.png",
+    "split": "train"
+  },
+  "n0312": {
+    "image_filename": "n0312.jpg",
+    "label": "normal",
+    "mask_path": "train/Masks/n0312.png",
+    "split": "train"
+  },
+  "n0313": {
+    "image_filename": "n0313.jpg",
+    "label": "normal",
+    "mask_path": "train/Masks/n0313.png",
+    "split": "train"
+  },
+  "n0314": {
+    "image_filename": "n0314.jpg",
+    "label": "normal",
+    "mask_path": "train/Masks/n0314.png",
+    "split": "train"
+  },
+  "n0315": {
+    "image_filename": "n0315.jpg",
+    "label": "normal",
+    "mask_path": "train/Masks/n0315.png",
+    "split": "train"
+  },
+  "n0316": {
+    "image_filename": "n0316.jpg",
+    "label": "normal",
+    "mask_path": "train/Masks/n0316.png",
+    "split": "train"
+  },
+  "n0317": {
+    "image_filename": "n0317.jpg",
+    "label": "normal",
+    "mask_path": "train/Masks/n0317.png",
+    "split": "train"
+  },
+  "n0318": {
+    "image_filename": "n0318.jpg",
+    "label": "normal",
+    "mask_path": "train/Masks/n0318.png",
+    "split": "train"
+  },
+  "n0319": {
+    "image_filename": "n0319.jpg",
+    "label": "normal",
+    "mask_path": "train/Masks/n0319.png",
+    "split": "train"
+  },
+  "n0320": {
+    "image_filename": "n0320.jpg",
+    "label": "normal",
+    "mask_path": "train/Masks/n0320.png",
+    "split": "train"
+  },
+  "n0321": {
+    "image_filename": "n0321.jpg",
+    "label": "normal",
+    "mask_path": "train/Masks/n0321.png",
+    "split": "train"
+  },
+  "n0322": {
+    "image_filename": "n0322.jpg",
+    "label": "normal",
+    "mask_path": "train/Masks/n0322.png",
+    "split": "train"
+  },
+  "n0323": {
+    "image_filename": "n0323.jpg",
+    "label": "normal",
+    "mask_path": "train/Masks/n0323.png",
+    "split": "train"
+  },
+  "n0324": {
+    "image_filename": "n0324.jpg",
+    "label": "normal",
+    "mask_path": "train/Masks/n0324.png",
+    "split": "train"
+  },
+  "n0325": {
+    "image_filename": "n0325.jpg",
+    "label": "normal",
+    "mask_path": "train/Masks/n0325.png",
+    "split": "train"
+  },
+  "n0326": {
+    "image_filename": "n0326.jpg",
+    "label": "normal",
+    "mask_path": "train/Masks/n0326.png",
+    "split": "train"
+  },
+  "n0327": {
+    "image_filename": "n0327.jpg",
+    "label": "normal",
+    "mask_path": "train/Masks/n0327.png",
+    "split": "train"
+  },
+  "n0328": {
+    "image_filename": "n0328.jpg",
+    "label": "normal",
+    "mask_path": "train/Masks/n0328.png",
+    "split": "train"
+  },
+  "n0329": {
+    "image_filename": "n0329.jpg",
+    "label": "normal",
+    "mask_path": "train/Masks/n0329.png",
+    "split": "train"
+  },
+  "n0330": {
+    "image_filename": "n0330.jpg",
+    "label": "normal",
+    "mask_path": "train/Masks/n0330.png",
+    "split": "train"
+  },
+  "n0331": {
+    "image_filename": "n0331.jpg",
+    "label": "normal",
+    "mask_path": "train/Masks/n0331.png",
+    "split": "train"
+  },
+  "n0332": {
+    "image_filename": "n0332.jpg",
+    "label": "normal",
+    "mask_path": "train/Masks/n0332.png",
+    "split": "train"
+  },
+  "n0333": {
+    "image_filename": "n0333.jpg",
+    "label": "normal",
+    "mask_path": "train/Masks/n0333.png",
+    "split": "train"
+  },
+  "n0334": {
+    "image_filename": "n0334.jpg",
+    "label": "normal",
+    "mask_path": "train/Masks/n0334.png",
+    "split": "train"
+  },
+  "n0335": {
+    "image_filename": "n0335.jpg",
+    "label": "normal",
+    "mask_path": "train/Masks/n0335.png",
+    "split": "train"
+  },
+  "n0336": {
+    "image_filename": "n0336.jpg",
+    "label": "normal",
+    "mask_path": "train/Masks/n0336.png",
+    "split": "train"
+  },
+  "n0337": {
+    "image_filename": "n0337.jpg",
+    "label": "normal",
+    "mask_path": "train/Masks/n0337.png",
+    "split": "train"
+  },
+  "n0338": {
+    "image_filename": "n0338.jpg",
+    "label": "normal",
+    "mask_path": "train/Masks/n0338.png",
+    "split": "train"
+  },
+  "n0339": {
+    "image_filename": "n0339.jpg",
+    "label": "normal",
+    "mask_path": "train/Masks/n0339.png",
+    "split": "train"
+  },
+  "n0340": {
+    "image_filename": "n0340.jpg",
+    "label": "normal",
+    "mask_path": "train/Masks/n0340.png",
+    "split": "train"
+  },
+  "n0341": {
+    "image_filename": "n0341.jpg",
+    "label": "normal",
+    "mask_path": "train/Masks/n0341.png",
+    "split": "train"
+  },
+  "n0342": {
+    "image_filename": "n0342.jpg",
+    "label": "normal",
+    "mask_path": "train/Masks/n0342.png",
+    "split": "train"
+  },
+  "n0343": {
+    "image_filename": "n0343.jpg",
+    "label": "normal",
+    "mask_path": "train/Masks/n0343.png",
+    "split": "train"
+  },
+  "n0344": {
+    "image_filename": "n0344.jpg",
+    "label": "normal",
+    "mask_path": "train/Masks/n0344.png",
+    "split": "train"
+  },
+  "n0345": {
+    "image_filename": "n0345.jpg",
+    "label": "normal",
+    "mask_path": "train/Masks/n0345.png",
+    "split": "train"
+  },
+  "n0346": {
+    "image_filename": "n0346.jpg",
+    "label": "normal",
+    "mask_path": "train/Masks/n0346.png",
+    "split": "train"
+  },
+  "n0347": {
+    "image_filename": "n0347.jpg",
+    "label": "normal",
+    "mask_path": "train/Masks/n0347.png",
+    "split": "train"
+  },
+  "n0348": {
+    "image_filename": "n0348.jpg",
+    "label": "normal",
+    "mask_path": "train/Masks/n0348.png",
+    "split": "train"
+  },
+  "n0349": {
+    "image_filename": "n0349.jpg",
+    "label": "normal",
+    "mask_path": "train/Masks/n0349.png",
+    "split": "train"
+  },
+  "n0350": {
+    "image_filename": "n0350.jpg",
+    "label": "normal",
+    "mask_path": "train/Masks/n0350.png",
+    "split": "train"
+  },
+  "n0351": {
+    "image_filename": "n0351.jpg",
+    "label": "normal",
+    "mask_path": "train/Masks/n0351.png",
+    "split": "train"
+  },
+  "n0352": {
+    "image_filename": "n0352.jpg",
+    "label": "normal",
+    "mask_path": "train/Masks/n0352.png",
+    "split": "train"
+  },
+  "n0353": {
+    "image_filename": "n0353.jpg",
+    "label": "normal",
+    "mask_path": "train/Masks/n0353.png",
+    "split": "train"
+  },
+  "n0354": {
+    "image_filename": "n0354.jpg",
+    "label": "normal",
+    "mask_path": "train/Masks/n0354.png",
+    "split": "train"
+  },
+  "n0355": {
+    "image_filename": "n0355.jpg",
+    "label": "normal",
+    "mask_path": "train/Masks/n0355.png",
+    "split": "train"
+  },
+  "n0356": {
+    "image_filename": "n0356.jpg",
+    "label": "normal",
+    "mask_path": "train/Masks/n0356.png",
+    "split": "train"
+  },
+  "n0357": {
+    "image_filename": "n0357.jpg",
+    "label": "normal",
+    "mask_path": "train/Masks/n0357.png",
+    "split": "train"
+  },
+  "n0358": {
+    "image_filename": "n0358.jpg",
+    "label": "normal",
+    "mask_path": "train/Masks/n0358.png",
+    "split": "train"
+  },
+  "n0359": {
+    "image_filename": "n0359.jpg",
+    "label": "normal",
+    "mask_path": "train/Masks/n0359.png",
+    "split": "train"
+  },
+  "n0360": {
+    "image_filename": "n0360.jpg",
+    "label": "normal",
+    "mask_path": "train/Masks/n0360.png",
+    "split": "train"
+  },
+  "V0001": {
+    "image_filename": "V0001.jpg",
+    "label": "normal",
+    "mask_path": "val/Masks/V0001.png",
+    "split": "val"
+  },
+  "V0002": {
+    "image_filename": "V0002.jpg",
+    "label": "normal",
+    "mask_path": "val/Masks/V0002.png",
+    "split": "val"
+  },
+  "V0003": {
+    "image_filename": "V0003.jpg",
+    "label": "normal",
+    "mask_path": "val/Masks/V0003.png",
+    "split": "val"
+  },
+  "V0004": {
+    "image_filename": "V0004.jpg",
+    "label": "normal",
+    "mask_path": "val/Masks/V0004.png",
+    "split": "val"
+  },
+  "V0005": {
+    "image_filename": "V0005.jpg",
+    "label": "normal",
+    "mask_path": "val/Masks/V0005.png",
+    "split": "val"
+  },
+  "V0006": {
+    "image_filename": "V0006.jpg",
+    "label": "glaucoma",
+    "mask_path": "val/Masks/V0006.png",
+    "split": "val"
+  },
+  "V0007": {
+    "image_filename": "V0007.jpg",
+    "label": "normal",
+    "mask_path": "val/Masks/V0007.png",
+    "split": "val"
+  },
+  "V0008": {
+    "image_filename": "V0008.jpg",
+    "label": "normal",
+    "mask_path": "val/Masks/V0008.png",
+    "split": "val"
+  },
+  "V0009": {
+    "image_filename": "V0009.jpg",
+    "label": "normal",
+    "mask_path": "val/Masks/V0009.png",
+    "split": "val"
+  },
+  "V0010": {
+    "image_filename": "V0010.jpg",
+    "label": "normal",
+    "mask_path": "val/Masks/V0010.png",
+    "split": "val"
+  },
+  "V0011": {
+    "image_filename": "V0011.jpg",
+    "label": "normal",
+    "mask_path": "val/Masks/V0011.png",
+    "split": "val"
+  },
+  "V0012": {
+    "image_filename": "V0012.jpg",
+    "label": "normal",
+    "mask_path": "val/Masks/V0012.png",
+    "split": "val"
+  },
+  "V0013": {
+    "image_filename": "V0013.jpg",
+    "label": "normal",
+    "mask_path": "val/Masks/V0013.png",
+    "split": "val"
+  },
+  "V0014": {
+    "image_filename": "V0014.jpg",
+    "label": "normal",
+    "mask_path": "val/Masks/V0014.png",
+    "split": "val"
+  },
+  "V0015": {
+    "image_filename": "V0015.jpg",
+    "label": "normal",
+    "mask_path": "val/Masks/V0015.png",
+    "split": "val"
+  },
+  "V0016": {
+    "image_filename": "V0016.jpg",
+    "label": "normal",
+    "mask_path": "val/Masks/V0016.png",
+    "split": "val"
+  },
+  "V0017": {
+    "image_filename": "V0017.jpg",
+    "label": "normal",
+    "mask_path": "val/Masks/V0017.png",
+    "split": "val"
+  },
+  "V0018": {
+    "image_filename": "V0018.jpg",
+    "label": "normal",
+    "mask_path": "val/Masks/V0018.png",
+    "split": "val"
+  },
+  "V0019": {
+    "image_filename": "V0019.jpg",
+    "label": "normal",
+    "mask_path": "val/Masks/V0019.png",
+    "split": "val"
+  },
+  "V0020": {
+    "image_filename": "V0020.jpg",
+    "label": "normal",
+    "mask_path": "val/Masks/V0020.png",
+    "split": "val"
+  },
+  "V0021": {
+    "image_filename": "V0021.jpg",
+    "label": "normal",
+    "mask_path": "val/Masks/V0021.png",
+    "split": "val"
+  },
+  "V0022": {
+    "image_filename": "V0022.jpg",
+    "label": "normal",
+    "mask_path": "val/Masks/V0022.png",
+    "split": "val"
+  },
+  "V0023": {
+    "image_filename": "V0023.jpg",
+    "label": "normal",
+    "mask_path": "val/Masks/V0023.png",
+    "split": "val"
+  },
+  "V0024": {
+    "image_filename": "V0024.jpg",
+    "label": "normal",
+    "mask_path": "val/Masks/V0024.png",
+    "split": "val"
+  },
+  "V0025": {
+    "image_filename": "V0025.jpg",
+    "label": "normal",
+    "mask_path": "val/Masks/V0025.png",
+    "split": "val"
+  },
+  "V0026": {
+    "image_filename": "V0026.jpg",
+    "label": "glaucoma",
+    "mask_path": "val/Masks/V0026.png",
+    "split": "val"
+  },
+  "V0027": {
+    "image_filename": "V0027.jpg",
+    "label": "normal",
+    "mask_path": "val/Masks/V0027.png",
+    "split": "val"
+  },
+  "V0028": {
+    "image_filename": "V0028.jpg",
+    "label": "glaucoma",
+    "mask_path": "val/Masks/V0028.png",
+    "split": "val"
+  },
+  "V0029": {
+    "image_filename": "V0029.jpg",
+    "label": "normal",
+    "mask_path": "val/Masks/V0029.png",
+    "split": "val"
+  },
+  "V0030": {
+    "image_filename": "V0030.jpg",
+    "label": "normal",
+    "mask_path": "val/Masks/V0030.png",
+    "split": "val"
+  },
+  "V0031": {
+    "image_filename": "V0031.jpg",
+    "label": "normal",
+    "mask_path": "val/Masks/V0031.png",
+    "split": "val"
+  },
+  "V0032": {
+    "image_filename": "V0032.jpg",
+    "label": "glaucoma",
+    "mask_path": "val/Masks/V0032.png",
+    "split": "val"
+  },
+  "V0033": {
+    "image_filename": "V0033.jpg",
+    "label": "normal",
+    "mask_path": "val/Masks/V0033.png",
+    "split": "val"
+  },
+  "V0034": {
+    "image_filename": "V0034.jpg",
+    "label": "normal",
+    "mask_path": "val/Masks/V0034.png",
+    "split": "val"
+  },
+  "V0035": {
+    "image_filename": "V0035.jpg",
+    "label": "normal",
+    "mask_path": "val/Masks/V0035.png",
+    "split": "val"
+  },
+  "V0036": {
+    "image_filename": "V0036.jpg",
+    "label": "normal",
+    "mask_path": "val/Masks/V0036.png",
+    "split": "val"
+  },
+  "V0037": {
+    "image_filename": "V0037.jpg",
+    "label": "normal",
+    "mask_path": "val/Masks/V0037.png",
+    "split": "val"
+  },
+  "V0038": {
+    "image_filename": "V0038.jpg",
+    "label": "normal",
+    "mask_path": "val/Masks/V0038.png",
+    "split": "val"
+  },
+  "V0039": {
+    "image_filename": "V0039.jpg",
+    "label": "normal",
+    "mask_path": "val/Masks/V0039.png",
+    "split": "val"
+  },
+  "V0040": {
+    "image_filename": "V0040.jpg",
+    "label": "normal",
+    "mask_path": "val/Masks/V0040.png",
+    "split": "val"
+  },
+  "V0041": {
+    "image_filename": "V0041.jpg",
+    "label": "glaucoma",
+    "mask_path": "val/Masks/V0041.png",
+    "split": "val"
+  },
+  "V0042": {
+    "image_filename": "V0042.jpg",
+    "label": "normal",
+    "mask_path": "val/Masks/V0042.png",
+    "split": "val"
+  },
+  "V0043": {
+    "image_filename": "V0043.jpg",
+    "label": "normal",
+    "mask_path": "val/Masks/V0043.png",
+    "split": "val"
+  },
+  "V0044": {
+    "image_filename": "V0044.jpg",
+    "label": "normal",
+    "mask_path": "val/Masks/V0044.png",
+    "split": "val"
+  },
+  "V0045": {
+    "image_filename": "V0045.jpg",
+    "label": "normal",
+    "mask_path": "val/Masks/V0045.png",
+    "split": "val"
+  },
+  "V0046": {
+    "image_filename": "V0046.jpg",
+    "label": "glaucoma",
+    "mask_path": "val/Masks/V0046.png",
+    "split": "val"
+  },
+  "V0047": {
+    "image_filename": "V0047.jpg",
+    "label": "normal",
+    "mask_path": "val/Masks/V0047.png",
+    "split": "val"
+  },
+  "V0048": {
+    "image_filename": "V0048.jpg",
+    "label": "normal",
+    "mask_path": "val/Masks/V0048.png",
+    "split": "val"
+  },
+  "V0049": {
+    "image_filename": "V0049.jpg",
+    "label": "glaucoma",
+    "mask_path": "val/Masks/V0049.png",
+    "split": "val"
+  },
+  "V0050": {
+    "image_filename": "V0050.jpg",
+    "label": "normal",
+    "mask_path": "val/Masks/V0050.png",
+    "split": "val"
+  },
+  "V0051": {
+    "image_filename": "V0051.jpg",
+    "label": "normal",
+    "mask_path": "val/Masks/V0051.png",
+    "split": "val"
+  },
+  "V0052": {
+    "image_filename": "V0052.jpg",
+    "label": "normal",
+    "mask_path": "val/Masks/V0052.png",
+    "split": "val"
+  },
+  "V0053": {
+    "image_filename": "V0053.jpg",
+    "label": "normal",
+    "mask_path": "val/Masks/V0053.png",
+    "split": "val"
+  },
+  "V0054": {
+    "image_filename": "V0054.jpg",
+    "label": "glaucoma",
+    "mask_path": "val/Masks/V0054.png",
+    "split": "val"
+  },
+  "V0055": {
+    "image_filename": "V0055.jpg",
+    "label": "normal",
+    "mask_path": "val/Masks/V0055.png",
+    "split": "val"
+  },
+  "V0056": {
+    "image_filename": "V0056.jpg",
+    "label": "normal",
+    "mask_path": "val/Masks/V0056.png",
+    "split": "val"
+  },
+  "V0057": {
+    "image_filename": "V0057.jpg",
+    "label": "normal",
+    "mask_path": "val/Masks/V0057.png",
+    "split": "val"
+  },
+  "V0058": {
+    "image_filename": "V0058.jpg",
+    "label": "normal",
+    "mask_path": "val/Masks/V0058.png",
+    "split": "val"
+  },
+  "V0059": {
+    "image_filename": "V0059.jpg",
+    "label": "normal",
+    "mask_path": "val/Masks/V0059.png",
+    "split": "val"
+  },
+  "V0060": {
+    "image_filename": "V0060.jpg",
+    "label": "normal",
+    "mask_path": "val/Masks/V0060.png",
+    "split": "val"
+  },
+  "V0061": {
+    "image_filename": "V0061.jpg",
+    "label": "normal",
+    "mask_path": "val/Masks/V0061.png",
+    "split": "val"
+  },
+  "V0062": {
+    "image_filename": "V0062.jpg",
+    "label": "normal",
+    "mask_path": "val/Masks/V0062.png",
+    "split": "val"
+  },
+  "V0063": {
+    "image_filename": "V0063.jpg",
+    "label": "normal",
+    "mask_path": "val/Masks/V0063.png",
+    "split": "val"
+  },
+  "V0064": {
+    "image_filename": "V0064.jpg",
+    "label": "normal",
+    "mask_path": "val/Masks/V0064.png",
+    "split": "val"
+  },
+  "V0065": {
+    "image_filename": "V0065.jpg",
+    "label": "normal",
+    "mask_path": "val/Masks/V0065.png",
+    "split": "val"
+  },
+  "V0066": {
+    "image_filename": "V0066.jpg",
+    "label": "normal",
+    "mask_path": "val/Masks/V0066.png",
+    "split": "val"
+  },
+  "V0067": {
+    "image_filename": "V0067.jpg",
+    "label": "normal",
+    "mask_path": "val/Masks/V0067.png",
+    "split": "val"
+  },
+  "V0068": {
+    "image_filename": "V0068.jpg",
+    "label": "normal",
+    "mask_path": "val/Masks/V0068.png",
+    "split": "val"
+  },
+  "V0069": {
+    "image_filename": "V0069.jpg",
+    "label": "normal",
+    "mask_path": "val/Masks/V0069.png",
+    "split": "val"
+  },
+  "V0070": {
+    "image_filename": "V0070.jpg",
+    "label": "normal",
+    "mask_path": "val/Masks/V0070.png",
+    "split": "val"
+  },
+  "V0071": {
+    "image_filename": "V0071.jpg",
+    "label": "normal",
+    "mask_path": "val/Masks/V0071.png",
+    "split": "val"
+  },
+  "V0072": {
+    "image_filename": "V0072.jpg",
+    "label": "normal",
+    "mask_path": "val/Masks/V0072.png",
+    "split": "val"
+  },
+  "V0073": {
+    "image_filename": "V0073.jpg",
+    "label": "normal",
+    "mask_path": "val/Masks/V0073.png",
+    "split": "val"
+  },
+  "V0074": {
+    "image_filename": "V0074.jpg",
+    "label": "normal",
+    "mask_path": "val/Masks/V0074.png",
+    "split": "val"
+  },
+  "V0075": {
+    "image_filename": "V0075.jpg",
+    "label": "glaucoma",
+    "mask_path": "val/Masks/V0075.png",
+    "split": "val"
+  },
+  "V0076": {
+    "image_filename": "V0076.jpg",
+    "label": "normal",
+    "mask_path": "val/Masks/V0076.png",
+    "split": "val"
+  },
+  "V0077": {
+    "image_filename": "V0077.jpg",
+    "label": "normal",
+    "mask_path": "val/Masks/V0077.png",
+    "split": "val"
+  },
+  "V0078": {
+    "image_filename": "V0078.jpg",
+    "label": "normal",
+    "mask_path": "val/Masks/V0078.png",
+    "split": "val"
+  },
+  "V0079": {
+    "image_filename": "V0079.jpg",
+    "label": "normal",
+    "mask_path": "val/Masks/V0079.png",
+    "split": "val"
+  },
+  "V0080": {
+    "image_filename": "V0080.jpg",
+    "label": "normal",
+    "mask_path": "val/Masks/V0080.png",
+    "split": "val"
+  },
+  "V0081": {
+    "image_filename": "V0081.jpg",
+    "label": "normal",
+    "mask_path": "val/Masks/V0081.png",
+    "split": "val"
+  },
+  "V0082": {
+    "image_filename": "V0082.jpg",
+    "label": "normal",
+    "mask_path": "val/Masks/V0082.png",
+    "split": "val"
+  },
+  "V0083": {
+    "image_filename": "V0083.jpg",
+    "label": "normal",
+    "mask_path": "val/Masks/V0083.png",
+    "split": "val"
+  },
+  "V0084": {
+    "image_filename": "V0084.jpg",
+    "label": "normal",
+    "mask_path": "val/Masks/V0084.png",
+    "split": "val"
+  },
+  "V0085": {
+    "image_filename": "V0085.jpg",
+    "label": "normal",
+    "mask_path": "val/Masks/V0085.png",
+    "split": "val"
+  },
+  "V0086": {
+    "image_filename": "V0086.jpg",
+    "label": "normal",
+    "mask_path": "val/Masks/V0086.png",
+    "split": "val"
+  },
+  "V0087": {
+    "image_filename": "V0087.jpg",
+    "label": "normal",
+    "mask_path": "val/Masks/V0087.png",
+    "split": "val"
+  },
+  "V0088": {
+    "image_filename": "V0088.jpg",
+    "label": "normal",
+    "mask_path": "val/Masks/V0088.png",
+    "split": "val"
+  },
+  "V0089": {
+    "image_filename": "V0089.jpg",
+    "label": "normal",
+    "mask_path": "val/Masks/V0089.png",
+    "split": "val"
+  },
+  "V0090": {
+    "image_filename": "V0090.jpg",
+    "label": "normal",
+    "mask_path": "val/Masks/V0090.png",
+    "split": "val"
+  },
+  "V0091": {
+    "image_filename": "V0091.jpg",
+    "label": "normal",
+    "mask_path": "val/Masks/V0091.png",
+    "split": "val"
+  },
+  "V0092": {
+    "image_filename": "V0092.jpg",
+    "label": "normal",
+    "mask_path": "val/Masks/V0092.png",
+    "split": "val"
+  },
+  "V0093": {
+    "image_filename": "V0093.jpg",
+    "label": "normal",
+    "mask_path": "val/Masks/V0093.png",
+    "split": "val"
+  },
+  "V0094": {
+    "image_filename": "V0094.jpg",
+    "label": "normal",
+    "mask_path": "val/Masks/V0094.png",
+    "split": "val"
+  },
+  "V0095": {
+    "image_filename": "V0095.jpg",
+    "label": "glaucoma",
+    "mask_path": "val/Masks/V0095.png",
+    "split": "val"
+  },
+  "V0096": {
+    "image_filename": "V0096.jpg",
+    "label": "normal",
+    "mask_path": "val/Masks/V0096.png",
+    "split": "val"
+  },
+  "V0097": {
+    "image_filename": "V0097.jpg",
+    "label": "normal",
+    "mask_path": "val/Masks/V0097.png",
+    "split": "val"
+  },
+  "V0098": {
+    "image_filename": "V0098.jpg",
+    "label": "glaucoma",
+    "mask_path": "val/Masks/V0098.png",
+    "split": "val"
+  },
+  "V0099": {
+    "image_filename": "V0099.jpg",
+    "label": "normal",
+    "mask_path": "val/Masks/V0099.png",
+    "split": "val"
+  },
+  "V0100": {
+    "image_filename": "V0100.jpg",
+    "label": "glaucoma",
+    "mask_path": "val/Masks/V0100.png",
+    "split": "val"
+  },
+  "V0101": {
+    "image_filename": "V0101.jpg",
+    "label": "normal",
+    "mask_path": "val/Masks/V0101.png",
+    "split": "val"
+  },
+  "V0102": {
+    "image_filename": "V0102.jpg",
+    "label": "normal",
+    "mask_path": "val/Masks/V0102.png",
+    "split": "val"
+  },
+  "V0103": {
+    "image_filename": "V0103.jpg",
+    "label": "normal",
+    "mask_path": "val/Masks/V0103.png",
+    "split": "val"
+  },
+  "V0104": {
+    "image_filename": "V0104.jpg",
+    "label": "normal",
+    "mask_path": "val/Masks/V0104.png",
+    "split": "val"
+  },
+  "V0105": {
+    "image_filename": "V0105.jpg",
+    "label": "normal",
+    "mask_path": "val/Masks/V0105.png",
+    "split": "val"
+  },
+  "V0106": {
+    "image_filename": "V0106.jpg",
+    "label": "normal",
+    "mask_path": "val/Masks/V0106.png",
+    "split": "val"
+  },
+  "V0107": {
+    "image_filename": "V0107.jpg",
+    "label": "normal",
+    "mask_path": "val/Masks/V0107.png",
+    "split": "val"
+  },
+  "V0108": {
+    "image_filename": "V0108.jpg",
+    "label": "normal",
+    "mask_path": "val/Masks/V0108.png",
+    "split": "val"
+  },
+  "V0109": {
+    "image_filename": "V0109.jpg",
+    "label": "normal",
+    "mask_path": "val/Masks/V0109.png",
+    "split": "val"
+  },
+  "V0110": {
+    "image_filename": "V0110.jpg",
+    "label": "normal",
+    "mask_path": "val/Masks/V0110.png",
+    "split": "val"
+  },
+  "V0111": {
+    "image_filename": "V0111.jpg",
+    "label": "normal",
+    "mask_path": "val/Masks/V0111.png",
+    "split": "val"
+  },
+  "V0112": {
+    "image_filename": "V0112.jpg",
+    "label": "normal",
+    "mask_path": "val/Masks/V0112.png",
+    "split": "val"
+  },
+  "V0113": {
+    "image_filename": "V0113.jpg",
+    "label": "normal",
+    "mask_path": "val/Masks/V0113.png",
+    "split": "val"
+  },
+  "V0114": {
+    "image_filename": "V0114.jpg",
+    "label": "normal",
+    "mask_path": "val/Masks/V0114.png",
+    "split": "val"
+  },
+  "V0115": {
+    "image_filename": "V0115.jpg",
+    "label": "normal",
+    "mask_path": "val/Masks/V0115.png",
+    "split": "val"
+  },
+  "V0116": {
+    "image_filename": "V0116.jpg",
+    "label": "normal",
+    "mask_path": "val/Masks/V0116.png",
+    "split": "val"
+  },
+  "V0117": {
+    "image_filename": "V0117.jpg",
+    "label": "normal",
+    "mask_path": "val/Masks/V0117.png",
+    "split": "val"
+  },
+  "V0118": {
+    "image_filename": "V0118.jpg",
+    "label": "normal",
+    "mask_path": "val/Masks/V0118.png",
+    "split": "val"
+  },
+  "V0119": {
+    "image_filename": "V0119.jpg",
+    "label": "normal",
+    "mask_path": "val/Masks/V0119.png",
+    "split": "val"
+  },
+  "V0120": {
+    "image_filename": "V0120.jpg",
+    "label": "normal",
+    "mask_path": "val/Masks/V0120.png",
+    "split": "val"
+  },
+  "V0121": {
+    "image_filename": "V0121.jpg",
+    "label": "normal",
+    "mask_path": "val/Masks/V0121.png",
+    "split": "val"
+  },
+  "V0122": {
+    "image_filename": "V0122.jpg",
+    "label": "normal",
+    "mask_path": "val/Masks/V0122.png",
+    "split": "val"
+  },
+  "V0123": {
+    "image_filename": "V0123.jpg",
+    "label": "normal",
+    "mask_path": "val/Masks/V0123.png",
+    "split": "val"
+  },
+  "V0124": {
+    "image_filename": "V0124.jpg",
+    "label": "normal",
+    "mask_path": "val/Masks/V0124.png",
+    "split": "val"
+  },
+  "V0125": {
+    "image_filename": "V0125.jpg",
+    "label": "glaucoma",
+    "mask_path": "val/Masks/V0125.png",
+    "split": "val"
+  },
+  "V0126": {
+    "image_filename": "V0126.jpg",
+    "label": "normal",
+    "mask_path": "val/Masks/V0126.png",
+    "split": "val"
+  },
+  "V0127": {
+    "image_filename": "V0127.jpg",
+    "label": "normal",
+    "mask_path": "val/Masks/V0127.png",
+    "split": "val"
+  },
+  "V0128": {
+    "image_filename": "V0128.jpg",
+    "label": "glaucoma",
+    "mask_path": "val/Masks/V0128.png",
+    "split": "val"
+  },
+  "V0129": {
+    "image_filename": "V0129.jpg",
+    "label": "normal",
+    "mask_path": "val/Masks/V0129.png",
+    "split": "val"
+  },
+  "V0130": {
+    "image_filename": "V0130.jpg",
+    "label": "normal",
+    "mask_path": "val/Masks/V0130.png",
+    "split": "val"
+  },
+  "V0131": {
+    "image_filename": "V0131.jpg",
+    "label": "normal",
+    "mask_path": "val/Masks/V0131.png",
+    "split": "val"
+  },
+  "V0132": {
+    "image_filename": "V0132.jpg",
+    "label": "normal",
+    "mask_path": "val/Masks/V0132.png",
+    "split": "val"
+  },
+  "V0133": {
+    "image_filename": "V0133.jpg",
+    "label": "normal",
+    "mask_path": "val/Masks/V0133.png",
+    "split": "val"
+  },
+  "V0134": {
+    "image_filename": "V0134.jpg",
+    "label": "normal",
+    "mask_path": "val/Masks/V0134.png",
+    "split": "val"
+  },
+  "V0135": {
+    "image_filename": "V0135.jpg",
+    "label": "normal",
+    "mask_path": "val/Masks/V0135.png",
+    "split": "val"
+  },
+  "V0136": {
+    "image_filename": "V0136.jpg",
+    "label": "normal",
+    "mask_path": "val/Masks/V0136.png",
+    "split": "val"
+  },
+  "V0137": {
+    "image_filename": "V0137.jpg",
+    "label": "normal",
+    "mask_path": "val/Masks/V0137.png",
+    "split": "val"
+  },
+  "V0138": {
+    "image_filename": "V0138.jpg",
+    "label": "normal",
+    "mask_path": "val/Masks/V0138.png",
+    "split": "val"
+  },
+  "V0139": {
+    "image_filename": "V0139.jpg",
+    "label": "normal",
+    "mask_path": "val/Masks/V0139.png",
+    "split": "val"
+  },
+  "V0140": {
+    "image_filename": "V0140.jpg",
+    "label": "normal",
+    "mask_path": "val/Masks/V0140.png",
+    "split": "val"
+  },
+  "V0141": {
+    "image_filename": "V0141.jpg",
+    "label": "normal",
+    "mask_path": "val/Masks/V0141.png",
+    "split": "val"
+  },
+  "V0142": {
+    "image_filename": "V0142.jpg",
+    "label": "normal",
+    "mask_path": "val/Masks/V0142.png",
+    "split": "val"
+  },
+  "V0143": {
+    "image_filename": "V0143.jpg",
+    "label": "normal",
+    "mask_path": "val/Masks/V0143.png",
+    "split": "val"
+  },
+  "V0144": {
+    "image_filename": "V0144.jpg",
+    "label": "normal",
+    "mask_path": "val/Masks/V0144.png",
+    "split": "val"
+  },
+  "V0145": {
+    "image_filename": "V0145.jpg",
+    "label": "normal",
+    "mask_path": "val/Masks/V0145.png",
+    "split": "val"
+  },
+  "V0146": {
+    "image_filename": "V0146.jpg",
+    "label": "normal",
+    "mask_path": "val/Masks/V0146.png",
+    "split": "val"
+  },
+  "V0147": {
+    "image_filename": "V0147.jpg",
+    "label": "normal",
+    "mask_path": "val/Masks/V0147.png",
+    "split": "val"
+  },
+  "V0148": {
+    "image_filename": "V0148.jpg",
+    "label": "normal",
+    "mask_path": "val/Masks/V0148.png",
+    "split": "val"
+  },
+  "V0149": {
+    "image_filename": "V0149.jpg",
+    "label": "glaucoma",
+    "mask_path": "val/Masks/V0149.png",
+    "split": "val"
+  },
+  "V0150": {
+    "image_filename": "V0150.jpg",
+    "label": "normal",
+    "mask_path": "val/Masks/V0150.png",
+    "split": "val"
+  },
+  "V0151": {
+    "image_filename": "V0151.jpg",
+    "label": "normal",
+    "mask_path": "val/Masks/V0151.png",
+    "split": "val"
+  },
+  "V0152": {
+    "image_filename": "V0152.jpg",
+    "label": "normal",
+    "mask_path": "val/Masks/V0152.png",
+    "split": "val"
+  },
+  "V0153": {
+    "image_filename": "V0153.jpg",
+    "label": "normal",
+    "mask_path": "val/Masks/V0153.png",
+    "split": "val"
+  },
+  "V0154": {
+    "image_filename": "V0154.jpg",
+    "label": "normal",
+    "mask_path": "val/Masks/V0154.png",
+    "split": "val"
+  },
+  "V0155": {
+    "image_filename": "V0155.jpg",
+    "label": "normal",
+    "mask_path": "val/Masks/V0155.png",
+    "split": "val"
+  },
+  "V0156": {
+    "image_filename": "V0156.jpg",
+    "label": "normal",
+    "mask_path": "val/Masks/V0156.png",
+    "split": "val"
+  },
+  "V0157": {
+    "image_filename": "V0157.jpg",
+    "label": "normal",
+    "mask_path": "val/Masks/V0157.png",
+    "split": "val"
+  },
+  "V0158": {
+    "image_filename": "V0158.jpg",
+    "label": "normal",
+    "mask_path": "val/Masks/V0158.png",
+    "split": "val"
+  },
+  "V0159": {
+    "image_filename": "V0159.jpg",
+    "label": "glaucoma",
+    "mask_path": "val/Masks/V0159.png",
+    "split": "val"
+  },
+  "V0160": {
+    "image_filename": "V0160.jpg",
+    "label": "glaucoma",
+    "mask_path": "val/Masks/V0160.png",
+    "split": "val"
+  },
+  "V0161": {
+    "image_filename": "V0161.jpg",
+    "label": "normal",
+    "mask_path": "val/Masks/V0161.png",
+    "split": "val"
+  },
+  "V0162": {
+    "image_filename": "V0162.jpg",
+    "label": "normal",
+    "mask_path": "val/Masks/V0162.png",
+    "split": "val"
+  },
+  "V0163": {
+    "image_filename": "V0163.jpg",
+    "label": "normal",
+    "mask_path": "val/Masks/V0163.png",
+    "split": "val"
+  },
+  "V0164": {
+    "image_filename": "V0164.jpg",
+    "label": "normal",
+    "mask_path": "val/Masks/V0164.png",
+    "split": "val"
+  },
+  "V0165": {
+    "image_filename": "V0165.jpg",
+    "label": "normal",
+    "mask_path": "val/Masks/V0165.png",
+    "split": "val"
+  },
+  "V0166": {
+    "image_filename": "V0166.jpg",
+    "label": "normal",
+    "mask_path": "val/Masks/V0166.png",
+    "split": "val"
+  },
+  "V0167": {
+    "image_filename": "V0167.jpg",
+    "label": "normal",
+    "mask_path": "val/Masks/V0167.png",
+    "split": "val"
+  },
+  "V0168": {
+    "image_filename": "V0168.jpg",
+    "label": "normal",
+    "mask_path": "val/Masks/V0168.png",
+    "split": "val"
+  },
+  "V0169": {
+    "image_filename": "V0169.jpg",
+    "label": "normal",
+    "mask_path": "val/Masks/V0169.png",
+    "split": "val"
+  },
+  "V0170": {
+    "image_filename": "V0170.jpg",
+    "label": "normal",
+    "mask_path": "val/Masks/V0170.png",
+    "split": "val"
+  },
+  "V0171": {
+    "image_filename": "V0171.jpg",
+    "label": "glaucoma",
+    "mask_path": "val/Masks/V0171.png",
+    "split": "val"
+  },
+  "V0172": {
+    "image_filename": "V0172.jpg",
+    "label": "normal",
+    "mask_path": "val/Masks/V0172.png",
+    "split": "val"
+  },
+  "V0173": {
+    "image_filename": "V0173.jpg",
+    "label": "normal",
+    "mask_path": "val/Masks/V0173.png",
+    "split": "val"
+  },
+  "V0174": {
+    "image_filename": "V0174.jpg",
+    "label": "normal",
+    "mask_path": "val/Masks/V0174.png",
+    "split": "val"
+  },
+  "V0175": {
+    "image_filename": "V0175.jpg",
+    "label": "glaucoma",
+    "mask_path": "val/Masks/V0175.png",
+    "split": "val"
+  },
+  "V0176": {
+    "image_filename": "V0176.jpg",
+    "label": "normal",
+    "mask_path": "val/Masks/V0176.png",
+    "split": "val"
+  },
+  "V0177": {
+    "image_filename": "V0177.jpg",
+    "label": "normal",
+    "mask_path": "val/Masks/V0177.png",
+    "split": "val"
+  },
+  "V0178": {
+    "image_filename": "V0178.jpg",
+    "label": "normal",
+    "mask_path": "val/Masks/V0178.png",
+    "split": "val"
+  },
+  "V0179": {
+    "image_filename": "V0179.jpg",
+    "label": "normal",
+    "mask_path": "val/Masks/V0179.png",
+    "split": "val"
+  },
+  "V0180": {
+    "image_filename": "V0180.jpg",
+    "label": "normal",
+    "mask_path": "val/Masks/V0180.png",
+    "split": "val"
+  },
+  "V0181": {
+    "image_filename": "V0181.jpg",
+    "label": "glaucoma",
+    "mask_path": "val/Masks/V0181.png",
+    "split": "val"
+  },
+  "V0182": {
+    "image_filename": "V0182.jpg",
+    "label": "normal",
+    "mask_path": "val/Masks/V0182.png",
+    "split": "val"
+  },
+  "V0183": {
+    "image_filename": "V0183.jpg",
+    "label": "normal",
+    "mask_path": "val/Masks/V0183.png",
+    "split": "val"
+  },
+  "V0184": {
+    "image_filename": "V0184.jpg",
+    "label": "normal",
+    "mask_path": "val/Masks/V0184.png",
+    "split": "val"
+  },
+  "V0185": {
+    "image_filename": "V0185.jpg",
+    "label": "normal",
+    "mask_path": "val/Masks/V0185.png",
+    "split": "val"
+  },
+  "V0186": {
+    "image_filename": "V0186.jpg",
+    "label": "normal",
+    "mask_path": "val/Masks/V0186.png",
+    "split": "val"
+  },
+  "V0187": {
+    "image_filename": "V0187.jpg",
+    "label": "normal",
+    "mask_path": "val/Masks/V0187.png",
+    "split": "val"
+  },
+  "V0188": {
+    "image_filename": "V0188.jpg",
+    "label": "normal",
+    "mask_path": "val/Masks/V0188.png",
+    "split": "val"
+  },
+  "V0189": {
+    "image_filename": "V0189.jpg",
+    "label": "normal",
+    "mask_path": "val/Masks/V0189.png",
+    "split": "val"
+  },
+  "V0190": {
+    "image_filename": "V0190.jpg",
+    "label": "normal",
+    "mask_path": "val/Masks/V0190.png",
+    "split": "val"
+  },
+  "V0191": {
+    "image_filename": "V0191.jpg",
+    "label": "normal",
+    "mask_path": "val/Masks/V0191.png",
+    "split": "val"
+  },
+  "V0192": {
+    "image_filename": "V0192.jpg",
+    "label": "normal",
+    "mask_path": "val/Masks/V0192.png",
+    "split": "val"
+  },
+  "V0193": {
+    "image_filename": "V0193.jpg",
+    "label": "normal",
+    "mask_path": "val/Masks/V0193.png",
+    "split": "val"
+  },
+  "V0194": {
+    "image_filename": "V0194.jpg",
+    "label": "normal",
+    "mask_path": "val/Masks/V0194.png",
+    "split": "val"
+  },
+  "V0195": {
+    "image_filename": "V0195.jpg",
+    "label": "normal",
+    "mask_path": "val/Masks/V0195.png",
+    "split": "val"
+  },
+  "V0196": {
+    "image_filename": "V0196.jpg",
+    "label": "normal",
+    "mask_path": "val/Masks/V0196.png",
+    "split": "val"
+  },
+  "V0197": {
+    "image_filename": "V0197.jpg",
+    "label": "normal",
+    "mask_path": "val/Masks/V0197.png",
+    "split": "val"
+  },
+  "V0198": {
+    "image_filename": "V0198.jpg",
+    "label": "normal",
+    "mask_path": "val/Masks/V0198.png",
+    "split": "val"
+  },
+  "V0199": {
+    "image_filename": "V0199.jpg",
+    "label": "normal",
+    "mask_path": "val/Masks/V0199.png",
+    "split": "val"
+  },
+  "V0200": {
+    "image_filename": "V0200.jpg",
+    "label": "normal",
+    "mask_path": "val/Masks/V0200.png",
+    "split": "val"
+  },
+  "V0201": {
+    "image_filename": "V0201.jpg",
+    "label": "normal",
+    "mask_path": "val/Masks/V0201.png",
+    "split": "val"
+  },
+  "V0202": {
+    "image_filename": "V0202.jpg",
+    "label": "normal",
+    "mask_path": "val/Masks/V0202.png",
+    "split": "val"
+  },
+  "V0203": {
+    "image_filename": "V0203.jpg",
+    "label": "normal",
+    "mask_path": "val/Masks/V0203.png",
+    "split": "val"
+  },
+  "V0204": {
+    "image_filename": "V0204.jpg",
+    "label": "normal",
+    "mask_path": "val/Masks/V0204.png",
+    "split": "val"
+  },
+  "V0205": {
+    "image_filename": "V0205.jpg",
+    "label": "glaucoma",
+    "mask_path": "val/Masks/V0205.png",
+    "split": "val"
+  },
+  "V0206": {
+    "image_filename": "V0206.jpg",
+    "label": "normal",
+    "mask_path": "val/Masks/V0206.png",
+    "split": "val"
+  },
+  "V0207": {
+    "image_filename": "V0207.jpg",
+    "label": "normal",
+    "mask_path": "val/Masks/V0207.png",
+    "split": "val"
+  },
+  "V0208": {
+    "image_filename": "V0208.jpg",
+    "label": "glaucoma",
+    "mask_path": "val/Masks/V0208.png",
+    "split": "val"
+  },
+  "V0209": {
+    "image_filename": "V0209.jpg",
+    "label": "normal",
+    "mask_path": "val/Masks/V0209.png",
+    "split": "val"
+  },
+  "V0210": {
+    "image_filename": "V0210.jpg",
+    "label": "normal",
+    "mask_path": "val/Masks/V0210.png",
+    "split": "val"
+  },
+  "V0211": {
+    "image_filename": "V0211.jpg",
+    "label": "normal",
+    "mask_path": "val/Masks/V0211.png",
+    "split": "val"
+  },
+  "V0212": {
+    "image_filename": "V0212.jpg",
+    "label": "normal",
+    "mask_path": "val/Masks/V0212.png",
+    "split": "val"
+  },
+  "V0213": {
+    "image_filename": "V0213.jpg",
+    "label": "normal",
+    "mask_path": "val/Masks/V0213.png",
+    "split": "val"
+  },
+  "V0214": {
+    "image_filename": "V0214.jpg",
+    "label": "glaucoma",
+    "mask_path": "val/Masks/V0214.png",
+    "split": "val"
+  },
+  "V0215": {
+    "image_filename": "V0215.jpg",
+    "label": "normal",
+    "mask_path": "val/Masks/V0215.png",
+    "split": "val"
+  },
+  "V0216": {
+    "image_filename": "V0216.jpg",
+    "label": "glaucoma",
+    "mask_path": "val/Masks/V0216.png",
+    "split": "val"
+  },
+  "V0217": {
+    "image_filename": "V0217.jpg",
+    "label": "normal",
+    "mask_path": "val/Masks/V0217.png",
+    "split": "val"
+  },
+  "V0218": {
+    "image_filename": "V0218.jpg",
+    "label": "normal",
+    "mask_path": "val/Masks/V0218.png",
+    "split": "val"
+  },
+  "V0219": {
+    "image_filename": "V0219.jpg",
+    "label": "normal",
+    "mask_path": "val/Masks/V0219.png",
+    "split": "val"
+  },
+  "V0220": {
+    "image_filename": "V0220.jpg",
+    "label": "normal",
+    "mask_path": "val/Masks/V0220.png",
+    "split": "val"
+  },
+  "V0221": {
+    "image_filename": "V0221.jpg",
+    "label": "normal",
+    "mask_path": "val/Masks/V0221.png",
+    "split": "val"
+  },
+  "V0222": {
+    "image_filename": "V0222.jpg",
+    "label": "normal",
+    "mask_path": "val/Masks/V0222.png",
+    "split": "val"
+  },
+  "V0223": {
+    "image_filename": "V0223.jpg",
+    "label": "normal",
+    "mask_path": "val/Masks/V0223.png",
+    "split": "val"
+  },
+  "V0224": {
+    "image_filename": "V0224.jpg",
+    "label": "normal",
+    "mask_path": "val/Masks/V0224.png",
+    "split": "val"
+  },
+  "V0225": {
+    "image_filename": "V0225.jpg",
+    "label": "normal",
+    "mask_path": "val/Masks/V0225.png",
+    "split": "val"
+  },
+  "V0226": {
+    "image_filename": "V0226.jpg",
+    "label": "glaucoma",
+    "mask_path": "val/Masks/V0226.png",
+    "split": "val"
+  },
+  "V0227": {
+    "image_filename": "V0227.jpg",
+    "label": "glaucoma",
+    "mask_path": "val/Masks/V0227.png",
+    "split": "val"
+  },
+  "V0228": {
+    "image_filename": "V0228.jpg",
+    "label": "normal",
+    "mask_path": "val/Masks/V0228.png",
+    "split": "val"
+  },
+  "V0229": {
+    "image_filename": "V0229.jpg",
+    "label": "normal",
+    "mask_path": "val/Masks/V0229.png",
+    "split": "val"
+  },
+  "V0230": {
+    "image_filename": "V0230.jpg",
+    "label": "normal",
+    "mask_path": "val/Masks/V0230.png",
+    "split": "val"
+  },
+  "V0231": {
+    "image_filename": "V0231.jpg",
+    "label": "normal",
+    "mask_path": "val/Masks/V0231.png",
+    "split": "val"
+  },
+  "V0232": {
+    "image_filename": "V0232.jpg",
+    "label": "normal",
+    "mask_path": "val/Masks/V0232.png",
+    "split": "val"
+  },
+  "V0233": {
+    "image_filename": "V0233.jpg",
+    "label": "normal",
+    "mask_path": "val/Masks/V0233.png",
+    "split": "val"
+  },
+  "V0234": {
+    "image_filename": "V0234.jpg",
+    "label": "normal",
+    "mask_path": "val/Masks/V0234.png",
+    "split": "val"
+  },
+  "V0235": {
+    "image_filename": "V0235.jpg",
+    "label": "normal",
+    "mask_path": "val/Masks/V0235.png",
+    "split": "val"
+  },
+  "V0236": {
+    "image_filename": "V0236.jpg",
+    "label": "normal",
+    "mask_path": "val/Masks/V0236.png",
+    "split": "val"
+  },
+  "V0237": {
+    "image_filename": "V0237.jpg",
+    "label": "normal",
+    "mask_path": "val/Masks/V0237.png",
+    "split": "val"
+  },
+  "V0238": {
+    "image_filename": "V0238.jpg",
+    "label": "normal",
+    "mask_path": "val/Masks/V0238.png",
+    "split": "val"
+  },
+  "V0239": {
+    "image_filename": "V0239.jpg",
+    "label": "normal",
+    "mask_path": "val/Masks/V0239.png",
+    "split": "val"
+  },
+  "V0240": {
+    "image_filename": "V0240.jpg",
+    "label": "normal",
+    "mask_path": "val/Masks/V0240.png",
+    "split": "val"
+  },
+  "V0241": {
+    "image_filename": "V0241.jpg",
+    "label": "normal",
+    "mask_path": "val/Masks/V0241.png",
+    "split": "val"
+  },
+  "V0242": {
+    "image_filename": "V0242.jpg",
+    "label": "glaucoma",
+    "mask_path": "val/Masks/V0242.png",
+    "split": "val"
+  },
+  "V0243": {
+    "image_filename": "V0243.jpg",
+    "label": "normal",
+    "mask_path": "val/Masks/V0243.png",
+    "split": "val"
+  },
+  "V0244": {
+    "image_filename": "V0244.jpg",
+    "label": "normal",
+    "mask_path": "val/Masks/V0244.png",
+    "split": "val"
+  },
+  "V0245": {
+    "image_filename": "V0245.jpg",
+    "label": "normal",
+    "mask_path": "val/Masks/V0245.png",
+    "split": "val"
+  },
+  "V0246": {
+    "image_filename": "V0246.jpg",
+    "label": "normal",
+    "mask_path": "val/Masks/V0246.png",
+    "split": "val"
+  },
+  "V0247": {
+    "image_filename": "V0247.jpg",
+    "label": "glaucoma",
+    "mask_path": "val/Masks/V0247.png",
+    "split": "val"
+  },
+  "V0248": {
+    "image_filename": "V0248.jpg",
+    "label": "normal",
+    "mask_path": "val/Masks/V0248.png",
+    "split": "val"
+  },
+  "V0249": {
+    "image_filename": "V0249.jpg",
+    "label": "normal",
+    "mask_path": "val/Masks/V0249.png",
+    "split": "val"
+  },
+  "V0250": {
+    "image_filename": "V0250.jpg",
+    "label": "normal",
+    "mask_path": "val/Masks/V0250.png",
+    "split": "val"
+  },
+  "V0251": {
+    "image_filename": "V0251.jpg",
+    "label": "normal",
+    "mask_path": "val/Masks/V0251.png",
+    "split": "val"
+  },
+  "V0252": {
+    "image_filename": "V0252.jpg",
+    "label": "glaucoma",
+    "mask_path": "val/Masks/V0252.png",
+    "split": "val"
+  },
+  "V0253": {
+    "image_filename": "V0253.jpg",
+    "label": "normal",
+    "mask_path": "val/Masks/V0253.png",
+    "split": "val"
+  },
+  "V0254": {
+    "image_filename": "V0254.jpg",
+    "label": "normal",
+    "mask_path": "val/Masks/V0254.png",
+    "split": "val"
+  },
+  "V0255": {
+    "image_filename": "V0255.jpg",
+    "label": "normal",
+    "mask_path": "val/Masks/V0255.png",
+    "split": "val"
+  },
+  "V0256": {
+    "image_filename": "V0256.jpg",
+    "label": "normal",
+    "mask_path": "val/Masks/V0256.png",
+    "split": "val"
+  },
+  "V0257": {
+    "image_filename": "V0257.jpg",
+    "label": "normal",
+    "mask_path": "val/Masks/V0257.png",
+    "split": "val"
+  },
+  "V0258": {
+    "image_filename": "V0258.jpg",
+    "label": "normal",
+    "mask_path": "val/Masks/V0258.png",
+    "split": "val"
+  },
+  "V0259": {
+    "image_filename": "V0259.jpg",
+    "label": "normal",
+    "mask_path": "val/Masks/V0259.png",
+    "split": "val"
+  },
+  "V0260": {
+    "image_filename": "V0260.jpg",
+    "label": "normal",
+    "mask_path": "val/Masks/V0260.png",
+    "split": "val"
+  },
+  "V0261": {
+    "image_filename": "V0261.jpg",
+    "label": "normal",
+    "mask_path": "val/Masks/V0261.png",
+    "split": "val"
+  },
+  "V0262": {
+    "image_filename": "V0262.jpg",
+    "label": "normal",
+    "mask_path": "val/Masks/V0262.png",
+    "split": "val"
+  },
+  "V0263": {
+    "image_filename": "V0263.jpg",
+    "label": "normal",
+    "mask_path": "val/Masks/V0263.png",
+    "split": "val"
+  },
+  "V0264": {
+    "image_filename": "V0264.jpg",
+    "label": "normal",
+    "mask_path": "val/Masks/V0264.png",
+    "split": "val"
+  },
+  "V0265": {
+    "image_filename": "V0265.jpg",
+    "label": "normal",
+    "mask_path": "val/Masks/V0265.png",
+    "split": "val"
+  },
+  "V0266": {
+    "image_filename": "V0266.jpg",
+    "label": "normal",
+    "mask_path": "val/Masks/V0266.png",
+    "split": "val"
+  },
+  "V0267": {
+    "image_filename": "V0267.jpg",
+    "label": "normal",
+    "mask_path": "val/Masks/V0267.png",
+    "split": "val"
+  },
+  "V0268": {
+    "image_filename": "V0268.jpg",
+    "label": "normal",
+    "mask_path": "val/Masks/V0268.png",
+    "split": "val"
+  },
+  "V0269": {
+    "image_filename": "V0269.jpg",
+    "label": "normal",
+    "mask_path": "val/Masks/V0269.png",
+    "split": "val"
+  },
+  "V0270": {
+    "image_filename": "V0270.jpg",
+    "label": "glaucoma",
+    "mask_path": "val/Masks/V0270.png",
+    "split": "val"
+  },
+  "V0271": {
+    "image_filename": "V0271.jpg",
+    "label": "glaucoma",
+    "mask_path": "val/Masks/V0271.png",
+    "split": "val"
+  },
+  "V0272": {
+    "image_filename": "V0272.jpg",
+    "label": "normal",
+    "mask_path": "val/Masks/V0272.png",
+    "split": "val"
+  },
+  "V0273": {
+    "image_filename": "V0273.jpg",
+    "label": "normal",
+    "mask_path": "val/Masks/V0273.png",
+    "split": "val"
+  },
+  "V0274": {
+    "image_filename": "V0274.jpg",
+    "label": "normal",
+    "mask_path": "val/Masks/V0274.png",
+    "split": "val"
+  },
+  "V0275": {
+    "image_filename": "V0275.jpg",
+    "label": "normal",
+    "mask_path": "val/Masks/V0275.png",
+    "split": "val"
+  },
+  "V0276": {
+    "image_filename": "V0276.jpg",
+    "label": "normal",
+    "mask_path": "val/Masks/V0276.png",
+    "split": "val"
+  },
+  "V0277": {
+    "image_filename": "V0277.jpg",
+    "label": "normal",
+    "mask_path": "val/Masks/V0277.png",
+    "split": "val"
+  },
+  "V0278": {
+    "image_filename": "V0278.jpg",
+    "label": "normal",
+    "mask_path": "val/Masks/V0278.png",
+    "split": "val"
+  },
+  "V0279": {
+    "image_filename": "V0279.jpg",
+    "label": "normal",
+    "mask_path": "val/Masks/V0279.png",
+    "split": "val"
+  },
+  "V0280": {
+    "image_filename": "V0280.jpg",
+    "label": "normal",
+    "mask_path": "val/Masks/V0280.png",
+    "split": "val"
+  },
+  "V0281": {
+    "image_filename": "V0281.jpg",
+    "label": "normal",
+    "mask_path": "val/Masks/V0281.png",
+    "split": "val"
+  },
+  "V0282": {
+    "image_filename": "V0282.jpg",
+    "label": "normal",
+    "mask_path": "val/Masks/V0282.png",
+    "split": "val"
+  },
+  "V0283": {
+    "image_filename": "V0283.jpg",
+    "label": "normal",
+    "mask_path": "val/Masks/V0283.png",
+    "split": "val"
+  },
+  "V0284": {
+    "image_filename": "V0284.jpg",
+    "label": "normal",
+    "mask_path": "val/Masks/V0284.png",
+    "split": "val"
+  },
+  "V0285": {
+    "image_filename": "V0285.jpg",
+    "label": "glaucoma",
+    "mask_path": "val/Masks/V0285.png",
+    "split": "val"
+  },
+  "V0286": {
+    "image_filename": "V0286.jpg",
+    "label": "normal",
+    "mask_path": "val/Masks/V0286.png",
+    "split": "val"
+  },
+  "V0287": {
+    "image_filename": "V0287.jpg",
+    "label": "normal",
+    "mask_path": "val/Masks/V0287.png",
+    "split": "val"
+  },
+  "V0288": {
+    "image_filename": "V0288.jpg",
+    "label": "normal",
+    "mask_path": "val/Masks/V0288.png",
+    "split": "val"
+  },
+  "V0289": {
+    "image_filename": "V0289.jpg",
+    "label": "normal",
+    "mask_path": "val/Masks/V0289.png",
+    "split": "val"
+  },
+  "V0290": {
+    "image_filename": "V0290.jpg",
+    "label": "normal",
+    "mask_path": "val/Masks/V0290.png",
+    "split": "val"
+  },
+  "V0291": {
+    "image_filename": "V0291.jpg",
+    "label": "normal",
+    "mask_path": "val/Masks/V0291.png",
+    "split": "val"
+  },
+  "V0292": {
+    "image_filename": "V0292.jpg",
+    "label": "normal",
+    "mask_path": "val/Masks/V0292.png",
+    "split": "val"
+  },
+  "V0293": {
+    "image_filename": "V0293.jpg",
+    "label": "normal",
+    "mask_path": "val/Masks/V0293.png",
+    "split": "val"
+  },
+  "V0294": {
+    "image_filename": "V0294.jpg",
+    "label": "normal",
+    "mask_path": "val/Masks/V0294.png",
+    "split": "val"
+  },
+  "V0295": {
+    "image_filename": "V0295.jpg",
+    "label": "normal",
+    "mask_path": "val/Masks/V0295.png",
+    "split": "val"
+  },
+  "V0296": {
+    "image_filename": "V0296.jpg",
+    "label": "normal",
+    "mask_path": "val/Masks/V0296.png",
+    "split": "val"
+  },
+  "V0297": {
+    "image_filename": "V0297.jpg",
+    "label": "normal",
+    "mask_path": "val/Masks/V0297.png",
+    "split": "val"
+  },
+  "V0298": {
+    "image_filename": "V0298.jpg",
+    "label": "normal",
+    "mask_path": "val/Masks/V0298.png",
+    "split": "val"
+  },
+  "V0299": {
+    "image_filename": "V0299.jpg",
+    "label": "normal",
+    "mask_path": "val/Masks/V0299.png",
+    "split": "val"
+  },
+  "V0300": {
+    "image_filename": "V0300.jpg",
+    "label": "normal",
+    "mask_path": "val/Masks/V0300.png",
+    "split": "val"
+  },
+  "V0301": {
+    "image_filename": "V0301.jpg",
+    "label": "normal",
+    "mask_path": "val/Masks/V0301.png",
+    "split": "val"
+  },
+  "V0302": {
+    "image_filename": "V0302.jpg",
+    "label": "normal",
+    "mask_path": "val/Masks/V0302.png",
+    "split": "val"
+  },
+  "V0303": {
+    "image_filename": "V0303.jpg",
+    "label": "normal",
+    "mask_path": "val/Masks/V0303.png",
+    "split": "val"
+  },
+  "V0304": {
+    "image_filename": "V0304.jpg",
+    "label": "normal",
+    "mask_path": "val/Masks/V0304.png",
+    "split": "val"
+  },
+  "V0305": {
+    "image_filename": "V0305.jpg",
+    "label": "normal",
+    "mask_path": "val/Masks/V0305.png",
+    "split": "val"
+  },
+  "V0306": {
+    "image_filename": "V0306.jpg",
+    "label": "normal",
+    "mask_path": "val/Masks/V0306.png",
+    "split": "val"
+  },
+  "V0307": {
+    "image_filename": "V0307.jpg",
+    "label": "normal",
+    "mask_path": "val/Masks/V0307.png",
+    "split": "val"
+  },
+  "V0308": {
+    "image_filename": "V0308.jpg",
+    "label": "normal",
+    "mask_path": "val/Masks/V0308.png",
+    "split": "val"
+  },
+  "V0309": {
+    "image_filename": "V0309.jpg",
+    "label": "normal",
+    "mask_path": "val/Masks/V0309.png",
+    "split": "val"
+  },
+  "V0310": {
+    "image_filename": "V0310.jpg",
+    "label": "normal",
+    "mask_path": "val/Masks/V0310.png",
+    "split": "val"
+  },
+  "V0311": {
+    "image_filename": "V0311.jpg",
+    "label": "normal",
+    "mask_path": "val/Masks/V0311.png",
+    "split": "val"
+  },
+  "V0312": {
+    "image_filename": "V0312.jpg",
+    "label": "normal",
+    "mask_path": "val/Masks/V0312.png",
+    "split": "val"
+  },
+  "V0313": {
+    "image_filename": "V0313.jpg",
+    "label": "normal",
+    "mask_path": "val/Masks/V0313.png",
+    "split": "val"
+  },
+  "V0314": {
+    "image_filename": "V0314.jpg",
+    "label": "normal",
+    "mask_path": "val/Masks/V0314.png",
+    "split": "val"
+  },
+  "V0315": {
+    "image_filename": "V0315.jpg",
+    "label": "normal",
+    "mask_path": "val/Masks/V0315.png",
+    "split": "val"
+  },
+  "V0316": {
+    "image_filename": "V0316.jpg",
+    "label": "normal",
+    "mask_path": "val/Masks/V0316.png",
+    "split": "val"
+  },
+  "V0317": {
+    "image_filename": "V0317.jpg",
+    "label": "normal",
+    "mask_path": "val/Masks/V0317.png",
+    "split": "val"
+  },
+  "V0318": {
+    "image_filename": "V0318.jpg",
+    "label": "normal",
+    "mask_path": "val/Masks/V0318.png",
+    "split": "val"
+  },
+  "V0319": {
+    "image_filename": "V0319.jpg",
+    "label": "glaucoma",
+    "mask_path": "val/Masks/V0319.png",
+    "split": "val"
+  },
+  "V0320": {
+    "image_filename": "V0320.jpg",
+    "label": "normal",
+    "mask_path": "val/Masks/V0320.png",
+    "split": "val"
+  },
+  "V0321": {
+    "image_filename": "V0321.jpg",
+    "label": "normal",
+    "mask_path": "val/Masks/V0321.png",
+    "split": "val"
+  },
+  "V0322": {
+    "image_filename": "V0322.jpg",
+    "label": "normal",
+    "mask_path": "val/Masks/V0322.png",
+    "split": "val"
+  },
+  "V0323": {
+    "image_filename": "V0323.jpg",
+    "label": "normal",
+    "mask_path": "val/Masks/V0323.png",
+    "split": "val"
+  },
+  "V0324": {
+    "image_filename": "V0324.jpg",
+    "label": "normal",
+    "mask_path": "val/Masks/V0324.png",
+    "split": "val"
+  },
+  "V0325": {
+    "image_filename": "V0325.jpg",
+    "label": "normal",
+    "mask_path": "val/Masks/V0325.png",
+    "split": "val"
+  },
+  "V0326": {
+    "image_filename": "V0326.jpg",
+    "label": "normal",
+    "mask_path": "val/Masks/V0326.png",
+    "split": "val"
+  },
+  "V0327": {
+    "image_filename": "V0327.jpg",
+    "label": "normal",
+    "mask_path": "val/Masks/V0327.png",
+    "split": "val"
+  },
+  "V0328": {
+    "image_filename": "V0328.jpg",
+    "label": "normal",
+    "mask_path": "val/Masks/V0328.png",
+    "split": "val"
+  },
+  "V0329": {
+    "image_filename": "V0329.jpg",
+    "label": "normal",
+    "mask_path": "val/Masks/V0329.png",
+    "split": "val"
+  },
+  "V0330": {
+    "image_filename": "V0330.jpg",
+    "label": "normal",
+    "mask_path": "val/Masks/V0330.png",
+    "split": "val"
+  },
+  "V0331": {
+    "image_filename": "V0331.jpg",
+    "label": "normal",
+    "mask_path": "val/Masks/V0331.png",
+    "split": "val"
+  },
+  "V0332": {
+    "image_filename": "V0332.jpg",
+    "label": "normal",
+    "mask_path": "val/Masks/V0332.png",
+    "split": "val"
+  },
+  "V0333": {
+    "image_filename": "V0333.jpg",
+    "label": "glaucoma",
+    "mask_path": "val/Masks/V0333.png",
+    "split": "val"
+  },
+  "V0334": {
+    "image_filename": "V0334.jpg",
+    "label": "normal",
+    "mask_path": "val/Masks/V0334.png",
+    "split": "val"
+  },
+  "V0335": {
+    "image_filename": "V0335.jpg",
+    "label": "normal",
+    "mask_path": "val/Masks/V0335.png",
+    "split": "val"
+  },
+  "V0336": {
+    "image_filename": "V0336.jpg",
+    "label": "normal",
+    "mask_path": "val/Masks/V0336.png",
+    "split": "val"
+  },
+  "V0337": {
+    "image_filename": "V0337.jpg",
+    "label": "normal",
+    "mask_path": "val/Masks/V0337.png",
+    "split": "val"
+  },
+  "V0338": {
+    "image_filename": "V0338.jpg",
+    "label": "normal",
+    "mask_path": "val/Masks/V0338.png",
+    "split": "val"
+  },
+  "V0339": {
+    "image_filename": "V0339.jpg",
+    "label": "normal",
+    "mask_path": "val/Masks/V0339.png",
+    "split": "val"
+  },
+  "V0340": {
+    "image_filename": "V0340.jpg",
+    "label": "normal",
+    "mask_path": "val/Masks/V0340.png",
+    "split": "val"
+  },
+  "V0341": {
+    "image_filename": "V0341.jpg",
+    "label": "normal",
+    "mask_path": "val/Masks/V0341.png",
+    "split": "val"
+  },
+  "V0342": {
+    "image_filename": "V0342.jpg",
+    "label": "glaucoma",
+    "mask_path": "val/Masks/V0342.png",
+    "split": "val"
+  },
+  "V0343": {
+    "image_filename": "V0343.jpg",
+    "label": "normal",
+    "mask_path": "val/Masks/V0343.png",
+    "split": "val"
+  },
+  "V0344": {
+    "image_filename": "V0344.jpg",
+    "label": "glaucoma",
+    "mask_path": "val/Masks/V0344.png",
+    "split": "val"
+  },
+  "V0345": {
+    "image_filename": "V0345.jpg",
+    "label": "normal",
+    "mask_path": "val/Masks/V0345.png",
+    "split": "val"
+  },
+  "V0346": {
+    "image_filename": "V0346.jpg",
+    "label": "normal",
+    "mask_path": "val/Masks/V0346.png",
+    "split": "val"
+  },
+  "V0347": {
+    "image_filename": "V0347.jpg",
+    "label": "glaucoma",
+    "mask_path": "val/Masks/V0347.png",
+    "split": "val"
+  },
+  "V0348": {
+    "image_filename": "V0348.jpg",
+    "label": "normal",
+    "mask_path": "val/Masks/V0348.png",
+    "split": "val"
+  },
+  "V0349": {
+    "image_filename": "V0349.jpg",
+    "label": "normal",
+    "mask_path": "val/Masks/V0349.png",
+    "split": "val"
+  },
+  "V0350": {
+    "image_filename": "V0350.jpg",
+    "label": "normal",
+    "mask_path": "val/Masks/V0350.png",
+    "split": "val"
+  },
+  "V0351": {
+    "image_filename": "V0351.jpg",
+    "label": "normal",
+    "mask_path": "val/Masks/V0351.png",
+    "split": "val"
+  },
+  "V0352": {
+    "image_filename": "V0352.jpg",
+    "label": "normal",
+    "mask_path": "val/Masks/V0352.png",
+    "split": "val"
+  },
+  "V0353": {
+    "image_filename": "V0353.jpg",
+    "label": "normal",
+    "mask_path": "val/Masks/V0353.png",
+    "split": "val"
+  },
+  "V0354": {
+    "image_filename": "V0354.jpg",
+    "label": "normal",
+    "mask_path": "val/Masks/V0354.png",
+    "split": "val"
+  },
+  "V0355": {
+    "image_filename": "V0355.jpg",
+    "label": "normal",
+    "mask_path": "val/Masks/V0355.png",
+    "split": "val"
+  },
+  "V0356": {
+    "image_filename": "V0356.jpg",
+    "label": "normal",
+    "mask_path": "val/Masks/V0356.png",
+    "split": "val"
+  },
+  "V0357": {
+    "image_filename": "V0357.jpg",
+    "label": "normal",
+    "mask_path": "val/Masks/V0357.png",
+    "split": "val"
+  },
+  "V0358": {
+    "image_filename": "V0358.jpg",
+    "label": "normal",
+    "mask_path": "val/Masks/V0358.png",
+    "split": "val"
+  },
+  "V0359": {
+    "image_filename": "V0359.jpg",
+    "label": "normal",
+    "mask_path": "val/Masks/V0359.png",
+    "split": "val"
+  },
+  "V0360": {
+    "image_filename": "V0360.jpg",
+    "label": "normal",
+    "mask_path": "val/Masks/V0360.png",
+    "split": "val"
+  },
+  "V0361": {
+    "image_filename": "V0361.jpg",
+    "label": "normal",
+    "mask_path": "val/Masks/V0361.png",
+    "split": "val"
+  },
+  "V0362": {
+    "image_filename": "V0362.jpg",
+    "label": "normal",
+    "mask_path": "val/Masks/V0362.png",
+    "split": "val"
+  },
+  "V0363": {
+    "image_filename": "V0363.jpg",
+    "label": "normal",
+    "mask_path": "val/Masks/V0363.png",
+    "split": "val"
+  },
+  "V0364": {
+    "image_filename": "V0364.jpg",
+    "label": "normal",
+    "mask_path": "val/Masks/V0364.png",
+    "split": "val"
+  },
+  "V0365": {
+    "image_filename": "V0365.jpg",
+    "label": "normal",
+    "mask_path": "val/Masks/V0365.png",
+    "split": "val"
+  },
+  "V0366": {
+    "image_filename": "V0366.jpg",
+    "label": "normal",
+    "mask_path": "val/Masks/V0366.png",
+    "split": "val"
+  },
+  "V0367": {
+    "image_filename": "V0367.jpg",
+    "label": "normal",
+    "mask_path": "val/Masks/V0367.png",
+    "split": "val"
+  },
+  "V0368": {
+    "image_filename": "V0368.jpg",
+    "label": "normal",
+    "mask_path": "val/Masks/V0368.png",
+    "split": "val"
+  },
+  "V0369": {
+    "image_filename": "V0369.jpg",
+    "label": "normal",
+    "mask_path": "val/Masks/V0369.png",
+    "split": "val"
+  },
+  "V0370": {
+    "image_filename": "V0370.jpg",
+    "label": "normal",
+    "mask_path": "val/Masks/V0370.png",
+    "split": "val"
+  },
+  "V0371": {
+    "image_filename": "V0371.jpg",
+    "label": "normal",
+    "mask_path": "val/Masks/V0371.png",
+    "split": "val"
+  },
+  "V0372": {
+    "image_filename": "V0372.jpg",
+    "label": "normal",
+    "mask_path": "val/Masks/V0372.png",
+    "split": "val"
+  },
+  "V0373": {
+    "image_filename": "V0373.jpg",
+    "label": "normal",
+    "mask_path": "val/Masks/V0373.png",
+    "split": "val"
+  },
+  "V0374": {
+    "image_filename": "V0374.jpg",
+    "label": "normal",
+    "mask_path": "val/Masks/V0374.png",
+    "split": "val"
+  },
+  "V0375": {
+    "image_filename": "V0375.jpg",
+    "label": "normal",
+    "mask_path": "val/Masks/V0375.png",
+    "split": "val"
+  },
+  "V0376": {
+    "image_filename": "V0376.jpg",
+    "label": "normal",
+    "mask_path": "val/Masks/V0376.png",
+    "split": "val"
+  },
+  "V0377": {
+    "image_filename": "V0377.jpg",
+    "label": "normal",
+    "mask_path": "val/Masks/V0377.png",
+    "split": "val"
+  },
+  "V0378": {
+    "image_filename": "V0378.jpg",
+    "label": "normal",
+    "mask_path": "val/Masks/V0378.png",
+    "split": "val"
+  },
+  "V0379": {
+    "image_filename": "V0379.jpg",
+    "label": "normal",
+    "mask_path": "val/Masks/V0379.png",
+    "split": "val"
+  },
+  "V0380": {
+    "image_filename": "V0380.jpg",
+    "label": "normal",
+    "mask_path": "val/Masks/V0380.png",
+    "split": "val"
+  },
+  "V0381": {
+    "image_filename": "V0381.jpg",
+    "label": "normal",
+    "mask_path": "val/Masks/V0381.png",
+    "split": "val"
+  },
+  "V0382": {
+    "image_filename": "V0382.jpg",
+    "label": "normal",
+    "mask_path": "val/Masks/V0382.png",
+    "split": "val"
+  },
+  "V0383": {
+    "image_filename": "V0383.jpg",
+    "label": "glaucoma",
+    "mask_path": "val/Masks/V0383.png",
+    "split": "val"
+  },
+  "V0384": {
+    "image_filename": "V0384.jpg",
+    "label": "normal",
+    "mask_path": "val/Masks/V0384.png",
+    "split": "val"
+  },
+  "V0385": {
+    "image_filename": "V0385.jpg",
+    "label": "glaucoma",
+    "mask_path": "val/Masks/V0385.png",
+    "split": "val"
+  },
+  "V0386": {
+    "image_filename": "V0386.jpg",
+    "label": "normal",
+    "mask_path": "val/Masks/V0386.png",
+    "split": "val"
+  },
+  "V0387": {
+    "image_filename": "V0387.jpg",
+    "label": "glaucoma",
+    "mask_path": "val/Masks/V0387.png",
+    "split": "val"
+  },
+  "V0388": {
+    "image_filename": "V0388.jpg",
+    "label": "normal",
+    "mask_path": "val/Masks/V0388.png",
+    "split": "val"
+  },
+  "V0389": {
+    "image_filename": "V0389.jpg",
+    "label": "normal",
+    "mask_path": "val/Masks/V0389.png",
+    "split": "val"
+  },
+  "V0390": {
+    "image_filename": "V0390.jpg",
+    "label": "normal",
+    "mask_path": "val/Masks/V0390.png",
+    "split": "val"
+  },
+  "V0391": {
+    "image_filename": "V0391.jpg",
+    "label": "normal",
+    "mask_path": "val/Masks/V0391.png",
+    "split": "val"
+  },
+  "V0392": {
+    "image_filename": "V0392.jpg",
+    "label": "normal",
+    "mask_path": "val/Masks/V0392.png",
+    "split": "val"
+  },
+  "V0393": {
+    "image_filename": "V0393.jpg",
+    "label": "normal",
+    "mask_path": "val/Masks/V0393.png",
+    "split": "val"
+  },
+  "V0394": {
+    "image_filename": "V0394.jpg",
+    "label": "normal",
+    "mask_path": "val/Masks/V0394.png",
+    "split": "val"
+  },
+  "V0395": {
+    "image_filename": "V0395.jpg",
+    "label": "normal",
+    "mask_path": "val/Masks/V0395.png",
+    "split": "val"
+  },
+  "V0396": {
+    "image_filename": "V0396.jpg",
+    "label": "normal",
+    "mask_path": "val/Masks/V0396.png",
+    "split": "val"
+  },
+  "V0397": {
+    "image_filename": "V0397.jpg",
+    "label": "normal",
+    "mask_path": "val/Masks/V0397.png",
+    "split": "val"
+  },
+  "V0398": {
+    "image_filename": "V0398.jpg",
+    "label": "normal",
+    "mask_path": "val/Masks/V0398.png",
+    "split": "val"
+  },
+  "V0399": {
+    "image_filename": "V0399.jpg",
+    "label": "normal",
+    "mask_path": "val/Masks/V0399.png",
+    "split": "val"
+  },
+  "V0400": {
+    "image_filename": "V0400.jpg",
+    "label": "normal",
+    "mask_path": "val/Masks/V0400.png",
+    "split": "val"
+  },
+  "T0001": {
+    "image_filename": "T0001.jpg",
+    "mask_path": "test/Masks/T0001.png",
+    "split": "test"
+  },
+  "T0002": {
+    "image_filename": "T0002.jpg",
+    "mask_path": "test/Masks/T0002.png",
+    "split": "test"
+  },
+  "T0003": {
+    "image_filename": "T0003.jpg",
+    "mask_path": "test/Masks/T0003.png",
+    "split": "test"
+  },
+  "T0004": {
+    "image_filename": "T0004.jpg",
+    "mask_path": "test/Masks/T0004.png",
+    "split": "test"
+  },
+  "T0005": {
+    "image_filename": "T0005.jpg",
+    "mask_path": "test/Masks/T0005.png",
+    "split": "test"
+  },
+  "T0006": {
+    "image_filename": "T0006.jpg",
+    "mask_path": "test/Masks/T0006.png",
+    "split": "test"
+  },
+  "T0007": {
+    "image_filename": "T0007.jpg",
+    "mask_path": "test/Masks/T0007.png",
+    "split": "test"
+  },
+  "T0008": {
+    "image_filename": "T0008.jpg",
+    "mask_path": "test/Masks/T0008.png",
+    "split": "test"
+  },
+  "T0009": {
+    "image_filename": "T0009.jpg",
+    "mask_path": "test/Masks/T0009.png",
+    "split": "test"
+  },
+  "T0010": {
+    "image_filename": "T0010.jpg",
+    "mask_path": "test/Masks/T0010.png",
+    "split": "test"
+  },
+  "T0011": {
+    "image_filename": "T0011.jpg",
+    "mask_path": "test/Masks/T0011.png",
+    "split": "test"
+  },
+  "T0012": {
+    "image_filename": "T0012.jpg",
+    "mask_path": "test/Masks/T0012.png",
+    "split": "test"
+  },
+  "T0013": {
+    "image_filename": "T0013.jpg",
+    "mask_path": "test/Masks/T0013.png",
+    "split": "test"
+  },
+  "T0014": {
+    "image_filename": "T0014.jpg",
+    "mask_path": "test/Masks/T0014.png",
+    "split": "test"
+  },
+  "T0015": {
+    "image_filename": "T0015.jpg",
+    "mask_path": "test/Masks/T0015.png",
+    "split": "test"
+  },
+  "T0016": {
+    "image_filename": "T0016.jpg",
+    "mask_path": "test/Masks/T0016.png",
+    "split": "test"
+  },
+  "T0017": {
+    "image_filename": "T0017.jpg",
+    "mask_path": "test/Masks/T0017.png",
+    "split": "test"
+  },
+  "T0018": {
+    "image_filename": "T0018.jpg",
+    "mask_path": "test/Masks/T0018.png",
+    "split": "test"
+  },
+  "T0019": {
+    "image_filename": "T0019.jpg",
+    "mask_path": "test/Masks/T0019.png",
+    "split": "test"
+  },
+  "T0020": {
+    "image_filename": "T0020.jpg",
+    "mask_path": "test/Masks/T0020.png",
+    "split": "test"
+  },
+  "T0021": {
+    "image_filename": "T0021.jpg",
+    "mask_path": "test/Masks/T0021.png",
+    "split": "test"
+  },
+  "T0022": {
+    "image_filename": "T0022.jpg",
+    "mask_path": "test/Masks/T0022.png",
+    "split": "test"
+  },
+  "T0023": {
+    "image_filename": "T0023.jpg",
+    "mask_path": "test/Masks/T0023.png",
+    "split": "test"
+  },
+  "T0024": {
+    "image_filename": "T0024.jpg",
+    "mask_path": "test/Masks/T0024.png",
+    "split": "test"
+  },
+  "T0025": {
+    "image_filename": "T0025.jpg",
+    "mask_path": "test/Masks/T0025.png",
+    "split": "test"
+  },
+  "T0026": {
+    "image_filename": "T0026.jpg",
+    "mask_path": "test/Masks/T0026.png",
+    "split": "test"
+  },
+  "T0027": {
+    "image_filename": "T0027.jpg",
+    "mask_path": "test/Masks/T0027.png",
+    "split": "test"
+  },
+  "T0028": {
+    "image_filename": "T0028.jpg",
+    "mask_path": "test/Masks/T0028.png",
+    "split": "test"
+  },
+  "T0029": {
+    "image_filename": "T0029.jpg",
+    "mask_path": "test/Masks/T0029.png",
+    "split": "test"
+  },
+  "T0030": {
+    "image_filename": "T0030.jpg",
+    "mask_path": "test/Masks/T0030.png",
+    "split": "test"
+  },
+  "T0031": {
+    "image_filename": "T0031.jpg",
+    "mask_path": "test/Masks/T0031.png",
+    "split": "test"
+  },
+  "T0032": {
+    "image_filename": "T0032.jpg",
+    "mask_path": "test/Masks/T0032.png",
+    "split": "test"
+  },
+  "T0033": {
+    "image_filename": "T0033.jpg",
+    "mask_path": "test/Masks/T0033.png",
+    "split": "test"
+  },
+  "T0034": {
+    "image_filename": "T0034.jpg",
+    "mask_path": "test/Masks/T0034.png",
+    "split": "test"
+  },
+  "T0035": {
+    "image_filename": "T0035.jpg",
+    "mask_path": "test/Masks/T0035.png",
+    "split": "test"
+  },
+  "T0036": {
+    "image_filename": "T0036.jpg",
+    "mask_path": "test/Masks/T0036.png",
+    "split": "test"
+  },
+  "T0037": {
+    "image_filename": "T0037.jpg",
+    "mask_path": "test/Masks/T0037.png",
+    "split": "test"
+  },
+  "T0038": {
+    "image_filename": "T0038.jpg",
+    "mask_path": "test/Masks/T0038.png",
+    "split": "test"
+  },
+  "T0039": {
+    "image_filename": "T0039.jpg",
+    "mask_path": "test/Masks/T0039.png",
+    "split": "test"
+  },
+  "T0040": {
+    "image_filename": "T0040.jpg",
+    "mask_path": "test/Masks/T0040.png",
+    "split": "test"
+  },
+  "T0041": {
+    "image_filename": "T0041.jpg",
+    "mask_path": "test/Masks/T0041.png",
+    "split": "test"
+  },
+  "T0042": {
+    "image_filename": "T0042.jpg",
+    "mask_path": "test/Masks/T0042.png",
+    "split": "test"
+  },
+  "T0043": {
+    "image_filename": "T0043.jpg",
+    "mask_path": "test/Masks/T0043.png",
+    "split": "test"
+  },
+  "T0044": {
+    "image_filename": "T0044.jpg",
+    "mask_path": "test/Masks/T0044.png",
+    "split": "test"
+  },
+  "T0045": {
+    "image_filename": "T0045.jpg",
+    "mask_path": "test/Masks/T0045.png",
+    "split": "test"
+  },
+  "T0046": {
+    "image_filename": "T0046.jpg",
+    "mask_path": "test/Masks/T0046.png",
+    "split": "test"
+  },
+  "T0047": {
+    "image_filename": "T0047.jpg",
+    "mask_path": "test/Masks/T0047.png",
+    "split": "test"
+  },
+  "T0048": {
+    "image_filename": "T0048.jpg",
+    "mask_path": "test/Masks/T0048.png",
+    "split": "test"
+  },
+  "T0049": {
+    "image_filename": "T0049.jpg",
+    "mask_path": "test/Masks/T0049.png",
+    "split": "test"
+  },
+  "T0050": {
+    "image_filename": "T0050.jpg",
+    "mask_path": "test/Masks/T0050.png",
+    "split": "test"
+  },
+  "T0051": {
+    "image_filename": "T0051.jpg",
+    "mask_path": "test/Masks/T0051.png",
+    "split": "test"
+  },
+  "T0052": {
+    "image_filename": "T0052.jpg",
+    "mask_path": "test/Masks/T0052.png",
+    "split": "test"
+  },
+  "T0053": {
+    "image_filename": "T0053.jpg",
+    "mask_path": "test/Masks/T0053.png",
+    "split": "test"
+  },
+  "T0054": {
+    "image_filename": "T0054.jpg",
+    "mask_path": "test/Masks/T0054.png",
+    "split": "test"
+  },
+  "T0055": {
+    "image_filename": "T0055.jpg",
+    "mask_path": "test/Masks/T0055.png",
+    "split": "test"
+  },
+  "T0056": {
+    "image_filename": "T0056.jpg",
+    "mask_path": "test/Masks/T0056.png",
+    "split": "test"
+  },
+  "T0057": {
+    "image_filename": "T0057.jpg",
+    "mask_path": "test/Masks/T0057.png",
+    "split": "test"
+  },
+  "T0058": {
+    "image_filename": "T0058.jpg",
+    "mask_path": "test/Masks/T0058.png",
+    "split": "test"
+  },
+  "T0059": {
+    "image_filename": "T0059.jpg",
+    "mask_path": "test/Masks/T0059.png",
+    "split": "test"
+  },
+  "T0060": {
+    "image_filename": "T0060.jpg",
+    "mask_path": "test/Masks/T0060.png",
+    "split": "test"
+  },
+  "T0061": {
+    "image_filename": "T0061.jpg",
+    "mask_path": "test/Masks/T0061.png",
+    "split": "test"
+  },
+  "T0062": {
+    "image_filename": "T0062.jpg",
+    "mask_path": "test/Masks/T0062.png",
+    "split": "test"
+  },
+  "T0063": {
+    "image_filename": "T0063.jpg",
+    "mask_path": "test/Masks/T0063.png",
+    "split": "test"
+  },
+  "T0064": {
+    "image_filename": "T0064.jpg",
+    "mask_path": "test/Masks/T0064.png",
+    "split": "test"
+  },
+  "T0065": {
+    "image_filename": "T0065.jpg",
+    "mask_path": "test/Masks/T0065.png",
+    "split": "test"
+  },
+  "T0066": {
+    "image_filename": "T0066.jpg",
+    "mask_path": "test/Masks/T0066.png",
+    "split": "test"
+  },
+  "T0067": {
+    "image_filename": "T0067.jpg",
+    "mask_path": "test/Masks/T0067.png",
+    "split": "test"
+  },
+  "T0068": {
+    "image_filename": "T0068.jpg",
+    "mask_path": "test/Masks/T0068.png",
+    "split": "test"
+  },
+  "T0069": {
+    "image_filename": "T0069.jpg",
+    "mask_path": "test/Masks/T0069.png",
+    "split": "test"
+  },
+  "T0070": {
+    "image_filename": "T0070.jpg",
+    "mask_path": "test/Masks/T0070.png",
+    "split": "test"
+  },
+  "T0071": {
+    "image_filename": "T0071.jpg",
+    "mask_path": "test/Masks/T0071.png",
+    "split": "test"
+  },
+  "T0072": {
+    "image_filename": "T0072.jpg",
+    "mask_path": "test/Masks/T0072.png",
+    "split": "test"
+  },
+  "T0073": {
+    "image_filename": "T0073.jpg",
+    "mask_path": "test/Masks/T0073.png",
+    "split": "test"
+  },
+  "T0074": {
+    "image_filename": "T0074.jpg",
+    "mask_path": "test/Masks/T0074.png",
+    "split": "test"
+  },
+  "T0075": {
+    "image_filename": "T0075.jpg",
+    "mask_path": "test/Masks/T0075.png",
+    "split": "test"
+  },
+  "T0076": {
+    "image_filename": "T0076.jpg",
+    "mask_path": "test/Masks/T0076.png",
+    "split": "test"
+  },
+  "T0077": {
+    "image_filename": "T0077.jpg",
+    "mask_path": "test/Masks/T0077.png",
+    "split": "test"
+  },
+  "T0078": {
+    "image_filename": "T0078.jpg",
+    "mask_path": "test/Masks/T0078.png",
+    "split": "test"
+  },
+  "T0079": {
+    "image_filename": "T0079.jpg",
+    "mask_path": "test/Masks/T0079.png",
+    "split": "test"
+  },
+  "T0080": {
+    "image_filename": "T0080.jpg",
+    "mask_path": "test/Masks/T0080.png",
+    "split": "test"
+  },
+  "T0081": {
+    "image_filename": "T0081.jpg",
+    "mask_path": "test/Masks/T0081.png",
+    "split": "test"
+  },
+  "T0082": {
+    "image_filename": "T0082.jpg",
+    "mask_path": "test/Masks/T0082.png",
+    "split": "test"
+  },
+  "T0083": {
+    "image_filename": "T0083.jpg",
+    "mask_path": "test/Masks/T0083.png",
+    "split": "test"
+  },
+  "T0084": {
+    "image_filename": "T0084.jpg",
+    "mask_path": "test/Masks/T0084.png",
+    "split": "test"
+  },
+  "T0085": {
+    "image_filename": "T0085.jpg",
+    "mask_path": "test/Masks/T0085.png",
+    "split": "test"
+  },
+  "T0086": {
+    "image_filename": "T0086.jpg",
+    "mask_path": "test/Masks/T0086.png",
+    "split": "test"
+  },
+  "T0087": {
+    "image_filename": "T0087.jpg",
+    "mask_path": "test/Masks/T0087.png",
+    "split": "test"
+  },
+  "T0088": {
+    "image_filename": "T0088.jpg",
+    "mask_path": "test/Masks/T0088.png",
+    "split": "test"
+  },
+  "T0089": {
+    "image_filename": "T0089.jpg",
+    "mask_path": "test/Masks/T0089.png",
+    "split": "test"
+  },
+  "T0090": {
+    "image_filename": "T0090.jpg",
+    "mask_path": "test/Masks/T0090.png",
+    "split": "test"
+  },
+  "T0091": {
+    "image_filename": "T0091.jpg",
+    "mask_path": "test/Masks/T0091.png",
+    "split": "test"
+  },
+  "T0092": {
+    "image_filename": "T0092.jpg",
+    "mask_path": "test/Masks/T0092.png",
+    "split": "test"
+  },
+  "T0093": {
+    "image_filename": "T0093.jpg",
+    "mask_path": "test/Masks/T0093.png",
+    "split": "test"
+  },
+  "T0094": {
+    "image_filename": "T0094.jpg",
+    "mask_path": "test/Masks/T0094.png",
+    "split": "test"
+  },
+  "T0095": {
+    "image_filename": "T0095.jpg",
+    "mask_path": "test/Masks/T0095.png",
+    "split": "test"
+  },
+  "T0096": {
+    "image_filename": "T0096.jpg",
+    "mask_path": "test/Masks/T0096.png",
+    "split": "test"
+  },
+  "T0097": {
+    "image_filename": "T0097.jpg",
+    "mask_path": "test/Masks/T0097.png",
+    "split": "test"
+  },
+  "T0098": {
+    "image_filename": "T0098.jpg",
+    "mask_path": "test/Masks/T0098.png",
+    "split": "test"
+  },
+  "T0099": {
+    "image_filename": "T0099.jpg",
+    "mask_path": "test/Masks/T0099.png",
+    "split": "test"
+  },
+  "T0100": {
+    "image_filename": "T0100.jpg",
+    "mask_path": "test/Masks/T0100.png",
+    "split": "test"
+  },
+  "T0101": {
+    "image_filename": "T0101.jpg",
+    "mask_path": "test/Masks/T0101.png",
+    "split": "test"
+  },
+  "T0102": {
+    "image_filename": "T0102.jpg",
+    "mask_path": "test/Masks/T0102.png",
+    "split": "test"
+  },
+  "T0103": {
+    "image_filename": "T0103.jpg",
+    "mask_path": "test/Masks/T0103.png",
+    "split": "test"
+  },
+  "T0104": {
+    "image_filename": "T0104.jpg",
+    "mask_path": "test/Masks/T0104.png",
+    "split": "test"
+  },
+  "T0105": {
+    "image_filename": "T0105.jpg",
+    "mask_path": "test/Masks/T0105.png",
+    "split": "test"
+  },
+  "T0106": {
+    "image_filename": "T0106.jpg",
+    "mask_path": "test/Masks/T0106.png",
+    "split": "test"
+  },
+  "T0107": {
+    "image_filename": "T0107.jpg",
+    "mask_path": "test/Masks/T0107.png",
+    "split": "test"
+  },
+  "T0108": {
+    "image_filename": "T0108.jpg",
+    "mask_path": "test/Masks/T0108.png",
+    "split": "test"
+  },
+  "T0109": {
+    "image_filename": "T0109.jpg",
+    "mask_path": "test/Masks/T0109.png",
+    "split": "test"
+  },
+  "T0110": {
+    "image_filename": "T0110.jpg",
+    "mask_path": "test/Masks/T0110.png",
+    "split": "test"
+  },
+  "T0111": {
+    "image_filename": "T0111.jpg",
+    "mask_path": "test/Masks/T0111.png",
+    "split": "test"
+  },
+  "T0112": {
+    "image_filename": "T0112.jpg",
+    "mask_path": "test/Masks/T0112.png",
+    "split": "test"
+  },
+  "T0113": {
+    "image_filename": "T0113.jpg",
+    "mask_path": "test/Masks/T0113.png",
+    "split": "test"
+  },
+  "T0114": {
+    "image_filename": "T0114.jpg",
+    "mask_path": "test/Masks/T0114.png",
+    "split": "test"
+  },
+  "T0115": {
+    "image_filename": "T0115.jpg",
+    "mask_path": "test/Masks/T0115.png",
+    "split": "test"
+  },
+  "T0116": {
+    "image_filename": "T0116.jpg",
+    "mask_path": "test/Masks/T0116.png",
+    "split": "test"
+  },
+  "T0117": {
+    "image_filename": "T0117.jpg",
+    "mask_path": "test/Masks/T0117.png",
+    "split": "test"
+  },
+  "T0118": {
+    "image_filename": "T0118.jpg",
+    "mask_path": "test/Masks/T0118.png",
+    "split": "test"
+  },
+  "T0119": {
+    "image_filename": "T0119.jpg",
+    "mask_path": "test/Masks/T0119.png",
+    "split": "test"
+  },
+  "T0120": {
+    "image_filename": "T0120.jpg",
+    "mask_path": "test/Masks/T0120.png",
+    "split": "test"
+  },
+  "T0121": {
+    "image_filename": "T0121.jpg",
+    "mask_path": "test/Masks/T0121.png",
+    "split": "test"
+  },
+  "T0122": {
+    "image_filename": "T0122.jpg",
+    "mask_path": "test/Masks/T0122.png",
+    "split": "test"
+  },
+  "T0123": {
+    "image_filename": "T0123.jpg",
+    "mask_path": "test/Masks/T0123.png",
+    "split": "test"
+  },
+  "T0124": {
+    "image_filename": "T0124.jpg",
+    "mask_path": "test/Masks/T0124.png",
+    "split": "test"
+  },
+  "T0125": {
+    "image_filename": "T0125.jpg",
+    "mask_path": "test/Masks/T0125.png",
+    "split": "test"
+  },
+  "T0126": {
+    "image_filename": "T0126.jpg",
+    "mask_path": "test/Masks/T0126.png",
+    "split": "test"
+  },
+  "T0127": {
+    "image_filename": "T0127.jpg",
+    "mask_path": "test/Masks/T0127.png",
+    "split": "test"
+  },
+  "T0128": {
+    "image_filename": "T0128.jpg",
+    "mask_path": "test/Masks/T0128.png",
+    "split": "test"
+  },
+  "T0129": {
+    "image_filename": "T0129.jpg",
+    "mask_path": "test/Masks/T0129.png",
+    "split": "test"
+  },
+  "T0130": {
+    "image_filename": "T0130.jpg",
+    "mask_path": "test/Masks/T0130.png",
+    "split": "test"
+  },
+  "T0131": {
+    "image_filename": "T0131.jpg",
+    "mask_path": "test/Masks/T0131.png",
+    "split": "test"
+  },
+  "T0132": {
+    "image_filename": "T0132.jpg",
+    "mask_path": "test/Masks/T0132.png",
+    "split": "test"
+  },
+  "T0133": {
+    "image_filename": "T0133.jpg",
+    "mask_path": "test/Masks/T0133.png",
+    "split": "test"
+  },
+  "T0134": {
+    "image_filename": "T0134.jpg",
+    "mask_path": "test/Masks/T0134.png",
+    "split": "test"
+  },
+  "T0135": {
+    "image_filename": "T0135.jpg",
+    "mask_path": "test/Masks/T0135.png",
+    "split": "test"
+  },
+  "T0136": {
+    "image_filename": "T0136.jpg",
+    "mask_path": "test/Masks/T0136.png",
+    "split": "test"
+  },
+  "T0137": {
+    "image_filename": "T0137.jpg",
+    "mask_path": "test/Masks/T0137.png",
+    "split": "test"
+  },
+  "T0138": {
+    "image_filename": "T0138.jpg",
+    "mask_path": "test/Masks/T0138.png",
+    "split": "test"
+  },
+  "T0139": {
+    "image_filename": "T0139.jpg",
+    "mask_path": "test/Masks/T0139.png",
+    "split": "test"
+  },
+  "T0140": {
+    "image_filename": "T0140.jpg",
+    "mask_path": "test/Masks/T0140.png",
+    "split": "test"
+  },
+  "T0141": {
+    "image_filename": "T0141.jpg",
+    "mask_path": "test/Masks/T0141.png",
+    "split": "test"
+  },
+  "T0142": {
+    "image_filename": "T0142.jpg",
+    "mask_path": "test/Masks/T0142.png",
+    "split": "test"
+  },
+  "T0143": {
+    "image_filename": "T0143.jpg",
+    "mask_path": "test/Masks/T0143.png",
+    "split": "test"
+  },
+  "T0144": {
+    "image_filename": "T0144.jpg",
+    "mask_path": "test/Masks/T0144.png",
+    "split": "test"
+  },
+  "T0145": {
+    "image_filename": "T0145.jpg",
+    "mask_path": "test/Masks/T0145.png",
+    "split": "test"
+  },
+  "T0146": {
+    "image_filename": "T0146.jpg",
+    "mask_path": "test/Masks/T0146.png",
+    "split": "test"
+  },
+  "T0147": {
+    "image_filename": "T0147.jpg",
+    "mask_path": "test/Masks/T0147.png",
+    "split": "test"
+  },
+  "T0148": {
+    "image_filename": "T0148.jpg",
+    "mask_path": "test/Masks/T0148.png",
+    "split": "test"
+  },
+  "T0149": {
+    "image_filename": "T0149.jpg",
+    "mask_path": "test/Masks/T0149.png",
+    "split": "test"
+  },
+  "T0150": {
+    "image_filename": "T0150.jpg",
+    "mask_path": "test/Masks/T0150.png",
+    "split": "test"
+  },
+  "T0151": {
+    "image_filename": "T0151.jpg",
+    "mask_path": "test/Masks/T0151.png",
+    "split": "test"
+  },
+  "T0152": {
+    "image_filename": "T0152.jpg",
+    "mask_path": "test/Masks/T0152.png",
+    "split": "test"
+  },
+  "T0153": {
+    "image_filename": "T0153.jpg",
+    "mask_path": "test/Masks/T0153.png",
+    "split": "test"
+  },
+  "T0154": {
+    "image_filename": "T0154.jpg",
+    "mask_path": "test/Masks/T0154.png",
+    "split": "test"
+  },
+  "T0155": {
+    "image_filename": "T0155.jpg",
+    "mask_path": "test/Masks/T0155.png",
+    "split": "test"
+  },
+  "T0156": {
+    "image_filename": "T0156.jpg",
+    "mask_path": "test/Masks/T0156.png",
+    "split": "test"
+  },
+  "T0157": {
+    "image_filename": "T0157.jpg",
+    "mask_path": "test/Masks/T0157.png",
+    "split": "test"
+  },
+  "T0158": {
+    "image_filename": "T0158.jpg",
+    "mask_path": "test/Masks/T0158.png",
+    "split": "test"
+  },
+  "T0159": {
+    "image_filename": "T0159.jpg",
+    "mask_path": "test/Masks/T0159.png",
+    "split": "test"
+  },
+  "T0160": {
+    "image_filename": "T0160.jpg",
+    "mask_path": "test/Masks/T0160.png",
+    "split": "test"
+  },
+  "T0161": {
+    "image_filename": "T0161.jpg",
+    "mask_path": "test/Masks/T0161.png",
+    "split": "test"
+  },
+  "T0162": {
+    "image_filename": "T0162.jpg",
+    "mask_path": "test/Masks/T0162.png",
+    "split": "test"
+  },
+  "T0163": {
+    "image_filename": "T0163.jpg",
+    "mask_path": "test/Masks/T0163.png",
+    "split": "test"
+  },
+  "T0164": {
+    "image_filename": "T0164.jpg",
+    "mask_path": "test/Masks/T0164.png",
+    "split": "test"
+  },
+  "T0165": {
+    "image_filename": "T0165.jpg",
+    "mask_path": "test/Masks/T0165.png",
+    "split": "test"
+  },
+  "T0166": {
+    "image_filename": "T0166.jpg",
+    "mask_path": "test/Masks/T0166.png",
+    "split": "test"
+  },
+  "T0167": {
+    "image_filename": "T0167.jpg",
+    "mask_path": "test/Masks/T0167.png",
+    "split": "test"
+  },
+  "T0168": {
+    "image_filename": "T0168.jpg",
+    "mask_path": "test/Masks/T0168.png",
+    "split": "test"
+  },
+  "T0169": {
+    "image_filename": "T0169.jpg",
+    "mask_path": "test/Masks/T0169.png",
+    "split": "test"
+  },
+  "T0170": {
+    "image_filename": "T0170.jpg",
+    "mask_path": "test/Masks/T0170.png",
+    "split": "test"
+  },
+  "T0171": {
+    "image_filename": "T0171.jpg",
+    "mask_path": "test/Masks/T0171.png",
+    "split": "test"
+  },
+  "T0172": {
+    "image_filename": "T0172.jpg",
+    "mask_path": "test/Masks/T0172.png",
+    "split": "test"
+  },
+  "T0173": {
+    "image_filename": "T0173.jpg",
+    "mask_path": "test/Masks/T0173.png",
+    "split": "test"
+  },
+  "T0174": {
+    "image_filename": "T0174.jpg",
+    "mask_path": "test/Masks/T0174.png",
+    "split": "test"
+  },
+  "T0175": {
+    "image_filename": "T0175.jpg",
+    "mask_path": "test/Masks/T0175.png",
+    "split": "test"
+  },
+  "T0176": {
+    "image_filename": "T0176.jpg",
+    "mask_path": "test/Masks/T0176.png",
+    "split": "test"
+  },
+  "T0177": {
+    "image_filename": "T0177.jpg",
+    "mask_path": "test/Masks/T0177.png",
+    "split": "test"
+  },
+  "T0178": {
+    "image_filename": "T0178.jpg",
+    "mask_path": "test/Masks/T0178.png",
+    "split": "test"
+  },
+  "T0179": {
+    "image_filename": "T0179.jpg",
+    "mask_path": "test/Masks/T0179.png",
+    "split": "test"
+  },
+  "T0180": {
+    "image_filename": "T0180.jpg",
+    "mask_path": "test/Masks/T0180.png",
+    "split": "test"
+  },
+  "T0181": {
+    "image_filename": "T0181.jpg",
+    "mask_path": "test/Masks/T0181.png",
+    "split": "test"
+  },
+  "T0182": {
+    "image_filename": "T0182.jpg",
+    "mask_path": "test/Masks/T0182.png",
+    "split": "test"
+  },
+  "T0183": {
+    "image_filename": "T0183.jpg",
+    "mask_path": "test/Masks/T0183.png",
+    "split": "test"
+  },
+  "T0184": {
+    "image_filename": "T0184.jpg",
+    "mask_path": "test/Masks/T0184.png",
+    "split": "test"
+  },
+  "T0185": {
+    "image_filename": "T0185.jpg",
+    "mask_path": "test/Masks/T0185.png",
+    "split": "test"
+  },
+  "T0186": {
+    "image_filename": "T0186.jpg",
+    "mask_path": "test/Masks/T0186.png",
+    "split": "test"
+  },
+  "T0187": {
+    "image_filename": "T0187.jpg",
+    "mask_path": "test/Masks/T0187.png",
+    "split": "test"
+  },
+  "T0188": {
+    "image_filename": "T0188.jpg",
+    "mask_path": "test/Masks/T0188.png",
+    "split": "test"
+  },
+  "T0189": {
+    "image_filename": "T0189.jpg",
+    "mask_path": "test/Masks/T0189.png",
+    "split": "test"
+  },
+  "T0190": {
+    "image_filename": "T0190.jpg",
+    "mask_path": "test/Masks/T0190.png",
+    "split": "test"
+  },
+  "T0191": {
+    "image_filename": "T0191.jpg",
+    "mask_path": "test/Masks/T0191.png",
+    "split": "test"
+  },
+  "T0192": {
+    "image_filename": "T0192.jpg",
+    "mask_path": "test/Masks/T0192.png",
+    "split": "test"
+  },
+  "T0193": {
+    "image_filename": "T0193.jpg",
+    "mask_path": "test/Masks/T0193.png",
+    "split": "test"
+  },
+  "T0194": {
+    "image_filename": "T0194.jpg",
+    "mask_path": "test/Masks/T0194.png",
+    "split": "test"
+  },
+  "T0195": {
+    "image_filename": "T0195.jpg",
+    "mask_path": "test/Masks/T0195.png",
+    "split": "test"
+  },
+  "T0196": {
+    "image_filename": "T0196.jpg",
+    "mask_path": "test/Masks/T0196.png",
+    "split": "test"
+  },
+  "T0197": {
+    "image_filename": "T0197.jpg",
+    "mask_path": "test/Masks/T0197.png",
+    "split": "test"
+  },
+  "T0198": {
+    "image_filename": "T0198.jpg",
+    "mask_path": "test/Masks/T0198.png",
+    "split": "test"
+  },
+  "T0199": {
+    "image_filename": "T0199.jpg",
+    "mask_path": "test/Masks/T0199.png",
+    "split": "test"
+  },
+  "T0200": {
+    "image_filename": "T0200.jpg",
+    "mask_path": "test/Masks/T0200.png",
+    "split": "test"
+  },
+  "T0201": {
+    "image_filename": "T0201.jpg",
+    "mask_path": "test/Masks/T0201.png",
+    "split": "test"
+  },
+  "T0202": {
+    "image_filename": "T0202.jpg",
+    "mask_path": "test/Masks/T0202.png",
+    "split": "test"
+  },
+  "T0203": {
+    "image_filename": "T0203.jpg",
+    "mask_path": "test/Masks/T0203.png",
+    "split": "test"
+  },
+  "T0204": {
+    "image_filename": "T0204.jpg",
+    "mask_path": "test/Masks/T0204.png",
+    "split": "test"
+  },
+  "T0205": {
+    "image_filename": "T0205.jpg",
+    "mask_path": "test/Masks/T0205.png",
+    "split": "test"
+  },
+  "T0206": {
+    "image_filename": "T0206.jpg",
+    "mask_path": "test/Masks/T0206.png",
+    "split": "test"
+  },
+  "T0207": {
+    "image_filename": "T0207.jpg",
+    "mask_path": "test/Masks/T0207.png",
+    "split": "test"
+  },
+  "T0208": {
+    "image_filename": "T0208.jpg",
+    "mask_path": "test/Masks/T0208.png",
+    "split": "test"
+  },
+  "T0209": {
+    "image_filename": "T0209.jpg",
+    "mask_path": "test/Masks/T0209.png",
+    "split": "test"
+  },
+  "T0210": {
+    "image_filename": "T0210.jpg",
+    "mask_path": "test/Masks/T0210.png",
+    "split": "test"
+  },
+  "T0211": {
+    "image_filename": "T0211.jpg",
+    "mask_path": "test/Masks/T0211.png",
+    "split": "test"
+  },
+  "T0212": {
+    "image_filename": "T0212.jpg",
+    "mask_path": "test/Masks/T0212.png",
+    "split": "test"
+  },
+  "T0213": {
+    "image_filename": "T0213.jpg",
+    "mask_path": "test/Masks/T0213.png",
+    "split": "test"
+  },
+  "T0214": {
+    "image_filename": "T0214.jpg",
+    "mask_path": "test/Masks/T0214.png",
+    "split": "test"
+  },
+  "T0215": {
+    "image_filename": "T0215.jpg",
+    "mask_path": "test/Masks/T0215.png",
+    "split": "test"
+  },
+  "T0216": {
+    "image_filename": "T0216.jpg",
+    "mask_path": "test/Masks/T0216.png",
+    "split": "test"
+  },
+  "T0217": {
+    "image_filename": "T0217.jpg",
+    "mask_path": "test/Masks/T0217.png",
+    "split": "test"
+  },
+  "T0218": {
+    "image_filename": "T0218.jpg",
+    "mask_path": "test/Masks/T0218.png",
+    "split": "test"
+  },
+  "T0219": {
+    "image_filename": "T0219.jpg",
+    "mask_path": "test/Masks/T0219.png",
+    "split": "test"
+  },
+  "T0220": {
+    "image_filename": "T0220.jpg",
+    "mask_path": "test/Masks/T0220.png",
+    "split": "test"
+  },
+  "T0221": {
+    "image_filename": "T0221.jpg",
+    "mask_path": "test/Masks/T0221.png",
+    "split": "test"
+  },
+  "T0222": {
+    "image_filename": "T0222.jpg",
+    "mask_path": "test/Masks/T0222.png",
+    "split": "test"
+  },
+  "T0223": {
+    "image_filename": "T0223.jpg",
+    "mask_path": "test/Masks/T0223.png",
+    "split": "test"
+  },
+  "T0224": {
+    "image_filename": "T0224.jpg",
+    "mask_path": "test/Masks/T0224.png",
+    "split": "test"
+  },
+  "T0225": {
+    "image_filename": "T0225.jpg",
+    "mask_path": "test/Masks/T0225.png",
+    "split": "test"
+  },
+  "T0226": {
+    "image_filename": "T0226.jpg",
+    "mask_path": "test/Masks/T0226.png",
+    "split": "test"
+  },
+  "T0227": {
+    "image_filename": "T0227.jpg",
+    "mask_path": "test/Masks/T0227.png",
+    "split": "test"
+  },
+  "T0228": {
+    "image_filename": "T0228.jpg",
+    "mask_path": "test/Masks/T0228.png",
+    "split": "test"
+  },
+  "T0229": {
+    "image_filename": "T0229.jpg",
+    "mask_path": "test/Masks/T0229.png",
+    "split": "test"
+  },
+  "T0230": {
+    "image_filename": "T0230.jpg",
+    "mask_path": "test/Masks/T0230.png",
+    "split": "test"
+  },
+  "T0231": {
+    "image_filename": "T0231.jpg",
+    "mask_path": "test/Masks/T0231.png",
+    "split": "test"
+  },
+  "T0232": {
+    "image_filename": "T0232.jpg",
+    "mask_path": "test/Masks/T0232.png",
+    "split": "test"
+  },
+  "T0233": {
+    "image_filename": "T0233.jpg",
+    "mask_path": "test/Masks/T0233.png",
+    "split": "test"
+  },
+  "T0234": {
+    "image_filename": "T0234.jpg",
+    "mask_path": "test/Masks/T0234.png",
+    "split": "test"
+  },
+  "T0235": {
+    "image_filename": "T0235.jpg",
+    "mask_path": "test/Masks/T0235.png",
+    "split": "test"
+  },
+  "T0236": {
+    "image_filename": "T0236.jpg",
+    "mask_path": "test/Masks/T0236.png",
+    "split": "test"
+  },
+  "T0237": {
+    "image_filename": "T0237.jpg",
+    "mask_path": "test/Masks/T0237.png",
+    "split": "test"
+  },
+  "T0238": {
+    "image_filename": "T0238.jpg",
+    "mask_path": "test/Masks/T0238.png",
+    "split": "test"
+  },
+  "T0239": {
+    "image_filename": "T0239.jpg",
+    "mask_path": "test/Masks/T0239.png",
+    "split": "test"
+  },
+  "T0240": {
+    "image_filename": "T0240.jpg",
+    "mask_path": "test/Masks/T0240.png",
+    "split": "test"
+  },
+  "T0241": {
+    "image_filename": "T0241.jpg",
+    "mask_path": "test/Masks/T0241.png",
+    "split": "test"
+  },
+  "T0242": {
+    "image_filename": "T0242.jpg",
+    "mask_path": "test/Masks/T0242.png",
+    "split": "test"
+  },
+  "T0243": {
+    "image_filename": "T0243.jpg",
+    "mask_path": "test/Masks/T0243.png",
+    "split": "test"
+  },
+  "T0244": {
+    "image_filename": "T0244.jpg",
+    "mask_path": "test/Masks/T0244.png",
+    "split": "test"
+  },
+  "T0245": {
+    "image_filename": "T0245.jpg",
+    "mask_path": "test/Masks/T0245.png",
+    "split": "test"
+  },
+  "T0246": {
+    "image_filename": "T0246.jpg",
+    "mask_path": "test/Masks/T0246.png",
+    "split": "test"
+  },
+  "T0247": {
+    "image_filename": "T0247.jpg",
+    "mask_path": "test/Masks/T0247.png",
+    "split": "test"
+  },
+  "T0248": {
+    "image_filename": "T0248.jpg",
+    "mask_path": "test/Masks/T0248.png",
+    "split": "test"
+  },
+  "T0249": {
+    "image_filename": "T0249.jpg",
+    "mask_path": "test/Masks/T0249.png",
+    "split": "test"
+  },
+  "T0250": {
+    "image_filename": "T0250.jpg",
+    "mask_path": "test/Masks/T0250.png",
+    "split": "test"
+  },
+  "T0251": {
+    "image_filename": "T0251.jpg",
+    "mask_path": "test/Masks/T0251.png",
+    "split": "test"
+  },
+  "T0252": {
+    "image_filename": "T0252.jpg",
+    "mask_path": "test/Masks/T0252.png",
+    "split": "test"
+  },
+  "T0253": {
+    "image_filename": "T0253.jpg",
+    "mask_path": "test/Masks/T0253.png",
+    "split": "test"
+  },
+  "T0254": {
+    "image_filename": "T0254.jpg",
+    "mask_path": "test/Masks/T0254.png",
+    "split": "test"
+  },
+  "T0255": {
+    "image_filename": "T0255.jpg",
+    "mask_path": "test/Masks/T0255.png",
+    "split": "test"
+  },
+  "T0256": {
+    "image_filename": "T0256.jpg",
+    "mask_path": "test/Masks/T0256.png",
+    "split": "test"
+  },
+  "T0257": {
+    "image_filename": "T0257.jpg",
+    "mask_path": "test/Masks/T0257.png",
+    "split": "test"
+  },
+  "T0258": {
+    "image_filename": "T0258.jpg",
+    "mask_path": "test/Masks/T0258.png",
+    "split": "test"
+  },
+  "T0259": {
+    "image_filename": "T0259.jpg",
+    "mask_path": "test/Masks/T0259.png",
+    "split": "test"
+  },
+  "T0260": {
+    "image_filename": "T0260.jpg",
+    "mask_path": "test/Masks/T0260.png",
+    "split": "test"
+  },
+  "T0261": {
+    "image_filename": "T0261.jpg",
+    "mask_path": "test/Masks/T0261.png",
+    "split": "test"
+  },
+  "T0262": {
+    "image_filename": "T0262.jpg",
+    "mask_path": "test/Masks/T0262.png",
+    "split": "test"
+  },
+  "T0263": {
+    "image_filename": "T0263.jpg",
+    "mask_path": "test/Masks/T0263.png",
+    "split": "test"
+  },
+  "T0264": {
+    "image_filename": "T0264.jpg",
+    "mask_path": "test/Masks/T0264.png",
+    "split": "test"
+  },
+  "T0265": {
+    "image_filename": "T0265.jpg",
+    "mask_path": "test/Masks/T0265.png",
+    "split": "test"
+  },
+  "T0266": {
+    "image_filename": "T0266.jpg",
+    "mask_path": "test/Masks/T0266.png",
+    "split": "test"
+  },
+  "T0267": {
+    "image_filename": "T0267.jpg",
+    "mask_path": "test/Masks/T0267.png",
+    "split": "test"
+  },
+  "T0268": {
+    "image_filename": "T0268.jpg",
+    "mask_path": "test/Masks/T0268.png",
+    "split": "test"
+  },
+  "T0269": {
+    "image_filename": "T0269.jpg",
+    "mask_path": "test/Masks/T0269.png",
+    "split": "test"
+  },
+  "T0270": {
+    "image_filename": "T0270.jpg",
+    "mask_path": "test/Masks/T0270.png",
+    "split": "test"
+  },
+  "T0271": {
+    "image_filename": "T0271.jpg",
+    "mask_path": "test/Masks/T0271.png",
+    "split": "test"
+  },
+  "T0272": {
+    "image_filename": "T0272.jpg",
+    "mask_path": "test/Masks/T0272.png",
+    "split": "test"
+  },
+  "T0273": {
+    "image_filename": "T0273.jpg",
+    "mask_path": "test/Masks/T0273.png",
+    "split": "test"
+  },
+  "T0274": {
+    "image_filename": "T0274.jpg",
+    "mask_path": "test/Masks/T0274.png",
+    "split": "test"
+  },
+  "T0275": {
+    "image_filename": "T0275.jpg",
+    "mask_path": "test/Masks/T0275.png",
+    "split": "test"
+  },
+  "T0276": {
+    "image_filename": "T0276.jpg",
+    "mask_path": "test/Masks/T0276.png",
+    "split": "test"
+  },
+  "T0277": {
+    "image_filename": "T0277.jpg",
+    "mask_path": "test/Masks/T0277.png",
+    "split": "test"
+  },
+  "T0278": {
+    "image_filename": "T0278.jpg",
+    "mask_path": "test/Masks/T0278.png",
+    "split": "test"
+  },
+  "T0279": {
+    "image_filename": "T0279.jpg",
+    "mask_path": "test/Masks/T0279.png",
+    "split": "test"
+  },
+  "T0280": {
+    "image_filename": "T0280.jpg",
+    "mask_path": "test/Masks/T0280.png",
+    "split": "test"
+  },
+  "T0281": {
+    "image_filename": "T0281.jpg",
+    "mask_path": "test/Masks/T0281.png",
+    "split": "test"
+  },
+  "T0282": {
+    "image_filename": "T0282.jpg",
+    "mask_path": "test/Masks/T0282.png",
+    "split": "test"
+  },
+  "T0283": {
+    "image_filename": "T0283.jpg",
+    "mask_path": "test/Masks/T0283.png",
+    "split": "test"
+  },
+  "T0284": {
+    "image_filename": "T0284.jpg",
+    "mask_path": "test/Masks/T0284.png",
+    "split": "test"
+  },
+  "T0285": {
+    "image_filename": "T0285.jpg",
+    "mask_path": "test/Masks/T0285.png",
+    "split": "test"
+  },
+  "T0286": {
+    "image_filename": "T0286.jpg",
+    "mask_path": "test/Masks/T0286.png",
+    "split": "test"
+  },
+  "T0287": {
+    "image_filename": "T0287.jpg",
+    "mask_path": "test/Masks/T0287.png",
+    "split": "test"
+  },
+  "T0288": {
+    "image_filename": "T0288.jpg",
+    "mask_path": "test/Masks/T0288.png",
+    "split": "test"
+  },
+  "T0289": {
+    "image_filename": "T0289.jpg",
+    "mask_path": "test/Masks/T0289.png",
+    "split": "test"
+  },
+  "T0290": {
+    "image_filename": "T0290.jpg",
+    "mask_path": "test/Masks/T0290.png",
+    "split": "test"
+  },
+  "T0291": {
+    "image_filename": "T0291.jpg",
+    "mask_path": "test/Masks/T0291.png",
+    "split": "test"
+  },
+  "T0292": {
+    "image_filename": "T0292.jpg",
+    "mask_path": "test/Masks/T0292.png",
+    "split": "test"
+  },
+  "T0293": {
+    "image_filename": "T0293.jpg",
+    "mask_path": "test/Masks/T0293.png",
+    "split": "test"
+  },
+  "T0294": {
+    "image_filename": "T0294.jpg",
+    "mask_path": "test/Masks/T0294.png",
+    "split": "test"
+  },
+  "T0295": {
+    "image_filename": "T0295.jpg",
+    "mask_path": "test/Masks/T0295.png",
+    "split": "test"
+  },
+  "T0296": {
+    "image_filename": "T0296.jpg",
+    "mask_path": "test/Masks/T0296.png",
+    "split": "test"
+  },
+  "T0297": {
+    "image_filename": "T0297.jpg",
+    "mask_path": "test/Masks/T0297.png",
+    "split": "test"
+  },
+  "T0298": {
+    "image_filename": "T0298.jpg",
+    "mask_path": "test/Masks/T0298.png",
+    "split": "test"
+  },
+  "T0299": {
+    "image_filename": "T0299.jpg",
+    "mask_path": "test/Masks/T0299.png",
+    "split": "test"
+  },
+  "T0300": {
+    "image_filename": "T0300.jpg",
+    "mask_path": "test/Masks/T0300.png",
+    "split": "test"
+  },
+  "T0301": {
+    "image_filename": "T0301.jpg",
+    "mask_path": "test/Masks/T0301.png",
+    "split": "test"
+  },
+  "T0302": {
+    "image_filename": "T0302.jpg",
+    "mask_path": "test/Masks/T0302.png",
+    "split": "test"
+  },
+  "T0303": {
+    "image_filename": "T0303.jpg",
+    "mask_path": "test/Masks/T0303.png",
+    "split": "test"
+  },
+  "T0304": {
+    "image_filename": "T0304.jpg",
+    "mask_path": "test/Masks/T0304.png",
+    "split": "test"
+  },
+  "T0305": {
+    "image_filename": "T0305.jpg",
+    "mask_path": "test/Masks/T0305.png",
+    "split": "test"
+  },
+  "T0306": {
+    "image_filename": "T0306.jpg",
+    "mask_path": "test/Masks/T0306.png",
+    "split": "test"
+  },
+  "T0307": {
+    "image_filename": "T0307.jpg",
+    "mask_path": "test/Masks/T0307.png",
+    "split": "test"
+  },
+  "T0308": {
+    "image_filename": "T0308.jpg",
+    "mask_path": "test/Masks/T0308.png",
+    "split": "test"
+  },
+  "T0309": {
+    "image_filename": "T0309.jpg",
+    "mask_path": "test/Masks/T0309.png",
+    "split": "test"
+  },
+  "T0310": {
+    "image_filename": "T0310.jpg",
+    "mask_path": "test/Masks/T0310.png",
+    "split": "test"
+  },
+  "T0311": {
+    "image_filename": "T0311.jpg",
+    "mask_path": "test/Masks/T0311.png",
+    "split": "test"
+  },
+  "T0312": {
+    "image_filename": "T0312.jpg",
+    "mask_path": "test/Masks/T0312.png",
+    "split": "test"
+  },
+  "T0313": {
+    "image_filename": "T0313.jpg",
+    "mask_path": "test/Masks/T0313.png",
+    "split": "test"
+  },
+  "T0314": {
+    "image_filename": "T0314.jpg",
+    "mask_path": "test/Masks/T0314.png",
+    "split": "test"
+  },
+  "T0315": {
+    "image_filename": "T0315.jpg",
+    "mask_path": "test/Masks/T0315.png",
+    "split": "test"
+  },
+  "T0316": {
+    "image_filename": "T0316.jpg",
+    "mask_path": "test/Masks/T0316.png",
+    "split": "test"
+  },
+  "T0317": {
+    "image_filename": "T0317.jpg",
+    "mask_path": "test/Masks/T0317.png",
+    "split": "test"
+  },
+  "T0318": {
+    "image_filename": "T0318.jpg",
+    "mask_path": "test/Masks/T0318.png",
+    "split": "test"
+  },
+  "T0319": {
+    "image_filename": "T0319.jpg",
+    "mask_path": "test/Masks/T0319.png",
+    "split": "test"
+  },
+  "T0320": {
+    "image_filename": "T0320.jpg",
+    "mask_path": "test/Masks/T0320.png",
+    "split": "test"
+  },
+  "T0321": {
+    "image_filename": "T0321.jpg",
+    "mask_path": "test/Masks/T0321.png",
+    "split": "test"
+  },
+  "T0322": {
+    "image_filename": "T0322.jpg",
+    "mask_path": "test/Masks/T0322.png",
+    "split": "test"
+  },
+  "T0323": {
+    "image_filename": "T0323.jpg",
+    "mask_path": "test/Masks/T0323.png",
+    "split": "test"
+  },
+  "T0324": {
+    "image_filename": "T0324.jpg",
+    "mask_path": "test/Masks/T0324.png",
+    "split": "test"
+  },
+  "T0325": {
+    "image_filename": "T0325.jpg",
+    "mask_path": "test/Masks/T0325.png",
+    "split": "test"
+  },
+  "T0326": {
+    "image_filename": "T0326.jpg",
+    "mask_path": "test/Masks/T0326.png",
+    "split": "test"
+  },
+  "T0327": {
+    "image_filename": "T0327.jpg",
+    "mask_path": "test/Masks/T0327.png",
+    "split": "test"
+  },
+  "T0328": {
+    "image_filename": "T0328.jpg",
+    "mask_path": "test/Masks/T0328.png",
+    "split": "test"
+  },
+  "T0329": {
+    "image_filename": "T0329.jpg",
+    "mask_path": "test/Masks/T0329.png",
+    "split": "test"
+  },
+  "T0330": {
+    "image_filename": "T0330.jpg",
+    "mask_path": "test/Masks/T0330.png",
+    "split": "test"
+  },
+  "T0331": {
+    "image_filename": "T0331.jpg",
+    "mask_path": "test/Masks/T0331.png",
+    "split": "test"
+  },
+  "T0332": {
+    "image_filename": "T0332.jpg",
+    "mask_path": "test/Masks/T0332.png",
+    "split": "test"
+  },
+  "T0333": {
+    "image_filename": "T0333.jpg",
+    "mask_path": "test/Masks/T0333.png",
+    "split": "test"
+  },
+  "T0334": {
+    "image_filename": "T0334.jpg",
+    "mask_path": "test/Masks/T0334.png",
+    "split": "test"
+  },
+  "T0335": {
+    "image_filename": "T0335.jpg",
+    "mask_path": "test/Masks/T0335.png",
+    "split": "test"
+  },
+  "T0336": {
+    "image_filename": "T0336.jpg",
+    "mask_path": "test/Masks/T0336.png",
+    "split": "test"
+  },
+  "T0337": {
+    "image_filename": "T0337.jpg",
+    "mask_path": "test/Masks/T0337.png",
+    "split": "test"
+  },
+  "T0338": {
+    "image_filename": "T0338.jpg",
+    "mask_path": "test/Masks/T0338.png",
+    "split": "test"
+  },
+  "T0339": {
+    "image_filename": "T0339.jpg",
+    "mask_path": "test/Masks/T0339.png",
+    "split": "test"
+  },
+  "T0340": {
+    "image_filename": "T0340.jpg",
+    "mask_path": "test/Masks/T0340.png",
+    "split": "test"
+  },
+  "T0341": {
+    "image_filename": "T0341.jpg",
+    "mask_path": "test/Masks/T0341.png",
+    "split": "test"
+  },
+  "T0342": {
+    "image_filename": "T0342.jpg",
+    "mask_path": "test/Masks/T0342.png",
+    "split": "test"
+  },
+  "T0343": {
+    "image_filename": "T0343.jpg",
+    "mask_path": "test/Masks/T0343.png",
+    "split": "test"
+  },
+  "T0344": {
+    "image_filename": "T0344.jpg",
+    "mask_path": "test/Masks/T0344.png",
+    "split": "test"
+  },
+  "T0345": {
+    "image_filename": "T0345.jpg",
+    "mask_path": "test/Masks/T0345.png",
+    "split": "test"
+  },
+  "T0346": {
+    "image_filename": "T0346.jpg",
+    "mask_path": "test/Masks/T0346.png",
+    "split": "test"
+  },
+  "T0347": {
+    "image_filename": "T0347.jpg",
+    "mask_path": "test/Masks/T0347.png",
+    "split": "test"
+  },
+  "T0348": {
+    "image_filename": "T0348.jpg",
+    "mask_path": "test/Masks/T0348.png",
+    "split": "test"
+  },
+  "T0349": {
+    "image_filename": "T0349.jpg",
+    "mask_path": "test/Masks/T0349.png",
+    "split": "test"
+  },
+  "T0350": {
+    "image_filename": "T0350.jpg",
+    "mask_path": "test/Masks/T0350.png",
+    "split": "test"
+  },
+  "T0351": {
+    "image_filename": "T0351.jpg",
+    "mask_path": "test/Masks/T0351.png",
+    "split": "test"
+  },
+  "T0352": {
+    "image_filename": "T0352.jpg",
+    "mask_path": "test/Masks/T0352.png",
+    "split": "test"
+  },
+  "T0353": {
+    "image_filename": "T0353.jpg",
+    "mask_path": "test/Masks/T0353.png",
+    "split": "test"
+  },
+  "T0354": {
+    "image_filename": "T0354.jpg",
+    "mask_path": "test/Masks/T0354.png",
+    "split": "test"
+  },
+  "T0355": {
+    "image_filename": "T0355.jpg",
+    "mask_path": "test/Masks/T0355.png",
+    "split": "test"
+  },
+  "T0356": {
+    "image_filename": "T0356.jpg",
+    "mask_path": "test/Masks/T0356.png",
+    "split": "test"
+  },
+  "T0357": {
+    "image_filename": "T0357.jpg",
+    "mask_path": "test/Masks/T0357.png",
+    "split": "test"
+  },
+  "T0358": {
+    "image_filename": "T0358.jpg",
+    "mask_path": "test/Masks/T0358.png",
+    "split": "test"
+  },
+  "T0359": {
+    "image_filename": "T0359.jpg",
+    "mask_path": "test/Masks/T0359.png",
+    "split": "test"
+  },
+  "T0360": {
+    "image_filename": "T0360.jpg",
+    "mask_path": "test/Masks/T0360.png",
+    "split": "test"
+  },
+  "T0361": {
+    "image_filename": "T0361.jpg",
+    "mask_path": "test/Masks/T0361.png",
+    "split": "test"
+  },
+  "T0362": {
+    "image_filename": "T0362.jpg",
+    "mask_path": "test/Masks/T0362.png",
+    "split": "test"
+  },
+  "T0363": {
+    "image_filename": "T0363.jpg",
+    "mask_path": "test/Masks/T0363.png",
+    "split": "test"
+  },
+  "T0364": {
+    "image_filename": "T0364.jpg",
+    "mask_path": "test/Masks/T0364.png",
+    "split": "test"
+  },
+  "T0365": {
+    "image_filename": "T0365.jpg",
+    "mask_path": "test/Masks/T0365.png",
+    "split": "test"
+  },
+  "T0366": {
+    "image_filename": "T0366.jpg",
+    "mask_path": "test/Masks/T0366.png",
+    "split": "test"
+  },
+  "T0367": {
+    "image_filename": "T0367.jpg",
+    "mask_path": "test/Masks/T0367.png",
+    "split": "test"
+  },
+  "T0368": {
+    "image_filename": "T0368.jpg",
+    "mask_path": "test/Masks/T0368.png",
+    "split": "test"
+  },
+  "T0369": {
+    "image_filename": "T0369.jpg",
+    "mask_path": "test/Masks/T0369.png",
+    "split": "test"
+  },
+  "T0370": {
+    "image_filename": "T0370.jpg",
+    "mask_path": "test/Masks/T0370.png",
+    "split": "test"
+  },
+  "T0371": {
+    "image_filename": "T0371.jpg",
+    "mask_path": "test/Masks/T0371.png",
+    "split": "test"
+  },
+  "T0372": {
+    "image_filename": "T0372.jpg",
+    "mask_path": "test/Masks/T0372.png",
+    "split": "test"
+  },
+  "T0373": {
+    "image_filename": "T0373.jpg",
+    "mask_path": "test/Masks/T0373.png",
+    "split": "test"
+  },
+  "T0374": {
+    "image_filename": "T0374.jpg",
+    "mask_path": "test/Masks/T0374.png",
+    "split": "test"
+  },
+  "T0375": {
+    "image_filename": "T0375.jpg",
+    "mask_path": "test/Masks/T0375.png",
+    "split": "test"
+  },
+  "T0376": {
+    "image_filename": "T0376.jpg",
+    "mask_path": "test/Masks/T0376.png",
+    "split": "test"
+  },
+  "T0377": {
+    "image_filename": "T0377.jpg",
+    "mask_path": "test/Masks/T0377.png",
+    "split": "test"
+  },
+  "T0378": {
+    "image_filename": "T0378.jpg",
+    "mask_path": "test/Masks/T0378.png",
+    "split": "test"
+  },
+  "T0379": {
+    "image_filename": "T0379.jpg",
+    "mask_path": "test/Masks/T0379.png",
+    "split": "test"
+  },
+  "T0380": {
+    "image_filename": "T0380.jpg",
+    "mask_path": "test/Masks/T0380.png",
+    "split": "test"
+  },
+  "T0381": {
+    "image_filename": "T0381.jpg",
+    "mask_path": "test/Masks/T0381.png",
+    "split": "test"
+  },
+  "T0382": {
+    "image_filename": "T0382.jpg",
+    "mask_path": "test/Masks/T0382.png",
+    "split": "test"
+  },
+  "T0383": {
+    "image_filename": "T0383.jpg",
+    "mask_path": "test/Masks/T0383.png",
+    "split": "test"
+  },
+  "T0384": {
+    "image_filename": "T0384.jpg",
+    "mask_path": "test/Masks/T0384.png",
+    "split": "test"
+  },
+  "T0385": {
+    "image_filename": "T0385.jpg",
+    "mask_path": "test/Masks/T0385.png",
+    "split": "test"
+  },
+  "T0386": {
+    "image_filename": "T0386.jpg",
+    "mask_path": "test/Masks/T0386.png",
+    "split": "test"
+  },
+  "T0387": {
+    "image_filename": "T0387.jpg",
+    "mask_path": "test/Masks/T0387.png",
+    "split": "test"
+  },
+  "T0388": {
+    "image_filename": "T0388.jpg",
+    "mask_path": "test/Masks/T0388.png",
+    "split": "test"
+  },
+  "T0389": {
+    "image_filename": "T0389.jpg",
+    "mask_path": "test/Masks/T0389.png",
+    "split": "test"
+  },
+  "T0390": {
+    "image_filename": "T0390.jpg",
+    "mask_path": "test/Masks/T0390.png",
+    "split": "test"
+  },
+  "T0391": {
+    "image_filename": "T0391.jpg",
+    "mask_path": "test/Masks/T0391.png",
+    "split": "test"
+  },
+  "T0392": {
+    "image_filename": "T0392.jpg",
+    "mask_path": "test/Masks/T0392.png",
+    "split": "test"
+  },
+  "T0393": {
+    "image_filename": "T0393.jpg",
+    "mask_path": "test/Masks/T0393.png",
+    "split": "test"
+  },
+  "T0394": {
+    "image_filename": "T0394.jpg",
+    "mask_path": "test/Masks/T0394.png",
+    "split": "test"
+  },
+  "T0395": {
+    "image_filename": "T0395.jpg",
+    "mask_path": "test/Masks/T0395.png",
+    "split": "test"
+  },
+  "T0396": {
+    "image_filename": "T0396.jpg",
+    "mask_path": "test/Masks/T0396.png",
+    "split": "test"
+  },
+  "T0397": {
+    "image_filename": "T0397.jpg",
+    "mask_path": "test/Masks/T0397.png",
+    "split": "test"
+  },
+  "T0398": {
+    "image_filename": "T0398.jpg",
+    "mask_path": "test/Masks/T0398.png",
+    "split": "test"
+  },
+  "T0399": {
+    "image_filename": "T0399.jpg",
+    "mask_path": "test/Masks/T0399.png",
+    "split": "test"
+  },
+  "T0400": {
+    "image_filename": "T0400.jpg",
+    "mask_path": "test/Masks/T0400.png",
+    "split": "test"
+  }
+}

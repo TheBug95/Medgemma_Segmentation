@@ -1,0 +1,124 @@
+# =============================================================================
+# CONFIG.YAML - Configuración Centralizada del Experimento
+# =============================================================================
+# Experimento de selección de clasificador CNN usando few-shot
+# NO hardcodear valores - todo aquí configurable
+# =============================================================================
+
+# Semilla global para reproducibilidad
+seed: 42
+
+# Datos REFUGE
+data:
+  # Ruta base al dataset REFUGE
+  data_dir: "../../Datasets/REFUGE"
+  # Ruta donde se guardará annotations.json y splits.json
+  output_dir: "./data"
+  # Tamaño de imagen para CNN (224x224)
+  image_size: [224, 224]
+  batch_size: 16
+  num_workers: 2
+  # Cachear imágenes en RAM (decodificadas + redimensionadas) para acelerar:
+  # REFUGE cabe en memoria y el val se relee muchísimo entre épocas/modelos.
+  # Activarlo fuerza num_workers=0 (ver nota en modules/data_module.py).
+  # Poner false para datasets grandes que no quepan en memoria.
+  cache_images: true
+
+# Backbones a evaluar
+backbones:
+  - resnet18
+  - efficientnet_b0
+  - densenet121
+
+# Clasificador - hiperparámetros del fine-tune (solo aplican a few_shot.method: finetune)
+classifier:
+  num_classes: 2  # glaucoma, normal
+  pretrained: true
+  # Training few-shot (solo finetune)
+  epochs: 30
+  lr: 0.0001
+  weight_decay: 0.00001
+  patience: 5
+  scheduler_factor: 0.5
+  scheduler_patience: 3
+
+# Few-shot experiment - mismo sampling para todos los backbones
+few_shot:
+  # Métodos que corre el experimento (el orquestador itera sobre estos → 6 configs
+  # = 3 backbones × 2 métodos). "euclidean" = prototipos congelados; "meta" =
+  # prototipos con meta-training episódico del backbone. ("finetune" = baseline.)
+  methods: [euclidean, meta]
+  # Método por defecto si se llama train_few_shot sin especificar (fallback).
+  method: euclidean
+  # Tamaños del support set a evaluar (cada uno BALANCED: N glaucoma + N normal).
+  # En el modo "meta", N = n_shot del meta-training. N en {1, 2, 3, 4, 5}.
+  n_samples: [1, 2, 3, 4, 5]
+  # Lista de seeds para las 5 iteraciones del experimento.
+  # REGLA: en la iteración i, TODOS los backbones usan seeds[i] → mismas imágenes
+  # y condiciones, comparación justa. Resultados finales = mean ± std sobre las 5.
+  seeds: [42, 123, 456, 789, 1024]
+  # Composición del support set. "balanced" = N glaucoma + N normal (lo correcto
+  # para 2 prototipos: se necesitan ambas clases). Ver SPEC §6.
+  support_mode: balanced
+
+# Meta-training episódico (solo para few_shot.method: meta)
+meta_training:
+  n_way: 2          # glaucoma vs normal (las 2 únicas clases)
+  n_query: 10       # imágenes de query por clase en cada episodio
+  n_episodes: 100   # número de tareas/episodios de entrenamiento
+  lr: 0.001         # Adam (como el ejemplo de EasyFSL)
+  augment: true     # augmentation en los episodios de meta-training
+  # n_shot NO va aquí: es el N del barrido (few_shot.n_samples).
+
+# Augmentations (solo train)
+augmentations:
+  horizontal_flip: true
+  rotation_degrees: 15
+  color_jitter_brightness: 0.1
+  color_jitter_contrast: 0.1
+  random_erasing: true
+  random_erasing_p: 0.2
+  # mixup desactivado: requiere soft-target loss y no aporta al score
+  # de selección. Dejado apagado para mantener el loop de train simple.
+  mixup: false
+  mixup_alpha: 0.2
+
+# Grad-CAM
+gradcam:
+  # Aplicar en la última capa conv del backbone
+  target_layer: "last_conv"
+  # Binarizar con este percentil
+  percentile: 95
+
+# Benchmark de inferencia
+benchmark:
+  batch_sizes: [1, 16]
+  num_runs: 100  # Para medir tiempo promedio
+
+# Rutas de resultados
+results_dir: "./results"
+
+# =============================================================================
+# FORMATO DE annotations.json (generado por convert_refuge_format.py):
+# {
+#   "image_id": {
+#     "image_filename": "g0001.jpg",
+#     "label": "glaucoma",              # o "normal" (minúsculas)
+#     "disease_category": "glaucoma",   # null si normal
+#     "disease_grading": {
+#       "cup_to_disc_ratio": 3,         # 0-4 escala
+#       "vcdr": 0.75                    # valor clínico
+#     },
+#     "mask_path": "Datasets/REFUGE/train/Masks/g0001.png",
+#     "split": "train"
+#   },
+#   ...
+# }
+#
+# FORMATO DE splits.json:
+# {
+#   "train": ["image_id_1", "image_id_2", ...],
+#   "val": ["image_id_X", ...],
+#   "test": ["image_id_Y", ...]
+# }
+# =============================================================================
