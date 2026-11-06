@@ -1,1 +1,0 @@
-Solo tener en cuenta el disco optico 
