@@ -4,6 +4,7 @@ Módulo de carga de SAM 2 Tiny.
 Fase 1 — Tarea 1.2
 - Carga SAM 2 Tiny (38.9M params) via sam2 API
 - Genera máscaras candidatas automáticas
+- Auto-descarga checkpoint si no existe localmente
 - NOTA: El score de SAM NO es confiable en imágenes médicas (per IGPL)
 
 Instalación SAM 2:
@@ -11,10 +12,19 @@ Instalación SAM 2:
     cd sam2 && pip install -e .
 """
 
+import logging
+import os
 import numpy as np
 import torch
 from sam2.build_sam import build_sam2
 from sam2.automatic_mask_generator import SAM2AutomaticMaskGenerator
+
+logger = logging.getLogger(__name__)
+
+# URL oficial de Meta para SAM 2.1 Tiny
+SAM2_CHECKPOINT_URL = (
+    "https://dl.fbaipublicfiles.com/segment_anything_2/092824/sam2.1_hiera_tiny.pt"
+)
 
 
 class SAMLoader:
@@ -32,13 +42,46 @@ class SAMLoader:
         self.sam = None
         self.mask_generator = None
 
+    @staticmethod
+    def download_checkpoint(dest_path: str = None,
+                            url: str = None) -> str:
+        """
+        Descarga el checkpoint de SAM 2.1 Tiny si no existe.
+
+        Args:
+            dest_path: ruta destino (default: DEFAULT_CHECKPOINT)
+            url: URL de descarga (default: URL oficial de Meta)
+
+        Returns:
+            str — ruta al checkpoint descargado
+        """
+        dest_path = dest_path or SAMLoader.DEFAULT_CHECKPOINT
+        url = url or SAM2_CHECKPOINT_URL
+
+        if os.path.exists(dest_path):
+            logger.info("Checkpoint ya existe en %s", dest_path)
+            return dest_path
+
+        os.makedirs(os.path.dirname(dest_path) or ".", exist_ok=True)
+        logger.info("Descargando SAM 2.1 Tiny checkpoint a %s ...", dest_path)
+        torch.hub.download_url_to_file(url, dest_path)
+        logger.info("Checkpoint descargado exitosamente.")
+        return dest_path
+
     def load(self):
         """
         Carga el modelo SAM 2 y crea el generador automático de máscaras.
+        Auto-descarga el checkpoint si no existe.
 
         Returns:
             tuple: (sam_model, mask_generator)
         """
+        # Auto-descargar checkpoint si no existe
+        if not os.path.exists(self.checkpoint):
+            logger.warning("Checkpoint no encontrado en %s. Descargando...",
+                           self.checkpoint)
+            self.download_checkpoint(self.checkpoint)
+
         self.sam = build_sam2(
             config_file=self.config,
             ckpt_path=self.checkpoint,

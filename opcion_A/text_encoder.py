@@ -45,6 +45,15 @@ class TextEncoder:
         self.model.eval()
         self.processor = AutoProcessor.from_pretrained(self.model_id)
 
+        # Liberar vision encoder (~1.5 GB VRAM) — solo se usa get_text_features()
+        # que internamente solo usa text_model + text_projection
+        if hasattr(self.model, 'vision_model') and self.model.vision_model is not None:
+            del self.model.vision_model
+            self.model.vision_model = None
+            if torch.cuda.is_available():
+                torch.cuda.empty_cache()
+            logger.info("Vision encoder eliminado de TextEncoder (ahorro ~1.5 GB VRAM)")
+
         # Verificar dimensión
         self.embedding_dim = self.model.config.text_config.hidden_size
         if self.embedding_dim != EXPECTED_EMBEDDING_DIM:

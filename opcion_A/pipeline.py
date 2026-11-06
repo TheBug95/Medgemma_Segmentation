@@ -13,6 +13,8 @@ import logging
 import numpy as np
 from PIL import Image
 
+from opcion_A.visualization import create_overlay
+
 from opcion_A.medgemma_loader import MedGemmaLoader
 from opcion_A.sam_loader import SAMLoader
 from opcion_A.feature_extractor import MaskFeatureExtractor
@@ -170,6 +172,8 @@ Ejemplo de uso:
     parser.add_argument("--support-set", default=None,
                         help="Ruta a support set embeddings (.pt) para modo fsl")
     parser.add_argument("--device", default="cuda", help="Dispositivo (cuda/cpu)")
+    parser.add_argument("--output", "-o", default=None,
+                        help="Ruta para guardar imagen con overlay (ej: resultado.png)")
     parser.add_argument("--verbose", action="store_true", help="Logging detallado")
     args = parser.parse_args()
 
@@ -212,6 +216,13 @@ Ejemplo de uso:
 
     if result.get('uncertainty') is not None:
         print(f"Incertidumbre: {result['uncertainty']:.4f}")
+
+    # Visualización
+    selected = result.get('selected_mask', result.get('mask'))
+    if selected is not None:
+        output_path = args.output or "resultado_medgemma_seg.png"
+        create_overlay(image, selected, result, output_path=output_path)
+        print(f"\nVisualización guardada en: {output_path}")
 
     pipeline.unload()
     print("\n✅ Pipeline completado.")
