@@ -1,0 +1,16 @@
+.cache/
+
+.claude/
+.codex/
+.agents/
+
+mem.txt
+
+checkpoints/
+
+#dataset/
+
+wandb/
+results/wandb/
+
+test/
