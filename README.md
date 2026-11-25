@@ -6,7 +6,7 @@ Reference implementation accompanying:
 > M. Abreu-Cárdenas, D. Xie-Li, D. Alexander-Vargas, J.P. Pérez-Delgado, S. Cabrera-Tabash, S. Calderon-Ramirez, M. Masis-Solano, A. Garcia-Pedrero, K. Dueñas Ángeles, G.A. Osorio Navarro.
 > Instituto Tecnológico de Costa Rica · Cornell Tech · Instituto Conde de Valencia · Universidad Politécnica de Madrid.
 
-The paper proposes a three-stage pipeline that conditions MedGemma on automatically generated optic-disc segmentations and predicted disease labels for structured glaucoma report generation. **This repository holds the code for Stage I (classification and routing) in [`Stage_I/`](Stage_I) and Stage III (conditioned MedGemma report generation) in [`Stage_III/`](Stage_III).** Stage II, the SAM 2.1 + LoRA segmentation, is not versioned here — its outputs enter Stage III as pre-rendered overlays.
+The paper proposes a three-stage pipeline that conditions MedGemma on automatically generated optic-disc segmentations and predicted disease labels for structured glaucoma report generation. This repository provides [Stage I](Stage_I) for classification and routing, [Stage II](Stage_II) for optic-disc segmentation, and [Stage III](Stage_III) for conditioned report generation.
 
 Dataset: [MM-ODIR-129](https://huggingface.co/datasets/TheBug95/MM-ODIR-129) on Hugging Face.
 
@@ -17,10 +17,10 @@ Dataset: [MM-ODIR-129](https://huggingface.co/datasets/TheBug95/MM-ODIR-129) on 
 | Stage | What the paper does | Code here |
 |---|---|---|
 | **I — Disease classification & routing** | A lightweight CNN predicts `glaucoma` / `normal`. Glaucoma cases are routed to segmentation; normal cases bypass it. The predicted label is also passed to MedGemma as prior clinical context. | ✅ [`Stage_I/`](Stage_I) |
-| **II — Conditional image preparation** | SAM 2.1 adapted with LoRA predicts a binary optic-disc mask, composited as a semi-transparent overlay `x_overlay`. | ❌ Not versioned here |
+| **II — Conditional image preparation** | SAM ViT-B adapted with LoRA predicts a binary optic-disc mask for the report-generation overlay. | ✅ [`Stage_II/`](Stage_II) |
 | **III — Report generation** | MedGemma 1.5 4B receives the (optionally overlaid) image plus a prompt carrying the predicted label; six conditioning configurations are compared against a raw-image baseline. | ✅ [`Stage_III/`](Stage_III) |
 
-Stage II's results still reach this repository as data: the segmentor masks and pre-rendered overlays it produced for the 26 test images ship in [`Stage_III/dataset/test/`](Stage_III/dataset), which is what makes the end-to-end *pipeline* evaluation source reproducible without re-running segmentation.
+Stage III also consumes the archived segmentation outputs for the test set. [Stage II](Stage_II) documents how to generate masks and evaluate them against the annotated optic discs.
 
 ---
 
@@ -48,6 +48,17 @@ Stage II's results still reach this repository as data: the segmentor masks and 
 | Bootstrap and Clopper–Pearson 95 % intervals | [`metrics_generation.py`](Stage_I/Classifier/Inference/metrics_generation.py) |
 | **Table 4** — deployed classifier performance | [`test_metrics.json`](Stage_I/Classifier/Inference/test_metrics.json) |
 | Per-image label and glaucoma probability consumed by Stage III | `per_image` in `test_metrics.json` → [`pipeline_classifications.json`](Stage_III/dataset) |
+
+### Stage II (paper §3.2 Stage II, §4.2)
+
+| Paper element | Implemented by |
+|---|---|
+| MM-ODIR-129 image loading, optic-disc masks and segmentation prompts | [`dataset.py`](Stage_II/modules/dataset.py) |
+| SAM ViT-B and LoRA adaptation | [`model.py`](Stage_II/modules/model.py), [`train.py`](Stage_II/scripts/train.py) and [`config.yaml`](Stage_II/config.yaml) |
+| Baseline and fine-tuned predictions, mask export and per-image metrics | [`inference.py`](Stage_II/scripts/inference.py) |
+| **Table 5** — mean IoU and Dice with 95% Student's t intervals | [`ci_iou_dice.py`](Stage_II/scripts/ci_iou_dice.py) |
+
+See the [Stage II instructions](Stage_II/README.md) for setup, commands, and the checkpoint provenance.
 
 ### Stage III (paper §3.2 Stage III, §3.3, §4.3)
 
@@ -88,6 +99,12 @@ Stage II's results still reach this repository as data: the segmentor masks and 
 │       ├── private_data_module.py        DataModule for the MM-ODIR-129 format
 │       ├── meta_nshot_experiment.ipynb   Support-size sweep (Table 3)
 │       └── Inference/                    Deployed-classifier inference + CIs (Table 4)
+│
+├── Stage_II/                             Optic-disc segmentation (Table 5)
+│   ├── modules/                          MM-ODIR-129, SAM + LoRA, training and inference
+│   ├── scripts/                          Train, predict masks and calculate confidence intervals
+│   ├── config.yaml                       Segmentation experiment settings
+│   └── README.md                         Stage II setup and commands
 │
 ├── Stage_III/                            Conditioned MedGemma report generation (Tables 6–7)
 │   ├── medgemma_utils/                   conditioning · dataset · evaluation · inputs · conditioner
@@ -396,7 +413,7 @@ A flat copy of MM-ODIR-129 ships in [`Stage_III/dataset/`](Stage_III/dataset) so
 
 ## 11. Known gaps
 
-- Stage II (SAM 2.1 + LoRA segmentation, Table 5) is not versioned here; only its outputs for the test split, shipped as masks and overlays under `Stage_III/dataset/test/`.
+- Figure 1 labels Stage II as SAM 2.1. The archived checkpoint and the Table 5 experiment use the original SAM ViT-B with LoRA.
 - Table 3's per-seed sweep results are written to Drive by the notebook and are not versioned.
 - The `Stage_III/slurm/` scripts hardcode cluster-specific paths and GPU constraints; they need editing before running elsewhere.
 - In the paper's Table 2, the IoU standard deviations for DenseNet-121/meta and EfficientNet-B0/meta appear transposed relative to the recorded results (`0.056 ± 0.024` and `0.036 ± 0.058` in print, against `0.056 ± 0.059` and `0.036 ± 0.024` in `selection_summary_few_shot(224x224).json`). Means and all other entries match exactly.
